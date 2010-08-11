@@ -1,0 +1,1272 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:t="http://purl.org/syndication/thread/1.0" xmlns:a="http://activitystrea.ms/spec/1.0/" xmlns:media="http//purl.org/syndication/atommedia">
+	<title>markpasc's Activity</title>
+	<link rel="self" type="application/atom+xml" href="http://profile.typepad.com/markpasc/activity/atom.xml"/>
+	<link rel="alternate" type="text/html" title="markpasc's Profile" href="http://profile.typepad.com/markpasc"/>
+	<link rel="hub" href="http://hubbub.api.typepad.com/"/>
+	<generator uri="http://www.typepad.com/">TypePad</generator>
+	<a:service>
+		<title>TypePad</title>
+		<link rel="icon" href="http://www.typepad.com/favicon.ico"/>
+		<link rel="alternate" href="http://www.typepad.com/"/>
+	</a:service>
+	<id>tag:typepad.com,2003:profile.typepad.com/services/activity/atom/</id>
+	<author>
+		<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
+		<name>markpasc</name>
+		<a:object-type>http://activitystrea.ms/schema/1.0/person</a:object-type>
+		<uri>http://profile.typepad.com/markpasc</uri>
+		<link rel="alternate" type="text/html" href="http://profile.typepad.com/markpasc"/>
+		<link rel="preview" type="image/jpeg" href="http://up3.typepad.com/6a00d83451ce6b69e20133f2e40bfd970b-75si"/>
+	</author>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20133f2f032eb970b</id>
+		<title type="text"> markpasc posted an entry </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/post</a:verb>
+		<published>2010-08-09T04:53:39Z</published>
+		<updated>2010-08-09T04:53:39Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20133f2f032de970b</id>
+			<title type="text">TV: Studio 60</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-08-09T04:53:38Z</published>
+			<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/08/tv-studio-60.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
+				<name>markpasc</name>
+				<uri>http://profile.typepad.com/markpasc</uri>
+			</author>
+			<content type="html">&lt;p class="at-xid-6a00d83451ce6b69e20133f2f03453970b"&gt;Oh, cool:&lt;/p&gt; &lt;p&gt;&lt;style type='text/css'&gt;.bbpBox20580548627 {background:url(http://a3.twimg.com/profile_background_images/46344623/fcptwitterbackground_02.jpg) #4B4B4B;padding:20px;} p.bbpTweet{background:#fff;padding:10px 12px 10px 12px;margin:0;min-height:48px;color:#000;font-size:18px !important;line-height:22px;-moz-border-radius:5px;-webkit-border-radius:5px} p.bbpTweet span.metadata{display:block;width:100%;clear:both;margin-top:8px;padding-top:12px;height:40px;border-top:1px solid #fff;border-top:1px solid #e6e6e6} p.bbpTweet span.metadata span.author{line-height:19px} p.bbpTweet span.metadata span.author img{float:left;margin:0 7px 0 0px;width:38px;height:38px} p.bbpTweet a:hover{text-decoration:underline}p.bbpTweet span.timestamp{font-size:12px;display:block}&lt;/style&gt; &lt;div class='bbpBox20580548627'&gt;&lt;p class='bbpTweet'&gt;Goddamn. The Studio 60 pilot is so incredible. It brings me to tears everytime I watch it. If you haven't seen it, queue it up on Netflix.&lt;span class='timestamp'&gt;&lt;a title='Sat Aug 07 21:57:30 +0000 2010' href='http://twitter.com/ryanodonnell/status/20580548627'&gt;less than a minute ago&lt;/a&gt; via &lt;a href="http://twitterrific.com" rel="nofollow"&gt;Twitterrific&lt;/a&gt;&lt;/span&gt;&lt;span class='metadata'&gt;&lt;span class='author'&gt;&lt;a href='http://twitter.com/ryanodonnell'&gt;&lt;img src='http://a1.twimg.com/profile_images/272137841/profile_newmuseum_normal.jpg' /&gt;&lt;/a&gt;&lt;strong&gt;&lt;a href='http://twitter.com/ryanodonnell'&gt;Ryan O'Donnell&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;ryanodonnell&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="http://www.netflix.com/WiMovie/Studio_60_on_the_Sunset_Strip_The_Complete_Series/70057023"&gt;&lt;em&gt;Studio 60 on the Sunset Strip&lt;/em&gt;&lt;/a&gt; is on Netflix streaming &lt;a href="http://markpasc.typepad.com/blog/2010/08/patv.html"&gt;too&lt;/a&gt;.&lt;/p&gt; &lt;div id="studio-60-netflix-box" class="netflix-box netflix-box-center pkg"&gt; &lt;a href="http://www.netflix.com/WiMovie/Studio_60_on_the_Sunset_Strip_The_Complete_Series/70057023"&gt;&lt;img class="boxshot" src="http://cdn-7.nflximg.com/us/boxshots/large/70057023.jpg" width="110" height="150"&gt;&lt;/a&gt; &lt;script src="http://jsapi.netflix.com/us/api/js/api.js"&gt; { "title_id" : "http://api.netflix.com/catalog/movie/70057023", "button_type" : ["PLAY_BUTTON", "ADD_BUTTON"], "show_logo" : "true", "x" : "40", "y" : "20", "dom_id" : "studio-60-netflix-box", "application_id": "7hh3quudsagcubp5g6v5navw" } &lt;/script&gt; &lt;/div&gt; </content>
+		</a:object>
+		<content type="html"> &lt;p class="at-xid-6a00d83451ce6b69e20133f2f03453970b"&gt;Oh, cool:&lt;/p&gt; &lt;p&gt;&lt;style type='text/css'&gt;.bbpBox20580548627 {background:url(http://a3.twimg.com/profile_background_images/46344623/fcptwitterbackground_02.jpg) #4B4B4B;padding:20px;} p.bbpTweet{background:#fff;padding:10px 12px 10px 12px;margin:0;min-height:48px;color:#000;font-size:18px !important;line-height:22px;-moz-border-radius:5px;-webkit-border-radius:5px} p.bbpTweet span.metadata{display:block;width:100%;clear:both;margin-top:8px;padding-top:12px;height:40px;border-top:1px solid #fff;border-top:1px solid #e6e6e6} p.bbpTweet span.metadata span.author{line-height:19px} p.bbpTweet span.metadata span.author img{float:left;margin:0 7px 0 0px;width:38px;height:38px} p.bbpTweet a:hover{text-decoration:underline}p.bbpTweet span.timestamp{font-size:12px;display:block}&lt;/style&gt; &lt;div class='bbpBox20580548627'&gt;&lt;p class='bbpTweet'&gt;Goddamn. The Studio 60 pilot is so incredible. It brings me to tears everytime I watch it. If you haven't seen it, queue it up on Netflix.&lt;span class='timestamp'&gt;&lt;a title='Sat Aug 07 21:57:30 +0000 2010' href='http://twitter.com/ryanodonnell/status/20580548627'&gt;less than a minute ago&lt;/a&gt; via &lt;a href="http://twitterrific.com" rel="nofollow"&gt;Twitterrific&lt;/a&gt;&lt;/span&gt;&lt;span class='metadata'&gt;&lt;span class='author'&gt;&lt;a href='http://twitter.com/ryanodonnell'&gt;&lt;img src='http://a1.twimg.com/profile_images/272137841/profile_newmuseum_normal.jpg' /&gt;&lt;/a&gt;&lt;strong&gt;&lt;a href='http://twitter.com/ryanodonnell'&gt;Ryan O'Donnell&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;ryanodonnell&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="http://www.netflix.com/WiMovie/Studio_60_on_the_Sunset_Strip_The_Complete_Series/70057023"&gt;&lt;em&gt;Studio 60 on the Sunset Strip&lt;/em&gt;&lt;/a&gt; is on Netflix streaming &lt;a href="http://markpasc.typepad.com/blog/2010/08/patv.html"&gt;too&lt;/a&gt;.&lt;/p&gt; &lt;div id="studio-60-netflix-box" class="netflix-box netflix-box-center pkg"&gt; &lt;a href="http://www.netflix.com/WiMovie/Studio_60_on_the_Sunset_Strip_The_Complete_Series/70057023"&gt;&lt;img class="boxshot" src="http://cdn-7.nflximg.com/us/boxshots/large/70057023.jpg" width="110" height="150"&gt;&lt;/a&gt; &lt;script src="http://jsapi.netflix.com/us/api/js/api.js"&gt; { "title_id" : "http://api.netflix.com/catalog/movie/70057023", "button_type" : ["PLAY_BUTTON", "ADD_BUTTON"], "show_logo" : "true", "x" : "40", "y" : "20", "dom_id" : "studio-60-netflix-box", "application_id": "7hh3quudsagcubp5g6v5navw" } &lt;/script&gt; &lt;/div&gt; </content>
+		<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/08/tv-studio-60.html"/>
+		<a:target>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20120a81fb3a4970b</id>
+			<title type="text">markpasc</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/blog</a:object-type>
+		</a:target>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20133f2efc935970b</id>
+		<title type="text"> markpasc posted an entry </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/post</a:verb>
+		<published>2010-08-09T02:58:14Z</published>
+		<updated>2010-08-09T02:58:14Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20133f2efc933970b</id>
+			<title type="text">Wiggins on Barks</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-08-09T02:58:14Z</published>
+			<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/08/wiggins-on-barks.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
+				<name>markpasc</name>
+				<uri>http://profile.typepad.com/markpasc</uri>
+			</author>
+			<content type="html">&lt;blockquote&gt;&lt;p&gt;[H]e&#x2019;s a perfect example of a man given a tiny, dreary corner in which he can be creative, and instead of going through the motions... he poured his soul into it, and channeled a rich inner life into a universe of ducks....&lt;/p&gt;&lt;/blockquote&gt; &lt;p&gt;&lt;small&gt;via &lt;a href="http://blog.mondotees.com/2009/11/19/the-universe-according-to-scrooge-mcduck/"&gt;blog.mondotees.com&lt;/a&gt;&lt;/small&gt;&lt;/p&gt; </content>
+		</a:object>
+		<content type="html"> &lt;blockquote&gt;&lt;p&gt;[H]e&#x2019;s a perfect example of a man given a tiny, dreary corner in which he can be creative, and instead of going through the motions... he poured his soul into it, and channeled a rich inner life into a universe of ducks....&lt;/p&gt;&lt;/blockquote&gt; &lt;p&gt;&lt;small&gt;via &lt;a href="http://blog.mondotees.com/2009/11/19/the-universe-according-to-scrooge-mcduck/"&gt;blog.mondotees.com&lt;/a&gt;&lt;/small&gt;&lt;/p&gt; </content>
+		<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/08/wiggins-on-barks.html"/>
+		<a:target>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20120a81fb3a4970b</id>
+			<title type="text">markpasc</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/blog</a:object-type>
+		</a:target>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20133f2eb316a970b</id>
+		<title type="text"> markpasc posted an entry </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/post</a:verb>
+		<published>2010-08-08T03:22:19Z</published>
+		<updated>2010-08-08T03:22:19Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20133f2eb3165970b</id>
+			<title type="text">Arkham Horror</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-08-08T03:22:19Z</published>
+			<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/08/arkham-horror.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
+				<name>markpasc</name>
+				<uri>http://profile.typepad.com/markpasc</uri>
+			</author>
+			<content type="html">&lt;p&gt;&lt;img class="asset asset-image at-xid-6a00d83451ce6b69e20133f2eb3161970b " src="http://markpasc.typepad.com/.a/6a00d83451ce6b69e20133f2eb3161970b-580wi" alt="" width="500" height="261" /&gt;&lt;/p&gt; &lt;p&gt;&lt;small&gt;via &lt;a href="http://arstechnica.com/gaming/news/2010/08/arkham-horror-may-not-be-easy-but-it-sure-is-great.ars"&gt;arstechnica.com&lt;/a&gt;&lt;/small&gt;&lt;/p&gt; &lt;p&gt;I'd like to read about more games for this &#x201C;Your table&#x201D; platform.&lt;/p&gt;</content>
+		</a:object>
+		<content type="html"> &lt;p&gt;&lt;img class="asset asset-image at-xid-6a00d83451ce6b69e20133f2eb3161970b " src="http://markpasc.typepad.com/.a/6a00d83451ce6b69e20133f2eb3161970b-580wi" alt="" width="500" height="261" /&gt;&lt;/p&gt; &lt;p&gt;&lt;small&gt;via &lt;a href="http://arstechnica.com/gaming/news/2010/08/arkham-horror-may-not-be-easy-but-it-sure-is-great.ars"&gt;arstechnica.com&lt;/a&gt;&lt;/small&gt;&lt;/p&gt; &lt;p&gt;I'd like to read about more games for this &#x201C;Your table&#x201D; platform.&lt;/p&gt;</content>
+		<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/08/arkham-horror.html"/>
+		<a:target>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20120a81fb3a4970b</id>
+			<title type="text">markpasc</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/blog</a:object-type>
+		</a:target>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20134860d7010970c</id>
+		<title type="text"> markpasc added 'Wiley Wiggins' as a favorite </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/favorite</a:verb>
+		<published>2010-08-07T20:44:13Z</published>
+		<updated>2010-08-07T20:44:13Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00d8341e3ac753ef0133f2e9aeda970b</id>
+			<title type="text">Wiley Wiggins</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-08-07T19:26:39Z</published>
+			<link rel="alternate" type="text/html" href="http://hello.typepad.com/hello/2010/08/iama-wiley-wiggins-iama.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d8341e3ac753ef</id>
+				<name>David Jacobs</name>
+				<uri>http://profile.typepad.com/david</uri>
+			</author>
+			<content type="html">&lt;blockquote&gt; &lt;p class="tagline"&gt;&lt;a class="author id-t2_3ozl8" href="http://www.reddit.com/user/gamewav"&gt;gamewav&lt;/a&gt;&lt;span class="userattrs"&gt; &lt;/span&gt; -&amp;#0160;Have you ever met Tim Lincecum?&lt;/p&gt; &lt;p class="tagline"&gt;&lt;a class="author submitter id-t2_48izf" href="http://www.reddit.com/user/vorpaldinger"&gt;vorpaldinger&lt;/a&gt;&lt;span class="userattrs"&gt; - &lt;/span&gt;No, but I imagine this is another person I&amp;#39;d have to get in a sword fight with. There can be only one.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Otherwise thoughtful &lt;a href="http://www.reddit.com/r/IAmA/comments/cyal4/iama_wiley_wiggins/"&gt;Q&amp;amp;A&lt;/a&gt; with &lt;a href="http://wileywiggins.com/" target="_self"&gt;friend of hello, typepad Wiley Wiggins&lt;/a&gt; (vorpaldinger).&lt;/p&gt;</content>
+		</a:object>
+		<content type="html"> &lt;blockquote&gt; &lt;p class="tagline"&gt;&lt;a class="author id-t2_3ozl8" href="http://www.reddit.com/user/gamewav"&gt;gamewav&lt;/a&gt;&lt;span class="userattrs"&gt; &lt;/span&gt; -&amp;#0160;Have you ever met Tim Lincecum?&lt;/p&gt; &lt;p class="tagline"&gt;&lt;a class="author submitter id-t2_48izf" href="http://www.reddit.com/user/vorpaldinger"&gt;vorpaldinger&lt;/a&gt;&lt;span class="userattrs"&gt; - &lt;/span&gt;No, but I imagine this is another person I&amp;#39;d have to get in a sword fight with. There can be only one.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Otherwise thoughtful &lt;a href="http://www.reddit.com/r/IAmA/comments/cyal4/iama_wiley_wiggins/"&gt;Q&amp;amp;A&lt;/a&gt; with &lt;a href="http://wileywiggins.com/" target="_self"&gt;friend of hello, typepad Wiley Wiggins&lt;/a&gt; (vorpaldinger).&lt;/p&gt;</content>
+		<link rel="alternate" type="text/html" href="http://hello.typepad.com/hello/2010/08/iama-wiley-wiggins-iama.html"/>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20134860a124a970c</id>
+		<title type="text"> markpasc added 'Hanging with @sixapart peeps' as a favorite </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/favorite</a:verb>
+		<published>2010-08-07T03:44:30Z</published>
+		<updated>2010-08-07T03:44:30Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a01127947363b28a4013486096add970c</id>
+			<title type="text">Hanging with @sixapart peeps</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-08-07T00:35:49Z</published>
+			<link rel="alternate" type="text/html" href="http://www.badnima.com/2010/08/hanging-with-sixapart-peeps.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p01127947363b28a4</id>
+				<name>Nima Badiey</name>
+				<uri>http://profile.typepad.com/badnima</uri>
+			</author>
+			<content type="html">&lt;p&gt;&lt;br/&gt; &lt;!-- (DWIM) attachments start here --&gt;&lt;/p&gt; &lt;p&gt;&lt;a style="display: inline;" href="http://chromehorse.typepad.com/files/img00127201008061729.jpg"&gt;&lt;img class="asset asset-image at-xid-6a01127947363b28a4013486096ad7970c" alt="IMG00127-20100806-1729.jpg" src="http://chromehorse.typepad.com/.a/6a01127947363b28a4013486096ad7970c-580wi" /&gt;&lt;/a&gt; &lt;br /&gt;&lt;/p&gt;</content>
+		</a:object>
+		<content type="html"> &lt;p&gt;&lt;br/&gt; &lt;!-- (DWIM) attachments start here --&gt;&lt;/p&gt; &lt;p&gt;&lt;a style="display: inline;" href="http://chromehorse.typepad.com/files/img00127201008061729.jpg"&gt;&lt;img class="asset asset-image at-xid-6a01127947363b28a4013486096ad7970c" alt="IMG00127-20100806-1729.jpg" src="http://chromehorse.typepad.com/.a/6a01127947363b28a4013486096ad7970c-580wi" /&gt;&lt;/a&gt; &lt;br /&gt;&lt;/p&gt;</content>
+		<link rel="alternate" type="text/html" href="http://www.badnima.com/2010/08/hanging-with-sixapart-peeps.html"/>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20133f2e5bf7f970b</id>
+		<title type="text"> markpasc added 'a face' as a favorite </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/favorite</a:verb>
+		<published>2010-08-07T00:08:55Z</published>
+		<updated>2010-08-07T00:08:55Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a010535617444970b0133f2e578f3970b</id>
+			<title type="text">a face</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/photo</a:object-type>
+			<published>2010-08-06T22:41:06Z</published>
+			<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a010535617444970b0133f2e578f3970b"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p010535617444970b</id>
+				<name>Martin Atkins</name>
+				<uri>http://profile.typepad.com/apparentlymart</uri>
+			</author>
+			<link rel="preview" type="image/jpeg" href="http://a3.typepad.com/6a010535617444970b0133f2e578f3970b-150si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a3.typepad.com/6a010535617444970b0133f2e578f3970b-640si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a3.typepad.com/6a010535617444970b0133f2e578f3970b-pi"/>
+			<content type="html"/>
+		</a:object>
+		<content type="html"> </content>
+		<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a010535617444970b0133f2e578f3970b"/>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20133f2e5a77c970b</id>
+		<title type="text"> markpasc posted something </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/post</a:verb>
+		<published>2010-08-06T23:39:43Z</published>
+		<updated>2010-08-06T23:39:43Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20133f2e5a77b970b</id>
+			<title type="text"/>
+			<a:object-type>http://activitystrea.ms/schema/1.0/comment</a:object-type>
+		</a:object>
+		<content type="html"> </content>
+		<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/08/being-geek.html?cid=6a00d83451ce6b69e20133f2e5a77b970b#comment-6a00d83451ce6b69e20133f2e5a77b970b"/>
+		<a:target>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20120a81fb3a4970b</id>
+			<title type="text">markpasc</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/blog</a:object-type>
+		</a:target>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20133f2e55d6b970b</id>
+		<title type="text"> markpasc is now following Manipulated Minds </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/follow</a:verb>
+		<published>2010-08-06T22:09:49Z</published>
+		<updated>2010-08-06T22:09:49Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6p0120a6306119970b</id>
+			<title type="text">Manipulated Minds</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/person</a:object-type>
+			<link rel="alternate" type="text/html" href="http://profile.typepad.com/6p0120a6306119970b"/>
+			<link rel="preview" type="image/jpeg" href="http://up1.typepad.com/6a0120a6306119970b012875e62f04970c-75si"/>
+		</a:object>
+		<content type="html"> </content>
+		<link rel="alternate" type="text/html" href="http://profile.typepad.com/6p0120a6306119970b"/>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20134860885f5970c</id>
+		<title type="text"> markpasc posted an entry </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/post</a:verb>
+		<published>2010-08-06T20:30:05Z</published>
+		<updated>2010-08-06T20:30:05Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20134860885f1970c</id>
+			<title type="text">WebOS</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-08-06T20:30:05Z</published>
+			<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/08/webos.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
+				<name>markpasc</name>
+				<uri>http://profile.typepad.com/markpasc</uri>
+			</author>
+			<content type="html">&lt;blockquote&gt; &lt;p&gt;Phone's OS is outta date (first world problem)&lt;br&gt; Colors won't calibrate (first world problem)&lt;/p&gt; &lt;/blockquote&gt; &lt;p class="at-xid-6a00d83451ce6b69e201348608636e970c" style="text-align: right"&gt;&amp;mdash;&lt;a href="http://www.youtube.com/watch?v=M3w1_E1V46M"&gt;MC Frontalot&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="http://markpasc.typepad.com/.a/6a00d83451ce6b69e20133f2e4de4e970b-pi"&gt;&lt;img class="asset asset-image at-xid-6a00d83451ce6b69e20133f2e4de4e970b" style="float: right; margin: 0 0 10px 10px;" alt="Paperplain" src="http://markpasc.typepad.com/.a/6a00d83451ce6b69e20133f2e4de4e970b-150wi" width="150" height="189" /&gt;&lt;/a&gt;I never got around to writing about the first Palm webOS app I wrote for &lt;a href="http://markpasc.typepad.com/blog/2010/04/a-week-with-the-palm-pre.html"&gt;my Palm Pre Plus&lt;/a&gt;, but I did, and it was kind of neat. It's &lt;a href="http://github.com/markpasc/paperplain"&gt;a wallpaper switcher&lt;/a&gt; that works with photos you sync over to it, and I was able to (eventually) get it completely working, at least on my phone. It's a little janky in that the swapping is hardcoded to every six hours, and it's a pain to add wallpaper, but since webOS doesn't offer any filesystem operations to "real" webOS apps, that'll have to do. (You have to "Add wallpaper" and pick the next one individually for &lt;em&gt;every wallpaper&lt;/em&gt; you want to cycle through; really annoying for the 60 or so I wanted on there.)&lt;/p&gt; &lt;p&gt;&lt;a href="http://markpasc.typepad.com/.a/6a00d83451ce6b69e20134860879c7970c-pi"&gt;&lt;img class="asset asset-image at-xid-6a00d83451ce6b69e20134860879c7970c" style="float: left; margin: 0 10px 10px 0;" alt="Make-a-face" src="http://markpasc.typepad.com/.a/6a00d83451ce6b69e20134860879c7970c-150wi" width="150" height="204" /&gt;&lt;/a&gt;Since then I started making the first &lt;a href="http://make-a-face.org/"&gt;Make A Face&lt;/a&gt; mobile app, which has been even more annoying. My current strategy has been to use just a plain &lt;a href="http://developer.palm.com/index.php?option=com_content&amp;amp;view=article&amp;amp;id=1935"&gt;WebView widget&lt;/a&gt; that loads the site, and use its &lt;code&gt;addUrlRedirect()&lt;/code&gt; method to intercept requests to a special URL to trigger special app behavior. (The web site can't tell if it's an app, of course, so this URL will be a "use one of these fine apps!" navitorial page when you use a plain mobile browser.) Seems like this strategy is supported on Android, too, so hopefully an iPhone app could do something similar as well.&lt;/p&gt; &lt;p&gt;While I eventually figured out how to get the camera to trigger and work, that only brought me one rung up the problem ladder. Since this is an app for a mobile device, I don't suppose it would be kind to try to upload a whole megabyte of full-resolution JPEG over a cellular link. (Even when I try to do that in dev, on a snappy wifi network, a few hours I'm not getting back discovered Django ends up taking way too long to un-MIME the &lt;code&gt;multipart/form-data&lt;/code&gt; request, making the load balancer time out before it's done.)&lt;/p&gt; &lt;p&gt;In a real program, of course, I would need only resize the image before uploading. Even a modern contender for leading mobile OS should have &lt;em&gt;something&lt;/em&gt; to let me do this (especially since so many other apps using the camera surely need similar support). WebOS, however, does not; while I could create a dummy WebView to display the image so I can &lt;code&gt;saveViewToFile()&lt;/code&gt; a smaller version to disk, that method only produces PNG images. Such an image would still clock in at 400 KB (according to this tiny manual test I just did), so that probably still won't work.&lt;/p&gt; &lt;p&gt;The doubly disappointing part about being restricted to "web" technologies in webOS is how superficial its webbiness is. In reality it's an application runtime plopped ramshackly atop Webkit. If you say "you write applications in HTML and javascript!" then you would expect to, say, add a button in your application like so:&lt;/p&gt; &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;&amp;lt;button&lt;/span&gt; &lt;span class="na"&gt;id=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;do-thing&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;Do a thing&lt;span class="nt"&gt;&amp;lt;/button&amp;gt;&lt;/span&gt; &lt;span class="nt"&gt;&amp;lt;script &lt;/span&gt;&lt;span class="na"&gt;type=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;text/javascript&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt; &lt;span class="nx"&gt;$&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;#do-thing&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;).&lt;/span&gt;&lt;span class="nx"&gt;click&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="kd"&gt;function&lt;/span&gt; &lt;span class="p"&gt;()&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="nx"&gt;doAThing&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt; &lt;span class="p"&gt;});&lt;/span&gt; &lt;span class="nt"&gt;&amp;lt;/script&amp;gt;&lt;/span&gt; &lt;/pre&gt;&lt;/div&gt; &lt;p&gt;but a webOS application is really more like:&lt;/p&gt; &lt;h4 class="highlight-label"&gt;sources.json&lt;/h4&gt; &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="p"&gt;[&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;scenes&amp;quot;&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;main&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;source&amp;quot;&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;app/assistants/main-assistant.js&amp;quot;&lt;/span&gt; &lt;span class="p"&gt;}&lt;/span&gt; &lt;span class="p"&gt;]&lt;/span&gt; &lt;/pre&gt;&lt;/div&gt; &lt;h4 class="highlight-label"&gt;app/views/main/main-scene.html&lt;/h4&gt; &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;&amp;lt;div&lt;/span&gt; &lt;span class="na"&gt;x-mojo-element=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;Button&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;id=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;do-thing&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&amp;lt;/div&amp;gt;&lt;/span&gt; &lt;/pre&gt;&lt;/div&gt; &lt;h4 class="highlight-label"&gt;app/assistants/main-assistant.js&lt;/h4&gt; &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="kd"&gt;function&lt;/span&gt; &lt;span class="nx"&gt;MainAssistant&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt; &lt;span class="p"&gt;{}&lt;/span&gt; &lt;span class="nx"&gt;MainAssistant&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;prototype&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;setup&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="kd"&gt;function&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="k"&gt;this&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;setupWidget&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;do-thing&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="k"&gt;this&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;dothingAttr&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="nx"&gt;label&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;Do a thing&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="p"&gt;},&lt;/span&gt; &lt;span class="k"&gt;this&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;dothingModel&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;{});&lt;/span&gt; &lt;span class="nx"&gt;Mojo&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;Event&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;listen&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="k"&gt;this&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;get&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;do-thing&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt; &lt;span class="nx"&gt;Mojo&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;Event&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;tap&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="k"&gt;this&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;handleDoAThing&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;bind&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="k"&gt;this&lt;/span&gt;&lt;span class="p"&gt;));&lt;/span&gt; &lt;span class="p"&gt;};&lt;/span&gt; &lt;span class="nx"&gt;MainAssistant&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;prototype&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;handleDoAThing&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="kd"&gt;function&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;event&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="nx"&gt;doAThing&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt; &lt;span class="p"&gt;};&lt;/span&gt; &lt;/pre&gt;&lt;/div&gt; &lt;p&gt;There are several layers of misunderstanding muffling the simple idea that "the web page is the app." It gets old fast.&lt;/p&gt; &lt;p&gt;Newer versions of webOS do offer a way to break out of that marketecture straitjacket, which is that you can write "plug-ins" in compiled code that run as standalone applications (a regular "PDK" app) or inside a managed "web" application (they call these "hybrid" apps). Only the former is well supported, because it was an emergency effort to let people port games to the devices.&lt;/p&gt; &lt;p&gt;Unfortunately I hadn't noticed a couple gotchas that exist for plugins. One is that the SDK tools will only build either standalone PDK apps that run on the desktop from Xcode or ARM plugin binaries that run on the device, not x86 plugin binaries that run in the SDK's Virtualbox emulator. The other is that the hybrid plugin apps are only supported in webOS 1.4.5, which I mistakenly assumed was the latest existing release&#x2014;but it's not, that's 1.4.1.1. Since I have a real device with Verizon service, I'm not allowed to update the OS until Verizon makes it available.&lt;/p&gt; &lt;p&gt;That is, the gotchas for hybrid apps are:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;You can't yet use them in the emulator.&lt;/li&gt; &lt;li&gt;You can't yet use them on the device.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;I guess I can leave the paved path and try to compile an x86 plugin binary for the emulator, but that plugins don't work in the emulator is &lt;a href="http://developer.palm.com/index.php?option=com_content&amp;amp;view=article&amp;amp;id=2049&amp;amp;Itemid=331#UsingWebOSemulator"&gt;documented in the FAQ&lt;/a&gt;. In fact, that answer seems to cover regular PDK apps too, so there's no reason to think the emulator OS supports running non-"web" apps at all (other than that it's just a Virtualbox image, so it's strange that they would prevent binaries from running like that).&lt;/p&gt; &lt;p&gt;&lt;a href="http://www.libsdl.org/"&gt;&lt;img class="asset asset-image at-xid-6a00d83451ce6b69e2013486086386970c" style="float: right; margin: 0 0 5px 5px" alt="SDL" src="http://markpasc.typepad.com/.a/6a00d83451ce6b69e2013486086386970c-800wi" /&gt;&lt;/a&gt;Even if I could run a hybrid app, there's still a last leg of the journey to take, which is figuring out how to actually modify and recompress a JPEG in C code. WebOS is a runtime on top of Linux, so PDK apps use &lt;a href="http://www.libsdl.org/"&gt;SDL&lt;/a&gt; for everything. That might make it easy: they do provide &lt;a href="http://www.libsdl.org/projects/SDL_image/"&gt;SDL_image&lt;/a&gt;, so as long as they provide the JPEG codec, it should be a pretty simple matter.&lt;/p&gt; &lt;p style="text-align: center"&gt;&lt;img class="asset asset-image at-xid-6a00d83451ce6b69e201348608636e970c" alt="Facepalm" src="http://markpasc.typepad.com/.a/6a00d83451ce6b69e201348608636e970c-800wi" /&gt;&lt;/p&gt; &lt;p&gt;To make a long story short, I hope to tell you about writing a cool mobile app, but this isn't it.&lt;/p&gt; </content>
+		</a:object>
+		<content type="html"> &lt;blockquote&gt; &lt;p&gt;Phone's OS is outta date (first world problem)&lt;br&gt; Colors won't calibrate (first world problem)&lt;/p&gt; &lt;/blockquote&gt; &lt;p class="at-xid-6a00d83451ce6b69e201348608636e970c" style="text-align: right"&gt;&amp;mdash;&lt;a href="http://www.youtube.com/watch?v=M3w1_E1V46M"&gt;MC Frontalot&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="http://markpasc.typepad.com/.a/6a00d83451ce6b69e20133f2e4de4e970b-pi"&gt;&lt;img class="asset asset-image at-xid-6a00d83451ce6b69e20133f2e4de4e970b" style="float: right; margin: 0 0 10px 10px;" alt="Paperplain" src="http://markpasc.typepad.com/.a/6a00d83451ce6b69e20133f2e4de4e970b-150wi" width="150" height="189" /&gt;&lt;/a&gt;I never got around to writing about the first Palm webOS app I wrote for &lt;a href="http://markpasc.typepad.com/blog/2010/04/a-week-with-the-palm-pre.html"&gt;my Palm Pre Plus&lt;/a&gt;, but I did, and it was kind of neat. It's &lt;a href="http://github.com/markpasc/paperplain"&gt;a wallpaper switcher&lt;/a&gt; that works with photos you sync over to it, and I was able to (eventually) get it completely working, at least on my phone. It's a little janky in that the swapping is hardcoded to every six hours, and it's a pain to add wallpaper, but since webOS doesn't offer any filesystem operations to "real" webOS apps, that'll have to do. (You have to "Add wallpaper" and pick the next one individually for &lt;em&gt;every wallpaper&lt;/em&gt; you want to cycle through; really annoying for the 60 or so I wanted on there.)&lt;/p&gt; &lt;p&gt;&lt;a href="http://markpasc.typepad.com/.a/6a00d83451ce6b69e20134860879c7970c-pi"&gt;&lt;img class="asset asset-image at-xid-6a00d83451ce6b69e20134860879c7970c" style="float: left; margin: 0 10px 10px 0;" alt="Make-a-face" src="http://markpasc.typepad.com/.a/6a00d83451ce6b69e20134860879c7970c-150wi" width="150" height="204" /&gt;&lt;/a&gt;Since then I started making the first &lt;a href="http://make-a-face.org/"&gt;Make A Face&lt;/a&gt; mobile app, which has been even more annoying. My current strategy has been to use just a plain &lt;a href="http://developer.palm.com/index.php?option=com_content&amp;amp;view=article&amp;amp;id=1935"&gt;WebView widget&lt;/a&gt; that loads the site, and use its &lt;code&gt;addUrlRedirect()&lt;/code&gt; method to intercept requests to a special URL to trigger special app behavior. (The web site can't tell if it's an app, of course, so this URL will be a "use one of these fine apps!" navitorial page when you use a plain mobile browser.) Seems like this strategy is supported on Android, too, so hopefully an iPhone app could do something similar as well.&lt;/p&gt; &lt;p&gt;While I eventually figured out how to get the camera to trigger and work, that only brought me one rung up the problem ladder. Since this is an app for a mobile device, I don't suppose it would be kind to try to upload a whole megabyte of full-resolution JPEG over a cellular link. (Even when I try to do that in dev, on a snappy wifi network, a few hours I'm not getting back discovered Django ends up taking way too long to un-MIME the &lt;code&gt;multipart/form-data&lt;/code&gt; request, making the load balancer time out before it's done.)&lt;/p&gt; &lt;p&gt;In a real program, of course, I would need only resize the image before uploading. Even a modern contender for leading mobile OS should have &lt;em&gt;something&lt;/em&gt; to let me do this (especially since so many other apps using the camera surely need similar support). WebOS, however, does not; while I could create a dummy WebView to display the image so I can &lt;code&gt;saveViewToFile()&lt;/code&gt; a smaller version to disk, that method only produces PNG images. Such an image would still clock in at 400 KB (according to this tiny manual test I just did), so that probably still won't work.&lt;/p&gt; &lt;p&gt;The doubly disappointing part about being restricted to "web" technologies in webOS is how superficial its webbiness is. In reality it's an application runtime plopped ramshackly atop Webkit. If you say "you write applications in HTML and javascript!" then you would expect to, say, add a button in your application like so:&lt;/p&gt; &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;&amp;lt;button&lt;/span&gt; &lt;span class="na"&gt;id=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;do-thing&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;Do a thing&lt;span class="nt"&gt;&amp;lt;/button&amp;gt;&lt;/span&gt; &lt;span class="nt"&gt;&amp;lt;script &lt;/span&gt;&lt;span class="na"&gt;type=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;text/javascript&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt; &lt;span class="nx"&gt;$&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;#do-thing&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;).&lt;/span&gt;&lt;span class="nx"&gt;click&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="kd"&gt;function&lt;/span&gt; &lt;span class="p"&gt;()&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="nx"&gt;doAThing&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt; &lt;span class="p"&gt;});&lt;/span&gt; &lt;span class="nt"&gt;&amp;lt;/script&amp;gt;&lt;/span&gt; &lt;/pre&gt;&lt;/div&gt; &lt;p&gt;but a webOS application is really more like:&lt;/p&gt; &lt;h4 class="highlight-label"&gt;sources.json&lt;/h4&gt; &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="p"&gt;[&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;scenes&amp;quot;&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;main&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;source&amp;quot;&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;app/assistants/main-assistant.js&amp;quot;&lt;/span&gt; &lt;span class="p"&gt;}&lt;/span&gt; &lt;span class="p"&gt;]&lt;/span&gt; &lt;/pre&gt;&lt;/div&gt; &lt;h4 class="highlight-label"&gt;app/views/main/main-scene.html&lt;/h4&gt; &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;&amp;lt;div&lt;/span&gt; &lt;span class="na"&gt;x-mojo-element=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;Button&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;id=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;do-thing&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&amp;lt;/div&amp;gt;&lt;/span&gt; &lt;/pre&gt;&lt;/div&gt; &lt;h4 class="highlight-label"&gt;app/assistants/main-assistant.js&lt;/h4&gt; &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="kd"&gt;function&lt;/span&gt; &lt;span class="nx"&gt;MainAssistant&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt; &lt;span class="p"&gt;{}&lt;/span&gt; &lt;span class="nx"&gt;MainAssistant&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;prototype&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;setup&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="kd"&gt;function&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="k"&gt;this&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;setupWidget&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;do-thing&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="k"&gt;this&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;dothingAttr&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="nx"&gt;label&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;Do a thing&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="p"&gt;},&lt;/span&gt; &lt;span class="k"&gt;this&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;dothingModel&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;{});&lt;/span&gt; &lt;span class="nx"&gt;Mojo&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;Event&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;listen&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="k"&gt;this&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;get&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;do-thing&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt; &lt;span class="nx"&gt;Mojo&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;Event&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;tap&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="k"&gt;this&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;handleDoAThing&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;bind&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="k"&gt;this&lt;/span&gt;&lt;span class="p"&gt;));&lt;/span&gt; &lt;span class="p"&gt;};&lt;/span&gt; &lt;span class="nx"&gt;MainAssistant&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;prototype&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;handleDoAThing&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="kd"&gt;function&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;event&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="nx"&gt;doAThing&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt; &lt;span class="p"&gt;};&lt;/span&gt; &lt;/pre&gt;&lt;/div&gt; &lt;p&gt;There are several layers of misunderstanding muffling the simple idea that "the web page is the app." It gets old fast.&lt;/p&gt; &lt;p&gt;Newer versions of webOS do offer a way to break out of that marketecture straitjacket, which is that you can write "plug-ins" in compiled code that run as standalone applications (a regular "PDK" app) or inside a managed "web" application (they call these "hybrid" apps). Only the former is well supported, because it was an emergency effort to let people port games to the devices.&lt;/p&gt; &lt;p&gt;Unfortunately I hadn't noticed a couple gotchas that exist for plugins. One is that the SDK tools will only build either standalone PDK apps that run on the desktop from Xcode or ARM plugin binaries that run on the device, not x86 plugin binaries that run in the SDK's Virtualbox emulator. The other is that the hybrid plugin apps are only supported in webOS 1.4.5, which I mistakenly assumed was the latest existing release&#x2014;but it's not, that's 1.4.1.1. Since I have a real device with Verizon service, I'm not allowed to update the OS until Verizon makes it available.&lt;/p&gt; &lt;p&gt;That is, the gotchas for hybrid apps are:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;You can't yet use them in the emulator.&lt;/li&gt; &lt;li&gt;You can't yet use them on the device.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;I guess I can leave the paved path and try to compile an x86 plugin binary for the emulator, but that plugins don't work in the emulator is &lt;a href="http://developer.palm.com/index.php?option=com_content&amp;amp;view=article&amp;amp;id=2049&amp;amp;Itemid=331#UsingWebOSemulator"&gt;documented in the FAQ&lt;/a&gt;. In fact, that answer seems to cover regular PDK apps too, so there's no reason to think the emulator OS supports running non-"web" apps at all (other than that it's just a Virtualbox image, so it's strange that they would prevent binaries from running like that).&lt;/p&gt; &lt;p&gt;&lt;a href="http://www.libsdl.org/"&gt;&lt;img class="asset asset-image at-xid-6a00d83451ce6b69e2013486086386970c" style="float: right; margin: 0 0 5px 5px" alt="SDL" src="http://markpasc.typepad.com/.a/6a00d83451ce6b69e2013486086386970c-800wi" /&gt;&lt;/a&gt;Even if I could run a hybrid app, there's still a last leg of the journey to take, which is figuring out how to actually modify and recompress a JPEG in C code. WebOS is a runtime on top of Linux, so PDK apps use &lt;a href="http://www.libsdl.org/"&gt;SDL&lt;/a&gt; for everything. That might make it easy: they do provide &lt;a href="http://www.libsdl.org/projects/SDL_image/"&gt;SDL_image&lt;/a&gt;, so as long as they provide the JPEG codec, it should be a pretty simple matter.&lt;/p&gt; &lt;p style="text-align: center"&gt;&lt;img class="asset asset-image at-xid-6a00d83451ce6b69e201348608636e970c" alt="Facepalm" src="http://markpasc.typepad.com/.a/6a00d83451ce6b69e201348608636e970c-800wi" /&gt;&lt;/p&gt; &lt;p&gt;To make a long story short, I hope to tell you about writing a cool mobile app, but this isn't it.&lt;/p&gt; </content>
+		<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/08/webos.html"/>
+		<a:target>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20120a81fb3a4970b</id>
+			<title type="text">markpasc</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/blog</a:object-type>
+		</a:target>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20133f2e44eb3970b</id>
+		<title type="text"> markpasc added 'This. Is. Play.' as a favorite </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/favorite</a:verb>
+		<published>2010-08-06T18:08:06Z</published>
+		<updated>2010-08-06T18:08:06Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00d834587d3a69e201348606e11f970c</id>
+			<title type="text">This. Is. Play.</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-08-06T14:09:06Z</published>
+			<link rel="alternate" type="text/html" href="http://potlatch.typepad.com/weblog/2010/08/this-is-play.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d834587d3a69e2</id>
+				<name>Will</name>
+				<uri>http://profile.typepad.com/potlatch</uri>
+			</author>
+			<content type="html">&lt;p&gt;With a miniature slice of situationist glee, the British Library has given over parts of its forecourt to table tennis tables, available to all-comers. But can &amp;#39;play&amp;#39; ever have been made to look more threatening than in the accompanying notices? If this is how they invite readers to &amp;#39;play&amp;#39;, I wonder how they&amp;#39;d peddle life insurance...&lt;/p&gt;&lt;p&gt; &lt;a href="http://potlatch.typepad.com/.a/6a00d834587d3a69e201348606dfb8970c-pi" style="display: inline;"&gt;&lt;img alt="Image206" border="0" class="asset asset-image at-xid-6a00d834587d3a69e201348606dfb8970c image-full " src="http://potlatch.typepad.com/.a/6a00d834587d3a69e201348606dfb8970c-800wi" title="Image206" /&gt;&lt;/a&gt; &lt;br /&gt; &lt;/p&gt;</content>
+		</a:object>
+		<content type="html"> &lt;p&gt;With a miniature slice of situationist glee, the British Library has given over parts of its forecourt to table tennis tables, available to all-comers. But can &amp;#39;play&amp;#39; ever have been made to look more threatening than in the accompanying notices? If this is how they invite readers to &amp;#39;play&amp;#39;, I wonder how they&amp;#39;d peddle life insurance...&lt;/p&gt;&lt;p&gt; &lt;a href="http://potlatch.typepad.com/.a/6a00d834587d3a69e201348606dfb8970c-pi" style="display: inline;"&gt;&lt;img alt="Image206" border="0" class="asset asset-image at-xid-6a00d834587d3a69e201348606dfb8970c image-full " src="http://potlatch.typepad.com/.a/6a00d834587d3a69e201348606dfb8970c-800wi" title="Image206" /&gt;&lt;/a&gt; &lt;br /&gt; &lt;/p&gt;</content>
+		<link rel="alternate" type="text/html" href="http://potlatch.typepad.com/weblog/2010/08/this-is-play.html"/>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20133f2e40a96970b</id>
+		<title type="text"> markpasc posted an entry </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/post</a:verb>
+		<published>2010-08-06T17:08:07Z</published>
+		<updated>2010-08-06T17:08:07Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a0120a956067b970b0134859ffabf970c</id>
+			<title type="text">A switch to git</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-07-22T22:27:22Z</published>
+			<link rel="alternate" type="text/html" href="http://devblog.typepad.com/typepad-dev-blog/2010/08/a-switch-to-git.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
+				<name>markpasc</name>
+				<uri>http://profile.typepad.com/markpasc</uri>
+			</author>
+			<content type="html">&lt;p&gt;Jonathan "hachi" Steinert is an infrastructure developer here at Six Apart. Recently he led a migration of our internal source control from Subversion to git. I sat down with him for a few minutes to discuss the process.&lt;/p&gt; &lt;p&gt;One of the direct effects of the switch was that he had to update the build tools we use for TypePad.&lt;/p&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-alice"&gt;hachi:&lt;/span&gt; I spent a bunch of time worrying about how to get the Makefile to do everything right, how to get the RPM builders to do everything right, how to get Hudson to work with it.&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-bob"&gt;mark:&lt;/span&gt; Do you want to give an overview of the build infrastructure we have? We have a source control repository that has the actual source code in it, and what besides that do we have?&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-alice"&gt;hachi:&lt;/span&gt; I guess we can start with the old world. We had a Subversion server and we would cut release branches in there, and tag releases from those branches. When we would tag the release, a couple of things would happen. First off, we have &lt;a href="http://hudson-ci.org/"&gt;Hudson&lt;/a&gt;, which any time you would make a commit would rerun the tests.&lt;/p&gt; &lt;p&gt;Well, more importantly it would build an rpm, install it, and run the test suite against it, which includes a Selenium test suite. But that I don't really have anything to do with; I've helped Owen [Mehegan, QA and automation engineer] fix it a few times.&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-bob"&gt;mark:&lt;/span&gt; But those, from the infrastructure point of view, are just extra finicky versions of the same kind of Perl unit tests that we run also.&lt;/p&gt; &lt;/div&gt; &lt;p style="text-align: center"&gt;&lt;img class="asset asset-image at-xid-6a0120a956067b970b013486078dd4970c" alt="Release-fail" title="Release-fail" src="http://devblog.typepad.com/.a/6a0120a956067b970b013486078dd4970c-800wi" border="0" /&gt;&lt;/p&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-alice"&gt;hachi:&lt;/span&gt; But Hudson does all of these steps. Then we also have a way that an engineer can go in and say &lt;code&gt;make rpmdist&lt;/code&gt; in the directory and it builds an RPM for installing the application. When we switched from Subversion to git, we stopped having the revision number be in the package, and now we just have the output of &lt;code&gt;git describe&lt;/code&gt; in it.&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-bob"&gt;mark:&lt;/span&gt; So that was one build tool change we had to make. When we moved from Subversion to git, we didn't have revision numbers.&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-alice"&gt;hachi:&lt;/span&gt; Yeah, and that was a bit of a paradigm shift, actually, because when you no longer have revision numbers, you no longer can compare directly and say, "Is this one greater than this one?" In git land you have these hashes that describe exactly the state the tree is in right now.&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-bob"&gt;mark:&lt;/span&gt; You kinda need the whole history to tell if one of those is later than the other, because they're not lexicographically sortable or anything.&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-alice"&gt;hachi:&lt;/span&gt; And the thing is we use &lt;code&gt;git describe&lt;/code&gt;, because &lt;code&gt;git describe&lt;/code&gt; looks back through the history for a tag, and then counts the number of commits that have happened since then, and tags it as &lt;code&gt;&amp;lt;tagname&amp;gt;-&amp;lt;number of revisions&amp;gt;-g&lt;/code&gt; and a git hash of what was going on. If there's been zero revisions since the tag, it doesn't include that stuff, so the release name looks very short when you do a proper release.&lt;/p&gt; &lt;p&gt;But we can also, as a side effect of switching to git and adjusting the tools a certain way, release any arbitrary revision, and build an RPM of it and deploy it, sort of. We've been doing that to our stage 4 host now, just a roughly daily build, so anyone outside of engineering who doesn't want to have their own dev instance can see what the tree looks like at any given moment.&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-bob"&gt;mark:&lt;/span&gt; The infrastructure we have, there's Hudson, and then there's those RPM builds. You mentioned the staging server; those RPMs are what we actually push to the staging servers?&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-alice"&gt;hachi:&lt;/span&gt; Yes, except when we push things to the staging server, we don't actually push the RPM to them. Initially we gave a tag name, and it would build that, run the trusted tests on it, and if those tests passed, then it would push that to staging.&lt;/p&gt; &lt;p&gt;We have an automated system with two different ways to do it. One is just a shell script, &lt;code&gt;tp_stage_push.pl&lt;/code&gt; or something like that. That one's a little more flexible, but we also have a web interface where you can pick from a list and which staging host you want to push to, and then you click a button. Both of them follow the same process; it's sort of an RPC system. When it's done, it sends an email to the mailing list saying we've just updated whichever stage to whatever this revision is.&lt;/p&gt; &lt;p&gt;The command line one, because you can just type a tag name, as a side effect of parsing the tag name, you can pass in any commit-ish (a git term) and it will happily build an RPM of it, as long as the git server is aware of it. So we do have an automated structure for taking care of that part as well.&lt;/p&gt; &lt;p&gt;And then whatever is built to go to staging is what goes to production. At least, I don't &lt;em&gt;think&lt;/em&gt; we rebuild the RPM again before we push to production; we actually take what we were running on our stage hosts and deploy it to production.&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-bob"&gt;mark:&lt;/span&gt; Were we able to push any arbitrary tree under Subversion, or is that another change we have with the git infrastructure?&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-alice"&gt;hachi:&lt;/span&gt; We weren't able to push any arbitrary tree, because you had to pass in a tag name. In that case, it assumed the tag name was under the &lt;code&gt;tags&lt;/code&gt; subtree. You couldn't pass in a revision number, so you also couldn't walk back in history and say "push it as of this revision" or anything like that.&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-bob"&gt;mark:&lt;/span&gt; That's because, as an implementation detail, tags are a different class of thing from a revision, I guess, right? In Subversion?&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-alice"&gt;hachi:&lt;/span&gt; The reason it was limited was because it was a subdirectory. We were limiting you to only operate on things in the tags subdirectory, and that was it.&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-bob"&gt;mark:&lt;/span&gt; It's a different kind of space from the revision numbers, right?&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-alice"&gt;hachi:&lt;/span&gt; Yes, that's different. &lt;code&gt;trunk&lt;/code&gt; was in the same space as &lt;code&gt;tags&lt;/code&gt; was in the same space as &lt;code&gt;branches&lt;/code&gt;, because everything's a lightweight directory copy, in Subversion. But in git land, everything opened up because revisions and tags and branches and what is now master (and used to be called trunk) all refer to a point in time in the history, rather than a location in a directory structure.&lt;/p&gt; &lt;p&gt;You could do weird things like upload a whole different product into the TypePad tree and try to push it, and git would happily do it. It's kind of a weird side effect: &lt;em&gt;de facto&lt;/em&gt; use in git makes a lot of the things that were slightly awkward in Subversion more plain to see the answer you're looking for. You wanna grab a branch? It's just a branch, there's just a branch name. You don't have to, like, "Am I getting the right revision of it?" Everything is in the same namespace now that should be in the same namespace.&lt;/p&gt; &lt;p&gt;But there are other things that are sort of undocumented, and can be done, but are not the greatest idea in the world.&lt;/p&gt; &lt;/div&gt; &lt;h2&gt;Merging&lt;/h2&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-bob"&gt;mark:&lt;/span&gt; Since you mentioned branches, there are other reasons why we switched from Subversion, right? Why else did we want to switch from Subversion to a new tool?&lt;/p&gt; &lt;/div&gt; </content>
+		</a:object>
+		<content type="html"> &lt;p&gt;Jonathan "hachi" Steinert is an infrastructure developer here at Six Apart. Recently he led a migration of our internal source control from Subversion to git. I sat down with him for a few minutes to discuss the process.&lt;/p&gt; &lt;p&gt;One of the direct effects of the switch was that he had to update the build tools we use for TypePad.&lt;/p&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-alice"&gt;hachi:&lt;/span&gt; I spent a bunch of time worrying about how to get the Makefile to do everything right, how to get the RPM builders to do everything right, how to get Hudson to work with it.&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-bob"&gt;mark:&lt;/span&gt; Do you want to give an overview of the build infrastructure we have? We have a source control repository that has the actual source code in it, and what besides that do we have?&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-alice"&gt;hachi:&lt;/span&gt; I guess we can start with the old world. We had a Subversion server and we would cut release branches in there, and tag releases from those branches. When we would tag the release, a couple of things would happen. First off, we have &lt;a href="http://hudson-ci.org/"&gt;Hudson&lt;/a&gt;, which any time you would make a commit would rerun the tests.&lt;/p&gt; &lt;p&gt;Well, more importantly it would build an rpm, install it, and run the test suite against it, which includes a Selenium test suite. But that I don't really have anything to do with; I've helped Owen [Mehegan, QA and automation engineer] fix it a few times.&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-bob"&gt;mark:&lt;/span&gt; But those, from the infrastructure point of view, are just extra finicky versions of the same kind of Perl unit tests that we run also.&lt;/p&gt; &lt;/div&gt; &lt;p style="text-align: center"&gt;&lt;img class="asset asset-image at-xid-6a0120a956067b970b013486078dd4970c" alt="Release-fail" title="Release-fail" src="http://devblog.typepad.com/.a/6a0120a956067b970b013486078dd4970c-800wi" border="0" /&gt;&lt;/p&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-alice"&gt;hachi:&lt;/span&gt; But Hudson does all of these steps. Then we also have a way that an engineer can go in and say &lt;code&gt;make rpmdist&lt;/code&gt; in the directory and it builds an RPM for installing the application. When we switched from Subversion to git, we stopped having the revision number be in the package, and now we just have the output of &lt;code&gt;git describe&lt;/code&gt; in it.&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-bob"&gt;mark:&lt;/span&gt; So that was one build tool change we had to make. When we moved from Subversion to git, we didn't have revision numbers.&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-alice"&gt;hachi:&lt;/span&gt; Yeah, and that was a bit of a paradigm shift, actually, because when you no longer have revision numbers, you no longer can compare directly and say, "Is this one greater than this one?" In git land you have these hashes that describe exactly the state the tree is in right now.&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-bob"&gt;mark:&lt;/span&gt; You kinda need the whole history to tell if one of those is later than the other, because they're not lexicographically sortable or anything.&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-alice"&gt;hachi:&lt;/span&gt; And the thing is we use &lt;code&gt;git describe&lt;/code&gt;, because &lt;code&gt;git describe&lt;/code&gt; looks back through the history for a tag, and then counts the number of commits that have happened since then, and tags it as &lt;code&gt;&amp;lt;tagname&amp;gt;-&amp;lt;number of revisions&amp;gt;-g&lt;/code&gt; and a git hash of what was going on. If there's been zero revisions since the tag, it doesn't include that stuff, so the release name looks very short when you do a proper release.&lt;/p&gt; &lt;p&gt;But we can also, as a side effect of switching to git and adjusting the tools a certain way, release any arbitrary revision, and build an RPM of it and deploy it, sort of. We've been doing that to our stage 4 host now, just a roughly daily build, so anyone outside of engineering who doesn't want to have their own dev instance can see what the tree looks like at any given moment.&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-bob"&gt;mark:&lt;/span&gt; The infrastructure we have, there's Hudson, and then there's those RPM builds. You mentioned the staging server; those RPMs are what we actually push to the staging servers?&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-alice"&gt;hachi:&lt;/span&gt; Yes, except when we push things to the staging server, we don't actually push the RPM to them. Initially we gave a tag name, and it would build that, run the trusted tests on it, and if those tests passed, then it would push that to staging.&lt;/p&gt; &lt;p&gt;We have an automated system with two different ways to do it. One is just a shell script, &lt;code&gt;tp_stage_push.pl&lt;/code&gt; or something like that. That one's a little more flexible, but we also have a web interface where you can pick from a list and which staging host you want to push to, and then you click a button. Both of them follow the same process; it's sort of an RPC system. When it's done, it sends an email to the mailing list saying we've just updated whichever stage to whatever this revision is.&lt;/p&gt; &lt;p&gt;The command line one, because you can just type a tag name, as a side effect of parsing the tag name, you can pass in any commit-ish (a git term) and it will happily build an RPM of it, as long as the git server is aware of it. So we do have an automated structure for taking care of that part as well.&lt;/p&gt; &lt;p&gt;And then whatever is built to go to staging is what goes to production. At least, I don't &lt;em&gt;think&lt;/em&gt; we rebuild the RPM again before we push to production; we actually take what we were running on our stage hosts and deploy it to production.&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-bob"&gt;mark:&lt;/span&gt; Were we able to push any arbitrary tree under Subversion, or is that another change we have with the git infrastructure?&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-alice"&gt;hachi:&lt;/span&gt; We weren't able to push any arbitrary tree, because you had to pass in a tag name. In that case, it assumed the tag name was under the &lt;code&gt;tags&lt;/code&gt; subtree. You couldn't pass in a revision number, so you also couldn't walk back in history and say "push it as of this revision" or anything like that.&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-bob"&gt;mark:&lt;/span&gt; That's because, as an implementation detail, tags are a different class of thing from a revision, I guess, right? In Subversion?&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-alice"&gt;hachi:&lt;/span&gt; The reason it was limited was because it was a subdirectory. We were limiting you to only operate on things in the tags subdirectory, and that was it.&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-bob"&gt;mark:&lt;/span&gt; It's a different kind of space from the revision numbers, right?&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-alice"&gt;hachi:&lt;/span&gt; Yes, that's different. &lt;code&gt;trunk&lt;/code&gt; was in the same space as &lt;code&gt;tags&lt;/code&gt; was in the same space as &lt;code&gt;branches&lt;/code&gt;, because everything's a lightweight directory copy, in Subversion. But in git land, everything opened up because revisions and tags and branches and what is now master (and used to be called trunk) all refer to a point in time in the history, rather than a location in a directory structure.&lt;/p&gt; &lt;p&gt;You could do weird things like upload a whole different product into the TypePad tree and try to push it, and git would happily do it. It's kind of a weird side effect: &lt;em&gt;de facto&lt;/em&gt; use in git makes a lot of the things that were slightly awkward in Subversion more plain to see the answer you're looking for. You wanna grab a branch? It's just a branch, there's just a branch name. You don't have to, like, "Am I getting the right revision of it?" Everything is in the same namespace now that should be in the same namespace.&lt;/p&gt; &lt;p&gt;But there are other things that are sort of undocumented, and can be done, but are not the greatest idea in the world.&lt;/p&gt; &lt;/div&gt; &lt;h2&gt;Merging&lt;/h2&gt; &lt;div&gt; &lt;p&gt;&lt;span class="chat-bob"&gt;mark:&lt;/span&gt; Since you mentioned branches, there are other reasons why we switched from Subversion, right? Why else did we want to switch from Subversion to a new tool?&lt;/p&gt; &lt;/div&gt; </content>
+		<link rel="alternate" type="text/html" href="http://devblog.typepad.com/typepad-dev-blog/2010/08/a-switch-to-git.html"/>
+		<a:target>
+			<id>tag:api.typepad.com,2009:6a0120a956067b970b0120a9560791970b</id>
+			<title type="text">TypePad Dev Blog</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/blog</a:object-type>
+		</a:target>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e2013485fe2fd3970c</id>
+		<title type="text"> markpasc posted an entry </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/post</a:verb>
+		<published>2010-08-05T02:04:05Z</published>
+		<updated>2010-08-05T02:04:05Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e2013485fcc5b8970c</id>
+			<title type="text">PATV</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-08-04T19:58:00Z</published>
+			<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/08/patv.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
+				<name>markpasc</name>
+				<uri>http://profile.typepad.com/markpasc</uri>
+			</author>
+			<content type="html">&lt;p&gt;After &lt;a href="http://markpasc.typepad.com/blog/2010/07/the-last-airbender.html"&gt;remarking about &lt;em&gt;Avatar&lt;/em&gt;&lt;/a&gt;, I was going to post again about some other cool TV shows I've been watching from Netflix, which were:&lt;/p&gt; &lt;div class="pkg"&gt; &lt;div id="veronica-mars-netflix-box" class="netflix-box netflix-box-left"&gt; &lt;a href="http://www.netflix.com/Movie/Veronica_Mars_Season_1/70020062"&gt;&lt;img class="boxshot" src="http://cdn-7.nflximg.com/us/boxshots/large/70020062.jpg" width="110" height="150"&gt;&lt;/a&gt; &lt;script src="http://jsapi.netflix.com/us/api/js/api.js"&gt; { "title_id" : "http://api.netflix.com/catalog/movie/70020062", "button_type" : ["PLAY_BUTTON", "ADD_BUTTON"], "show_logo" : "true", "x" : "40", "y" : "20", "dom_id" : "veronica-mars-netflix-box", "application_id": "7hh3quudsagcubp5g6v5navw" } &lt;/script&gt; &lt;/div&gt; &lt;div id="st-elsewhere-netflix-box" class="netflix-box netflix-box-left"&gt; &lt;a href="http://www.netflix.com/Movie/St._Elsewhere_Season_1_Disc_1/70056823"&gt;&lt;img class="boxshot" src="http://cdn-2.nflximg.com/us/boxshots/large/70056822.jpg" width="110" height="150"&gt;&lt;/a&gt; &lt;script src="http://jsapi.netflix.com/us/api/js/api.js"&gt; { "title_id" : "http://api.netflix.com/catalog/movie/70056823", "button_type" : ["ADD_BUTTON"], "show_logo" : "true", "x" : "40", "y" : "20", "dom_id" : "st-elsewhere-netflix-box", "application_id": "7hh3quudsagcubp5g6v5navw" } &lt;/script&gt; &lt;/div&gt; &lt;/div&gt; &lt;p&gt;but there's another show I've been enjoying even more.&lt;/p&gt; &lt;div style="text-align: center"&gt; &lt;p&gt;&lt;a href="http://www.penny-arcade.com/patv/pa-the-series/"&gt;&lt;img class="asset asset-image at-xid-6a00d83451ce6b69e20133f2da7f9d970b" alt="Penny Arcade: The Series" src="http://markpasc.typepad.com/.a/6a00d83451ce6b69e20133f2da7f9d970b-500wi" /&gt;&lt;/a&gt;&lt;/p&gt; &lt;/div&gt; &lt;p&gt;&lt;em&gt;Penny Arcade&lt;/em&gt; is a long-running web comic that is now the nucleus of a community of game players that includes the &lt;a href="http://childsplaycharity.org/"&gt;Child's Play charity&lt;/a&gt; (&lt;a href="http://mark.vox.com/library/posts/tags/child's+play/"&gt;e.g.&lt;/a&gt;), &lt;a href="http://www.paxsite.com/"&gt;the PAX conventions&lt;/a&gt;, and some smaller circumstances, one of which has been &lt;a href="http://www.penny-arcade.com/patv/pa-the-series/"&gt;a &#x201C;TV&#x201D; show for their web site&lt;/a&gt;. Filmed by 2 Player Productions who also did &lt;a href="http://www.2playerproductions.com/projects/rtp"&gt;a documentary about Blip Festival and the NYC chiptune scene&lt;/a&gt;, these weekly episodes have shown how totally pretty rad the whole Penny Arcade family is.&lt;/p&gt; &lt;p&gt;For those of you who only watch shows when they've finished, they just completed &#x201C;season one&#x201D; so you are free to &lt;a href="http://www.penny-arcade.com/patv/pa-the-series/"&gt;watch it&lt;/a&gt; too. Coming from chiptunes, 2 Player scores the whole series with chiptunes, and &lt;a href="http://8bc.org/music/failotron/Tristan/"&gt;this one by Failotron&lt;/a&gt; plays over the end of the finale and it's just so great.&lt;/p&gt; &lt;p class="asset asset-audio at-xid-6a00d83451ce6b69e2013485fcbaf7970c"&gt;&lt;a href="http://markpasc.typepad.com/files/failotron_tristan.mp3" class="inline-player"&gt;Failotron - Tristan&lt;/a&gt;&lt;/p&gt; </content>
+		</a:object>
+		<content type="html"> &lt;p&gt;After &lt;a href="http://markpasc.typepad.com/blog/2010/07/the-last-airbender.html"&gt;remarking about &lt;em&gt;Avatar&lt;/em&gt;&lt;/a&gt;, I was going to post again about some other cool TV shows I've been watching from Netflix, which were:&lt;/p&gt; &lt;div class="pkg"&gt; &lt;div id="veronica-mars-netflix-box" class="netflix-box netflix-box-left"&gt; &lt;a href="http://www.netflix.com/Movie/Veronica_Mars_Season_1/70020062"&gt;&lt;img class="boxshot" src="http://cdn-7.nflximg.com/us/boxshots/large/70020062.jpg" width="110" height="150"&gt;&lt;/a&gt; &lt;script src="http://jsapi.netflix.com/us/api/js/api.js"&gt; { "title_id" : "http://api.netflix.com/catalog/movie/70020062", "button_type" : ["PLAY_BUTTON", "ADD_BUTTON"], "show_logo" : "true", "x" : "40", "y" : "20", "dom_id" : "veronica-mars-netflix-box", "application_id": "7hh3quudsagcubp5g6v5navw" } &lt;/script&gt; &lt;/div&gt; &lt;div id="st-elsewhere-netflix-box" class="netflix-box netflix-box-left"&gt; &lt;a href="http://www.netflix.com/Movie/St._Elsewhere_Season_1_Disc_1/70056823"&gt;&lt;img class="boxshot" src="http://cdn-2.nflximg.com/us/boxshots/large/70056822.jpg" width="110" height="150"&gt;&lt;/a&gt; &lt;script src="http://jsapi.netflix.com/us/api/js/api.js"&gt; { "title_id" : "http://api.netflix.com/catalog/movie/70056823", "button_type" : ["ADD_BUTTON"], "show_logo" : "true", "x" : "40", "y" : "20", "dom_id" : "st-elsewhere-netflix-box", "application_id": "7hh3quudsagcubp5g6v5navw" } &lt;/script&gt; &lt;/div&gt; &lt;/div&gt; &lt;p&gt;but there's another show I've been enjoying even more.&lt;/p&gt; &lt;div style="text-align: center"&gt; &lt;p&gt;&lt;a href="http://www.penny-arcade.com/patv/pa-the-series/"&gt;&lt;img class="asset asset-image at-xid-6a00d83451ce6b69e20133f2da7f9d970b" alt="Penny Arcade: The Series" src="http://markpasc.typepad.com/.a/6a00d83451ce6b69e20133f2da7f9d970b-500wi" /&gt;&lt;/a&gt;&lt;/p&gt; &lt;/div&gt; &lt;p&gt;&lt;em&gt;Penny Arcade&lt;/em&gt; is a long-running web comic that is now the nucleus of a community of game players that includes the &lt;a href="http://childsplaycharity.org/"&gt;Child's Play charity&lt;/a&gt; (&lt;a href="http://mark.vox.com/library/posts/tags/child's+play/"&gt;e.g.&lt;/a&gt;), &lt;a href="http://www.paxsite.com/"&gt;the PAX conventions&lt;/a&gt;, and some smaller circumstances, one of which has been &lt;a href="http://www.penny-arcade.com/patv/pa-the-series/"&gt;a &#x201C;TV&#x201D; show for their web site&lt;/a&gt;. Filmed by 2 Player Productions who also did &lt;a href="http://www.2playerproductions.com/projects/rtp"&gt;a documentary about Blip Festival and the NYC chiptune scene&lt;/a&gt;, these weekly episodes have shown how totally pretty rad the whole Penny Arcade family is.&lt;/p&gt; &lt;p&gt;For those of you who only watch shows when they've finished, they just completed &#x201C;season one&#x201D; so you are free to &lt;a href="http://www.penny-arcade.com/patv/pa-the-series/"&gt;watch it&lt;/a&gt; too. Coming from chiptunes, 2 Player scores the whole series with chiptunes, and &lt;a href="http://8bc.org/music/failotron/Tristan/"&gt;this one by Failotron&lt;/a&gt; plays over the end of the finale and it's just so great.&lt;/p&gt; &lt;p class="asset asset-audio at-xid-6a00d83451ce6b69e2013485fcbaf7970c"&gt;&lt;a href="http://markpasc.typepad.com/files/failotron_tristan.mp3" class="inline-player"&gt;Failotron - Tristan&lt;/a&gt;&lt;/p&gt; </content>
+		<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/08/patv.html"/>
+		<a:target>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20120a81fb3a4970b</id>
+			<title type="text">markpasc</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/blog</a:object-type>
+		</a:target>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20133f2d5f9bc970b</id>
+		<title type="text"> markpasc posted an entry </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/post</a:verb>
+		<published>2010-08-04T07:20:49Z</published>
+		<updated>2010-08-04T07:20:49Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20133f2d5f720970b</id>
+			<title type="text">Justify the construction</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-08-04T07:18:10Z</published>
+			<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/08/justify-the-construction.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
+				<name>markpasc</name>
+				<uri>http://profile.typepad.com/markpasc</uri>
+			</author>
+			<content type="html">&lt;blockquote&gt; &lt;p&gt;&#x201C;It&#x2019;s as if there&#x2019;s been this huge vacuum of professional isolation that&#x2019;s finally being released, and some developers are using that release as an excuse to justify the construction of profoundly dastardly works.&#x201D;&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;&lt;small&gt;via &lt;a href="http://www.gamesetwatch.com/2010/08/interview_cow_clicker_yields_r.php"&gt;gamesetwatch&lt;/a&gt;&lt;/small&gt;&lt;/p&gt; </content>
+		</a:object>
+		<content type="html"> &lt;blockquote&gt; &lt;p&gt;&#x201C;It&#x2019;s as if there&#x2019;s been this huge vacuum of professional isolation that&#x2019;s finally being released, and some developers are using that release as an excuse to justify the construction of profoundly dastardly works.&#x201D;&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;&lt;small&gt;via &lt;a href="http://www.gamesetwatch.com/2010/08/interview_cow_clicker_yields_r.php"&gt;gamesetwatch&lt;/a&gt;&lt;/small&gt;&lt;/p&gt; </content>
+		<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/08/justify-the-construction.html"/>
+		<a:target>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20120a81fb3a4970b</id>
+			<title type="text">markpasc</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/blog</a:object-type>
+		</a:target>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e2013485f8d682970c</id>
+		<title type="text"> markpasc posted an entry </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/post</a:verb>
+		<published>2010-08-04T03:37:09Z</published>
+		<updated>2010-08-04T03:37:09Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e2013485f8d67d970c</id>
+			<title type="text">The new website</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-08-04T03:37:09Z</published>
+			<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/08/the-new-website.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
+				<name>markpasc</name>
+				<uri>http://profile.typepad.com/markpasc</uri>
+			</author>
+			<content type="html">&lt;blockquote&gt;&lt;p&gt;In a statement released onto their &lt;a href="http://www.facebook.com/BayAreaClipper"&gt;Facebook page&lt;/a&gt;, Bay Area Clipper acknowledges the inconveniences with Wage Works cardholders and says they are doing their best to solve the issues.&lt;/p&gt;&lt;/blockquote&gt; &lt;p&gt;&lt;small&gt;via &lt;a href="http://sfappeal.com/news/2010/08/clipper-card-chaos-software-glitch-blamed-for-problem-thats-inconveniencing-6000-customers.php"&gt;sfappeal.com&lt;/a&gt;&lt;/small&gt;&lt;/p&gt; &lt;p&gt;:(&lt;/p&gt;</content>
+		</a:object>
+		<content type="html"> &lt;blockquote&gt;&lt;p&gt;In a statement released onto their &lt;a href="http://www.facebook.com/BayAreaClipper"&gt;Facebook page&lt;/a&gt;, Bay Area Clipper acknowledges the inconveniences with Wage Works cardholders and says they are doing their best to solve the issues.&lt;/p&gt;&lt;/blockquote&gt; &lt;p&gt;&lt;small&gt;via &lt;a href="http://sfappeal.com/news/2010/08/clipper-card-chaos-software-glitch-blamed-for-problem-thats-inconveniencing-6000-customers.php"&gt;sfappeal.com&lt;/a&gt;&lt;/small&gt;&lt;/p&gt; &lt;p&gt;:(&lt;/p&gt;</content>
+		<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/08/the-new-website.html"/>
+		<a:target>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20120a81fb3a4970b</id>
+			<title type="text">markpasc</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/blog</a:object-type>
+		</a:target>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e2013485f6cdbd970c</id>
+		<title type="text"> markpasc posted an entry </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/post</a:verb>
+		<published>2010-08-03T19:08:46Z</published>
+		<updated>2010-08-03T19:08:46Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e2013485f6cdb5970c</id>
+			<title type="text">And advertisers won</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-08-03T19:08:46Z</published>
+			<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/08/and-advertisers-won.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
+				<name>markpasc</name>
+				<uri>http://profile.typepad.com/markpasc</uri>
+			</author>
+			<content type="html">&lt;blockquote&gt;&lt;p&gt;At a meeting in the spring of 2008, Brian McAndrews, a Microsoft senior vice president who had been chief executive of aQuantive before Microsoft acquired it, complained to the [IE8] browser planners. Their privacy plan, he argued, would disrupt the selling of Web ads by Microsoft and other companies, these people say.&lt;/p&gt;&lt;/blockquote&gt; &lt;p&gt;&lt;small&gt;via &lt;a href="http://online.wsj.com/article/SB10001424052748703467304575383530439838568.html"&gt;online.wsj.com&lt;/a&gt; (via &lt;a href="http://techdirt.com/articles/20100802/13325810455.shtml"&gt;Techdirt&lt;/a&gt;)&lt;/small&gt;&lt;/p&gt; </content>
+		</a:object>
+		<content type="html"> &lt;blockquote&gt;&lt;p&gt;At a meeting in the spring of 2008, Brian McAndrews, a Microsoft senior vice president who had been chief executive of aQuantive before Microsoft acquired it, complained to the [IE8] browser planners. Their privacy plan, he argued, would disrupt the selling of Web ads by Microsoft and other companies, these people say.&lt;/p&gt;&lt;/blockquote&gt; &lt;p&gt;&lt;small&gt;via &lt;a href="http://online.wsj.com/article/SB10001424052748703467304575383530439838568.html"&gt;online.wsj.com&lt;/a&gt; (via &lt;a href="http://techdirt.com/articles/20100802/13325810455.shtml"&gt;Techdirt&lt;/a&gt;)&lt;/small&gt;&lt;/p&gt; </content>
+		<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/08/and-advertisers-won.html"/>
+		<a:target>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20120a81fb3a4970b</id>
+			<title type="text">markpasc</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/blog</a:object-type>
+		</a:target>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20133f2cd8c68970b</id>
+		<title type="text"> markpasc posted an entry </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/post</a:verb>
+		<published>2010-08-02T18:43:05Z</published>
+		<updated>2010-08-02T18:43:05Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e2013485f112e0970c</id>
+			<title type="text">Being geek</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-08-02T18:36:32Z</published>
+			<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/08/being-geek.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
+				<name>markpasc</name>
+				<uri>http://profile.typepad.com/markpasc</uri>
+			</author>
+			<content type="html">&lt;p&gt;&lt;a href="http://www.randsinrepose.com/archives/2010/08/02/being_geek.html"&gt;&lt;img class="asset asset-image at-xid-6a00d83451ce6b69e20133f2cd84a1970b" width="500" height="490" alt="Screen shot 2010-08-02 at 11.34.32 AM" src="http://markpasc.typepad.com/.a/6a00d83451ce6b69e20133f2cd84a1970b-500wi" /&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;small&gt;via &lt;a href="http://www.randsinrepose.com/archives/2010/08/02/being_geek.html"&gt;www.randsinrepose.com&lt;/a&gt;&lt;/small&gt;&lt;/p&gt; &lt;p&gt;I got the ebook-treebook bundle the first day the ebook was available. I've already read it about 1&#xBD; times. It is so useful.&lt;/p&gt; </content>
+		</a:object>
+		<content type="html"> &lt;p&gt;&lt;a href="http://www.randsinrepose.com/archives/2010/08/02/being_geek.html"&gt;&lt;img class="asset asset-image at-xid-6a00d83451ce6b69e20133f2cd84a1970b" width="500" height="490" alt="Screen shot 2010-08-02 at 11.34.32 AM" src="http://markpasc.typepad.com/.a/6a00d83451ce6b69e20133f2cd84a1970b-500wi" /&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;small&gt;via &lt;a href="http://www.randsinrepose.com/archives/2010/08/02/being_geek.html"&gt;www.randsinrepose.com&lt;/a&gt;&lt;/small&gt;&lt;/p&gt; &lt;p&gt;I got the ebook-treebook bundle the first day the ebook was available. I've already read it about 1&#xBD; times. It is so useful.&lt;/p&gt; </content>
+		<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/08/being-geek.html"/>
+		<a:target>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20120a81fb3a4970b</id>
+			<title type="text">markpasc</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/blog</a:object-type>
+		</a:target>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20133f2bd1fc1970b</id>
+		<title type="text"> markpasc is now following apgwoz </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/follow</a:verb>
+		<published>2010-07-30T23:40:38Z</published>
+		<updated>2010-07-30T23:40:38Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6p01156f24e3e6970c</id>
+			<title type="text">apgwoz</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/person</a:object-type>
+			<link rel="alternate" type="text/html" href="http://profile.typepad.com/apgwoz"/>
+			<link rel="preview" type="image/jpeg" href="http://up6.typepad.com/6a01156f24e3e6970c0115706307cb970b-75si"/>
+		</a:object>
+		<content type="html"> </content>
+		<link rel="alternate" type="text/html" href="http://profile.typepad.com/apgwoz"/>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e2013485dfe0dd970c</id>
+		<title type="text"> markpasc added 'a face' as a favorite </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/favorite</a:verb>
+		<published>2010-07-30T21:51:36Z</published>
+		<updated>2010-07-30T21:51:36Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a01156f24e3e6970c0133f2bb4f73970b</id>
+			<title type="text">a face</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/photo</a:object-type>
+			<published>2010-07-30T20:17:24Z</published>
+			<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a01156f24e3e6970c0133f2bb4f73970b"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p01156f24e3e6970c</id>
+				<name>apgwoz</name>
+				<uri>http://profile.typepad.com/apgwoz</uri>
+			</author>
+			<link rel="preview" type="image/jpeg" href="http://a3.typepad.com/6a01156f24e3e6970c0133f2bb4f73970b-150si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a3.typepad.com/6a01156f24e3e6970c0133f2bb4f73970b-640si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a3.typepad.com/6a01156f24e3e6970c0133f2bb4f73970b-pi"/>
+			<content type="html"/>
+		</a:object>
+		<content type="html"> </content>
+		<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a01156f24e3e6970c0133f2bb4f73970b"/>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20133f2bb19eb970b</id>
+		<title type="text"> markpasc added 'a face' as a favorite </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/favorite</a:verb>
+		<published>2010-07-30T19:46:35Z</published>
+		<updated>2010-07-30T19:46:35Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00d8344ba3ea53ef013485dedd2e970c</id>
+			<title type="text">a face</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/photo</a:object-type>
+			<published>2010-07-30T19:44:40Z</published>
+			<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a00d8344ba3ea53ef013485dedd2e970c"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d8344ba3ea53ef</id>
+				<name>Steve Calderon</name>
+				<uri>http://profile.typepad.com/stevecalderon</uri>
+			</author>
+			<link rel="preview" type="image/jpeg" href="http://a6.typepad.com/6a00d8344ba3ea53ef013485dedd2e970c-150si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a6.typepad.com/6a00d8344ba3ea53ef013485dedd2e970c-640si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a6.typepad.com/6a00d8344ba3ea53ef013485dedd2e970c-pi"/>
+			<content type="html"/>
+		</a:object>
+		<content type="html"> </content>
+		<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a00d8344ba3ea53ef013485dedd2e970c"/>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20133f2b642c3970b</id>
+		<title type="text"> markpasc added 'Dancing Pigeons - Ritalin' as a favorite </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/favorite</a:verb>
+		<published>2010-07-30T04:48:13Z</published>
+		<updated>2010-07-30T04:48:13Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a010535d296d4970b013485d597ee970c</id>
+			<title type="text">Dancing Pigeons - Ritalin</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-07-29T17:20:25Z</published>
+			<link rel="alternate" type="text/html" href="http://thegestalt.typepad.com/choon/2010/07/dancing-pigeons-ritalin.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p010535d296d4970b</id>
+				<name>Simon Wistow</name>
+				<uri>http://profile.typepad.com/simonwistow</uri>
+			</author>
+			<content type="html">&lt;br /&gt;&lt;p align="center" class="asset asset-video" style="margin: 0pt auto; display: block;"&gt;&lt;object height="306" width="500"&gt;&lt;param name="movie" value="http://www.youtube.com/v/eGbucSjSLDw&amp;amp;fs=1" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed allowfullscreen="true" allowscriptaccess="always" height="306" src="http://www.youtube.com/v/eGbucSjSLDw&amp;amp;fs=1" type="application/x-shockwave-flash" width="500" /&gt;&lt;/object&gt;&lt;/p&gt;&lt;br /&gt;</content>
+		</a:object>
+		<content type="html"> &lt;br /&gt;&lt;p align="center" class="asset asset-video" style="margin: 0pt auto; display: block;"&gt;&lt;object height="306" width="500"&gt;&lt;param name="movie" value="http://www.youtube.com/v/eGbucSjSLDw&amp;amp;fs=1" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed allowfullscreen="true" allowscriptaccess="always" height="306" src="http://www.youtube.com/v/eGbucSjSLDw&amp;amp;fs=1" type="application/x-shockwave-flash" width="500" /&gt;&lt;/object&gt;&lt;/p&gt;&lt;br /&gt;</content>
+		<link rel="alternate" type="text/html" href="http://thegestalt.typepad.com/choon/2010/07/dancing-pigeons-ritalin.html"/>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e2013485c945a0970c</id>
+		<title type="text"> markpasc added 'iPhone Pull to Refresh' as a favorite </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/favorite</a:verb>
+		<published>2010-07-28T19:12:43Z</published>
+		<updated>2010-07-28T19:12:43Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a0105361a0fa1970b013485af7fe0970c</id>
+			<title type="text">iPhone Pull to Refresh</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-07-25T18:15:35Z</published>
+			<link rel="alternate" type="text/html" href="http://blog.leahculver.com/2010/07/iphone-pull-to-refresh.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p0105361a0fa1970b</id>
+				<name>Leah Culver</name>
+				<uri>http://profile.typepad.com/leahculver</uri>
+			</author>
+			<content type="html">&lt;p&gt;Ever since &lt;a href="http://www.atebits.com/tweetie-iphone/" target="_blank"&gt;Tweetie 2&lt;/a&gt;, the pull-to-refresh paradigm has been a hot feature for iPhone applications. The idea is that you can pull down on a list of items to refresh them. This saves you from needing some sort of &amp;quot;refresh&amp;quot; or &amp;quot;reload&amp;quot; button. Nice!&lt;/p&gt; &lt;p&gt;For the upcoming V2 of the &lt;a href="http://itunes.apple.com/us/app/plancast/id360854454" target="_blank"&gt;Plancast iPhone app&lt;/a&gt; we really wanted to replace the current &amp;quot;reload&amp;quot; toolbar item with the pull-to-refresh style. However, the existing open source pull to refresh examples such as &lt;a href="http://github.com/facebook/three20" target="_blank"&gt;Three20&amp;#39;s Pull to Reload&lt;/a&gt; and &lt;a href="http://github.com/enormego/EGOTableViewPullRefresh" target="_blank"&gt;EGOTableViewPullRefresh&lt;/a&gt; are a little too complicated for my taste. Heck - this should only require one file!&lt;/p&gt; &lt;p&gt;So here it is... a very simple pull-to-refresh:&lt;/p&gt; &lt;p&gt;&lt;a href="http://github.com/leah/PullToRefresh" target="_blank"&gt;PullToRefresh&lt;/a&gt;&lt;/p&gt; &lt;p&gt;All you need to do is add the .h and .m files to your project and subclass them. I&amp;#39;ve added a bit of a hack to make pull-to-refresh work with tables that have multiple sections (like Plancast).&lt;/p&gt; &lt;p&gt;There&amp;#39;s even a built-in demo so you can try it out right away.&lt;/p&gt; &lt;p&gt;&lt;img alt="Refresh-1" src="http://s3.amazonaws.com/leah.baconfile.com/blog/refresh-1.png" width="180px" /&gt; &lt;img alt="Refresh-2" src="http://s3.amazonaws.com/leah.baconfile.com/blog/refresh-2.png" width="180px" /&gt; &lt;img alt="Refresh-3" src="http://s3.amazonaws.com/leah.baconfile.com/blog/refresh-3.png" width="180px" /&gt;&lt;/p&gt;</content>
+		</a:object>
+		<content type="html"> &lt;p&gt;Ever since &lt;a href="http://www.atebits.com/tweetie-iphone/" target="_blank"&gt;Tweetie 2&lt;/a&gt;, the pull-to-refresh paradigm has been a hot feature for iPhone applications. The idea is that you can pull down on a list of items to refresh them. This saves you from needing some sort of &amp;quot;refresh&amp;quot; or &amp;quot;reload&amp;quot; button. Nice!&lt;/p&gt; &lt;p&gt;For the upcoming V2 of the &lt;a href="http://itunes.apple.com/us/app/plancast/id360854454" target="_blank"&gt;Plancast iPhone app&lt;/a&gt; we really wanted to replace the current &amp;quot;reload&amp;quot; toolbar item with the pull-to-refresh style. However, the existing open source pull to refresh examples such as &lt;a href="http://github.com/facebook/three20" target="_blank"&gt;Three20&amp;#39;s Pull to Reload&lt;/a&gt; and &lt;a href="http://github.com/enormego/EGOTableViewPullRefresh" target="_blank"&gt;EGOTableViewPullRefresh&lt;/a&gt; are a little too complicated for my taste. Heck - this should only require one file!&lt;/p&gt; &lt;p&gt;So here it is... a very simple pull-to-refresh:&lt;/p&gt; &lt;p&gt;&lt;a href="http://github.com/leah/PullToRefresh" target="_blank"&gt;PullToRefresh&lt;/a&gt;&lt;/p&gt; &lt;p&gt;All you need to do is add the .h and .m files to your project and subclass them. I&amp;#39;ve added a bit of a hack to make pull-to-refresh work with tables that have multiple sections (like Plancast).&lt;/p&gt; &lt;p&gt;There&amp;#39;s even a built-in demo so you can try it out right away.&lt;/p&gt; &lt;p&gt;&lt;img alt="Refresh-1" src="http://s3.amazonaws.com/leah.baconfile.com/blog/refresh-1.png" width="180px" /&gt; &lt;img alt="Refresh-2" src="http://s3.amazonaws.com/leah.baconfile.com/blog/refresh-2.png" width="180px" /&gt; &lt;img alt="Refresh-3" src="http://s3.amazonaws.com/leah.baconfile.com/blog/refresh-3.png" width="180px" /&gt;&lt;/p&gt;</content>
+		<link rel="alternate" type="text/html" href="http://blog.leahculver.com/2010/07/iphone-pull-to-refresh.html"/>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e2013485c2ba30970c</id>
+		<title type="text"> markpasc added 'Searching for balance between features and performance' as a favorite </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/favorite</a:verb>
+		<published>2010-07-28T00:52:30Z</published>
+		<updated>2010-07-28T00:52:30Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a0120a956067b970b0133f29de8f4970b</id>
+			<title type="text">Searching for balance between features and performance</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-07-28T00:11:47Z</published>
+			<link rel="alternate" type="text/html" href="http://devblog.typepad.com/typepad-dev-blog/2010/07/searching-for-balance-between-features-and-performance.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00e54fe21eb58833</id>
+				<name>Tim Hurley</name>
+				<uri>http://profile.typepad.com/timofh</uri>
+			</author>
+			<content type="html">&lt;p&gt;Running a service at the scale of TypePad requires constantly trading off between features and performance. Recently we tested how we might improve performance of &lt;a href="../../../../../services/apidocs/endpoints/assets"&gt;the search API&lt;/a&gt;, and found that there is not a configuration in which we can have efficient query searches for keywords (that is, regular searches) in tandem with efficient query-less filter searches (a nice feature to have, but not critical). Therefore we decided to remove support for query-less filter searching against the API.&lt;/p&gt; &lt;p&gt; </content>
+		</a:object>
+		<content type="html"> &lt;p&gt;Running a service at the scale of TypePad requires constantly trading off between features and performance. Recently we tested how we might improve performance of &lt;a href="../../../../../services/apidocs/endpoints/assets"&gt;the search API&lt;/a&gt;, and found that there is not a configuration in which we can have efficient query searches for keywords (that is, regular searches) in tandem with efficient query-less filter searches (a nice feature to have, but not critical). Therefore we decided to remove support for query-less filter searching against the API.&lt;/p&gt; &lt;p&gt; </content>
+		<link rel="alternate" type="text/html" href="http://devblog.typepad.com/typepad-dev-blog/2010/07/searching-for-balance-between-features-and-performance.html"/>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e2013485c20934970c</id>
+		<title type="text"> markpasc posted an entry </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/post</a:verb>
+		<published>2010-07-27T23:38:40Z</published>
+		<updated>2010-07-27T23:38:40Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a010535d296d4970b013485c20932970c</id>
+			<title type="text">Paper Tiger &#x2013;&#xA0;2nd Day Back</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-07-27T23:38:40Z</published>
+			<link rel="alternate" type="text/html" href="http://thegestalt.typepad.com/choon/2010/07/paper-tiger--2nd-day-back.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
+				<name>markpasc</name>
+				<uri>http://profile.typepad.com/markpasc</uri>
+			</author>
+			<content type="html">&lt;object height="351" width="580"&gt;&lt;param name="movie" value="http://www.youtube.com/v/RzKqJauLFUA&amp;amp;hl=en_US&amp;amp;fs=1" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed allowfullscreen="true" allowscriptaccess="always" height="351" src="http://www.youtube.com/v/RzKqJauLFUA&amp;amp;hl=en_US&amp;amp;fs=1" type="application/x-shockwave-flash" width="580" /&gt;&lt;/object&gt;&lt;p&gt;&lt;small&gt;via &lt;a href="http://www.youtube.com/watch?v=RzKqJauLFUA"&gt;www.youtube.com&lt;/a&gt;&lt;/small&gt;&lt;/p&gt; </content>
+		</a:object>
+		<content type="html"> &lt;object height="351" width="580"&gt;&lt;param name="movie" value="http://www.youtube.com/v/RzKqJauLFUA&amp;amp;hl=en_US&amp;amp;fs=1" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed allowfullscreen="true" allowscriptaccess="always" height="351" src="http://www.youtube.com/v/RzKqJauLFUA&amp;amp;hl=en_US&amp;amp;fs=1" type="application/x-shockwave-flash" width="580" /&gt;&lt;/object&gt;&lt;p&gt;&lt;small&gt;via &lt;a href="http://www.youtube.com/watch?v=RzKqJauLFUA"&gt;www.youtube.com&lt;/a&gt;&lt;/small&gt;&lt;/p&gt; </content>
+		<link rel="alternate" type="text/html" href="http://thegestalt.typepad.com/choon/2010/07/paper-tiger--2nd-day-back.html"/>
+		<a:target>
+			<id>tag:api.typepad.com,2009:6a010535d296d4970b012875dab638970c</id>
+			<title type="text">Choon</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/blog</a:object-type>
+		</a:target>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e2013485bd5da1970c</id>
+		<title type="text"> markpasc added 'Know your meme' as a favorite </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/favorite</a:verb>
+		<published>2010-07-27T17:37:18Z</published>
+		<updated>2010-07-27T17:37:18Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a0115706d9971970b013485b54117970c</id>
+			<title type="text">Know your meme</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-07-26T18:03:42Z</published>
+			<link rel="alternate" type="text/html" href="http://madecoffee.typepad.com/madecoffee/2010/07/know-your-meme.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p0115706d9971970b</id>
+				<name>Mr. Coffee</name>
+				<uri>http://profile.typepad.com/madecoffee</uri>
+			</author>
+			<content type="html">&lt;p&gt;&lt;br/&gt; &lt;!-- (DWIM) attachments start here --&gt;&lt;/p&gt; &lt;p&gt;&lt;a style="display: inline;" href="http://madecoffee.typepad.com/files/cimg0035.jpg"&gt;&lt;img class="asset asset-image at-xid-6a0115706d9971970b013485b5410f970c" alt="CIMG0035.jpg" src="http://madecoffee.typepad.com/.a/6a0115706d9971970b013485b5410f970c-580wi" /&gt;&lt;/a&gt; &lt;br /&gt;&lt;/p&gt;</content>
+		</a:object>
+		<content type="html"> &lt;p&gt;&lt;br/&gt; &lt;!-- (DWIM) attachments start here --&gt;&lt;/p&gt; &lt;p&gt;&lt;a style="display: inline;" href="http://madecoffee.typepad.com/files/cimg0035.jpg"&gt;&lt;img class="asset asset-image at-xid-6a0115706d9971970b013485b5410f970c" alt="CIMG0035.jpg" src="http://madecoffee.typepad.com/.a/6a0115706d9971970b013485b5410f970c-580wi" /&gt;&lt;/a&gt; &lt;br /&gt;&lt;/p&gt;</content>
+		<link rel="alternate" type="text/html" href="http://madecoffee.typepad.com/madecoffee/2010/07/know-your-meme.html"/>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e2013485bd536e970c</id>
+		<title type="text"> markpasc posted a photo </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/post</a:verb>
+		<published>2010-07-27T17:35:02Z</published>
+		<updated>2010-07-27T17:35:02Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e2013485bd5366970c</id>
+			<title type="text">a face</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/photo</a:object-type>
+			<published>2010-07-27T17:35:02Z</published>
+			<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a00d83451ce6b69e2013485bd5366970c"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
+				<name>markpasc</name>
+				<uri>http://profile.typepad.com/markpasc</uri>
+			</author>
+			<link rel="preview" type="image/jpeg" href="http://a6.typepad.com/6a00d83451ce6b69e2013485bd5366970c-150si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a6.typepad.com/6a00d83451ce6b69e2013485bd5366970c-640si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a6.typepad.com/6a00d83451ce6b69e2013485bd5366970c-pi"/>
+			<content type="html"/>
+		</a:object>
+		<content type="html"> </content>
+		<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a00d83451ce6b69e2013485bd5366970c"/>
+		<a:target>
+			<id>tag:api.typepad.com,2009:6p0120a7ea2e1c970b</id>
+			<title type="text">Make A Face</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/group</a:object-type>
+			<link rel="alternate" type="text/html" href="http://make-a-face.org/"/>
+		</a:target>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20133f27a8182970b</id>
+		<title type="text"> markpasc added 'a face' as a favorite </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/favorite</a:verb>
+		<published>2010-07-22T20:29:55Z</published>
+		<updated>2010-07-22T20:29:55Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a01127947363b28a40133f273ea16970b</id>
+			<title type="text">a face</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/photo</a:object-type>
+			<published>2010-07-21T20:37:53Z</published>
+			<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a01127947363b28a40133f273ea16970b"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p01127947363b28a4</id>
+				<name>Nima Badiey</name>
+				<uri>http://profile.typepad.com/badnima</uri>
+			</author>
+			<link rel="preview" type="image/jpeg" href="http://a6.typepad.com/6a01127947363b28a40133f273ea16970b-150si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a6.typepad.com/6a01127947363b28a40133f273ea16970b-640si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a6.typepad.com/6a01127947363b28a40133f273ea16970b-pi"/>
+			<content type="html"/>
+		</a:object>
+		<content type="html"> </content>
+		<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a01127947363b28a40133f273ea16970b"/>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20133f27a80b5970b</id>
+		<title type="text"> markpasc added 'a face' as a favorite </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/favorite</a:verb>
+		<published>2010-07-22T20:29:38Z</published>
+		<updated>2010-07-22T20:29:38Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00d8344ba3ea53ef0133f2736aaf970b</id>
+			<title type="text">a face</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/photo</a:object-type>
+			<published>2010-07-21T19:27:26Z</published>
+			<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a00d8344ba3ea53ef0133f2736aaf970b"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d8344ba3ea53ef</id>
+				<name>Steve Calderon</name>
+				<uri>http://profile.typepad.com/stevecalderon</uri>
+			</author>
+			<link rel="preview" type="image/jpeg" href="http://a7.typepad.com/6a00d8344ba3ea53ef0133f2736aaf970b-150si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a7.typepad.com/6a00d8344ba3ea53ef0133f2736aaf970b-640si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a7.typepad.com/6a00d8344ba3ea53ef0133f2736aaf970b-pi"/>
+			<content type="html"/>
+		</a:object>
+		<content type="html"> </content>
+		<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a00d8344ba3ea53ef0133f2736aaf970b"/>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20134859f3a07970c</id>
+		<title type="text"> markpasc posted a photo </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/post</a:verb>
+		<published>2010-07-22T20:29:33Z</published>
+		<updated>2010-07-22T20:29:33Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20134859f3a00970c</id>
+			<title type="text">a face</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/photo</a:object-type>
+			<published>2010-07-22T20:29:32Z</published>
+			<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a00d83451ce6b69e20134859f3a00970c"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
+				<name>markpasc</name>
+				<uri>http://profile.typepad.com/markpasc</uri>
+			</author>
+			<link rel="preview" type="image/jpeg" href="http://a0.typepad.com/6a00d83451ce6b69e20134859f3a00970c-150si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a0.typepad.com/6a00d83451ce6b69e20134859f3a00970c-640si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a0.typepad.com/6a00d83451ce6b69e20134859f3a00970c-pi"/>
+			<content type="html"/>
+		</a:object>
+		<content type="html"> </content>
+		<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a00d83451ce6b69e20134859f3a00970c"/>
+		<a:target>
+			<id>tag:api.typepad.com,2009:6p0120a7ea2e1c970b</id>
+			<title type="text">Make A Face</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/group</a:object-type>
+			<link rel="alternate" type="text/html" href="http://make-a-face.org/"/>
+		</a:target>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20133f27a5d3a970b</id>
+		<title type="text"> markpasc posted an entry </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/post</a:verb>
+		<published>2010-07-22T20:17:41Z</published>
+		<updated>2010-07-22T20:17:41Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20133f27a5d34970b</id>
+			<title type="text">Eleven and up</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-07-22T20:17:40Z</published>
+			<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/07/eleven-and-up.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
+				<name>markpasc</name>
+				<uri>http://profile.typepad.com/markpasc</uri>
+			</author>
+			<content type="html">&lt;blockquote&gt;&lt;p&gt;I started imagining what it would be like to stay in my job for years while also contending with all of my frustrated ambitions.&lt;/p&gt;&lt;/blockquote&gt; &lt;p&gt;&lt;small&gt;via &lt;a href="http://www.subtraction.com/2010/07/22/this-one-goes-to-eleven-and-up"&gt;www.subtraction.com&lt;/a&gt;&lt;/small&gt;&lt;/p&gt; </content>
+		</a:object>
+		<content type="html"> &lt;blockquote&gt;&lt;p&gt;I started imagining what it would be like to stay in my job for years while also contending with all of my frustrated ambitions.&lt;/p&gt;&lt;/blockquote&gt; &lt;p&gt;&lt;small&gt;via &lt;a href="http://www.subtraction.com/2010/07/22/this-one-goes-to-eleven-and-up"&gt;www.subtraction.com&lt;/a&gt;&lt;/small&gt;&lt;/p&gt; </content>
+		<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/07/eleven-and-up.html"/>
+		<a:target>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20120a81fb3a4970b</id>
+			<title type="text">markpasc</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/blog</a:object-type>
+		</a:target>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20134859f1746970c</id>
+		<title type="text"> markpasc added 'Marina and the Diamonds - Oh No!' as a favorite </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/favorite</a:verb>
+		<published>2010-07-22T20:12:55Z</published>
+		<updated>2010-07-22T20:12:55Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a010535d296d4970b0133f272e08f970b</id>
+			<title type="text">Marina and the Diamonds - Oh No!</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-07-21T18:13:57Z</published>
+			<link rel="alternate" type="text/html" href="http://thegestalt.typepad.com/choon/2010/07/marina-and-the-diamonds-oh-no.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p010535d296d4970b</id>
+				<name>Simon Wistow</name>
+				<uri>http://profile.typepad.com/simonwistow</uri>
+			</author>
+			<content type="html">&lt;br /&gt;&lt;p align="center" class="asset asset-video" style="margin: 0pt auto; display: block;"&gt;&lt;object height="306" width="500"&gt;&lt;param name="movie" value="http://www.youtube.com/v/Cr-SqRWImmI&amp;amp;fs=1" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed allowfullscreen="true" allowscriptaccess="always" height="306" src="http://www.youtube.com/v/Cr-SqRWImmI&amp;amp;fs=1" type="application/x-shockwave-flash" width="500" /&gt;&lt;/object&gt;&lt;/p&gt;&lt;br /&gt;</content>
+		</a:object>
+		<content type="html"> &lt;br /&gt;&lt;p align="center" class="asset asset-video" style="margin: 0pt auto; display: block;"&gt;&lt;object height="306" width="500"&gt;&lt;param name="movie" value="http://www.youtube.com/v/Cr-SqRWImmI&amp;amp;fs=1" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed allowfullscreen="true" allowscriptaccess="always" height="306" src="http://www.youtube.com/v/Cr-SqRWImmI&amp;amp;fs=1" type="application/x-shockwave-flash" width="500" /&gt;&lt;/object&gt;&lt;/p&gt;&lt;br /&gt;</content>
+		<link rel="alternate" type="text/html" href="http://thegestalt.typepad.com/choon/2010/07/marina-and-the-diamonds-oh-no.html"/>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e2013485918fa0970c</id>
+		<title type="text"> markpasc posted an entry </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/post</a:verb>
+		<published>2010-07-20T19:03:01Z</published>
+		<updated>2010-07-20T19:03:01Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a010535d296d4970b0133f26c4b03970b</id>
+			<title type="text">Lumerians &#x2013;&#xA0;Dance Party Revival 6</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-07-20T19:02:05Z</published>
+			<link rel="alternate" type="text/html" href="http://thegestalt.typepad.com/choon/2010/07/lumerians-dance-party-revival-6.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
+				<name>markpasc</name>
+				<uri>http://profile.typepad.com/markpasc</uri>
+			</author>
+			<content type="html">&lt;object width="580" height="435"&gt; &lt;param name="allowfullscreen" value="true" /&gt; &lt;param name="allowscriptaccess" value="always" /&gt; &lt;param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=6736901&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=00ADEF&amp;amp;fullscreen=1" /&gt;&lt;embed type="application/x-shockwave-flash" width="580" height="435" src="http://vimeo.com/moogaloop.swf?clip_id=6736901&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=00ADEF&amp;amp;fullscreen=1" allowscriptaccess="always" allowfullscreen="true"&gt;&lt;/embed&gt; &lt;/object&gt; &lt;p&gt;&lt;a href="http://vimeo.com/6736901"&gt;Dance Party Revival 6 - Lumerians&lt;/a&gt; from &lt;a href="http://vimeo.com/user2348419"&gt;lumerians&lt;/a&gt; on &lt;a href="http://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</content>
+		</a:object>
+		<content type="html"> &lt;object width="580" height="435"&gt; &lt;param name="allowfullscreen" value="true" /&gt; &lt;param name="allowscriptaccess" value="always" /&gt; &lt;param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=6736901&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=00ADEF&amp;amp;fullscreen=1" /&gt;&lt;embed type="application/x-shockwave-flash" width="580" height="435" src="http://vimeo.com/moogaloop.swf?clip_id=6736901&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=00ADEF&amp;amp;fullscreen=1" allowscriptaccess="always" allowfullscreen="true"&gt;&lt;/embed&gt; &lt;/object&gt; &lt;p&gt;&lt;a href="http://vimeo.com/6736901"&gt;Dance Party Revival 6 - Lumerians&lt;/a&gt; from &lt;a href="http://vimeo.com/user2348419"&gt;lumerians&lt;/a&gt; on &lt;a href="http://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</content>
+		<link rel="alternate" type="text/html" href="http://thegestalt.typepad.com/choon/2010/07/lumerians-dance-party-revival-6.html"/>
+		<a:target>
+			<id>tag:api.typepad.com,2009:6a010535d296d4970b012875dab638970c</id>
+			<title type="text">Choon</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/blog</a:object-type>
+		</a:target>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e201348585a72f970c</id>
+		<title type="text"> markpasc added 'Heh, These Kids Don't Know That I Have No Idea What I'm Doing' as a favorite </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/favorite</a:verb>
+		<published>2010-07-18T21:56:55Z</published>
+		<updated>2010-07-18T21:56:55Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00e5523d9daf8833013485828cc6970c</id>
+			<title type="text">Heh, These Kids Don't Know That I Have No Idea What I'm Doing</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-07-18T07:24:26Z</published>
+			<link rel="alternate" type="text/html" href="http://www.dshack.net/2010/07/heh-these-kids-dont-know-that-i-have-no-idea-what-im-doing.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00e5523d9daf8833</id>
+				<name>David</name>
+				<uri>http://profile.typepad.com/dshackelford</uri>
+			</author>
+			<content type="html">&lt;p&gt; &lt;a href="http://shack.typepad.com/.a/6a00e5523d9daf88330133f25d3e5d970b-pi"&gt;&lt;img alt="IMG_0262" class="asset asset-image at-xid-6a00e5523d9daf88330133f25d3e5d970b " src="http://shack.typepad.com/.a/6a00e5523d9daf88330133f25d3e5d970b-500wi" style="display: block; margin-left: auto; margin-right: auto;" /&gt;&lt;/a&gt; &lt;br /&gt;My advisor caught me on camera last week. We&amp;#39;re figuring out how many sweet potatoes it takes to make a 14-inch diameter pie.&amp;#0160;&lt;/p&gt;&lt;p&gt;I&amp;#39;m at &lt;a href="http://dorseydons.org/index2.jsp"&gt;Dorsey High&lt;/a&gt;&amp;#39;s summer school program. My students are mostly incoming 11th and 12th graders, with one or two incoming 10th graders trying to get ahead. The makeup is about 80% African American, 20% Latino. I haven&amp;#39;t seen a single white or Asian kid in the entire school (besides the 40-odd TFA teachers here). I teach a single 45-minute lesson each day, as well as co-teach a 25-minute small-groups/catch-up period.&lt;a href="http://shack.typepad.com/.a/6a00e5523d9daf8833013485827e9b970c-pi"&gt;&lt;/a&gt;&lt;a href="http://shack.typepad.com/.a/6a00e5523d9daf8833013485827eef970c-pi"&gt;&lt;br /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The kids know we&amp;#39;re green, but I don&amp;#39;t think they know just how green. You plan the lesson as detailed as you can, deliver it and run the class like you know what you&amp;#39;re talking about, and pray the kids don&amp;#39;t figure out that this is as much of a learning experience for you as it is for them. Things are starting to settle into a routine, but every day is still an adventure filled with new experiences, mistakes, frustration, inspiration, and growth.&lt;/p&gt;&lt;p&gt;One other random thought: to these kids, we are now those teachers who we could never imagine having lives outside of school. They don&amp;#39;t understand that Mr. Shackelford, Ms. Lenahan, Mr. Garris, and Mr. Alston all stay up until 1 A.M. doing their lesson plans, go out on weekends for Greek food, yogurt, and beer, watch TV, and laugh, live, and love like they do. On the other hand, I can still barely imagine my own teachers having lives, so I don&amp;#39;t blame them.&lt;/p&gt;</content>
+		</a:object>
+		<content type="html"> &lt;p&gt; &lt;a href="http://shack.typepad.com/.a/6a00e5523d9daf88330133f25d3e5d970b-pi"&gt;&lt;img alt="IMG_0262" class="asset asset-image at-xid-6a00e5523d9daf88330133f25d3e5d970b " src="http://shack.typepad.com/.a/6a00e5523d9daf88330133f25d3e5d970b-500wi" style="display: block; margin-left: auto; margin-right: auto;" /&gt;&lt;/a&gt; &lt;br /&gt;My advisor caught me on camera last week. We&amp;#39;re figuring out how many sweet potatoes it takes to make a 14-inch diameter pie.&amp;#0160;&lt;/p&gt;&lt;p&gt;I&amp;#39;m at &lt;a href="http://dorseydons.org/index2.jsp"&gt;Dorsey High&lt;/a&gt;&amp;#39;s summer school program. My students are mostly incoming 11th and 12th graders, with one or two incoming 10th graders trying to get ahead. The makeup is about 80% African American, 20% Latino. I haven&amp;#39;t seen a single white or Asian kid in the entire school (besides the 40-odd TFA teachers here). I teach a single 45-minute lesson each day, as well as co-teach a 25-minute small-groups/catch-up period.&lt;a href="http://shack.typepad.com/.a/6a00e5523d9daf8833013485827e9b970c-pi"&gt;&lt;/a&gt;&lt;a href="http://shack.typepad.com/.a/6a00e5523d9daf8833013485827eef970c-pi"&gt;&lt;br /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The kids know we&amp;#39;re green, but I don&amp;#39;t think they know just how green. You plan the lesson as detailed as you can, deliver it and run the class like you know what you&amp;#39;re talking about, and pray the kids don&amp;#39;t figure out that this is as much of a learning experience for you as it is for them. Things are starting to settle into a routine, but every day is still an adventure filled with new experiences, mistakes, frustration, inspiration, and growth.&lt;/p&gt;&lt;p&gt;One other random thought: to these kids, we are now those teachers who we could never imagine having lives outside of school. They don&amp;#39;t understand that Mr. Shackelford, Ms. Lenahan, Mr. Garris, and Mr. Alston all stay up until 1 A.M. doing their lesson plans, go out on weekends for Greek food, yogurt, and beer, watch TV, and laugh, live, and love like they do. On the other hand, I can still barely imagine my own teachers having lives, so I don&amp;#39;t blame them.&lt;/p&gt;</content>
+		<link rel="alternate" type="text/html" href="http://www.dshack.net/2010/07/heh-these-kids-dont-know-that-i-have-no-idea-what-im-doing.html"/>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e2013485753f00970c</id>
+		<title type="text"> markpasc posted an entry </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/post</a:verb>
+		<published>2010-07-15T20:47:39Z</published>
+		<updated>2010-07-15T20:47:39Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a010535d296d4970b013485753efe970c</id>
+			<title type="text">The Mynabirds &#x2013; Numbers Don't Lie</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-07-15T20:47:39Z</published>
+			<link rel="alternate" type="text/html" href="http://thegestalt.typepad.com/choon/2010/07/the-mynabirds-numbers-dont-lie.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
+				<name>markpasc</name>
+				<uri>http://profile.typepad.com/markpasc</uri>
+			</author>
+			<content type="html">&lt;object height="351" width="580"&gt;&lt;param name="movie" value="http://www.youtube.com/v/VvPBXE2Ikjs&amp;amp;hl=en_US&amp;amp;fs=1" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed allowfullscreen="true" allowscriptaccess="always" height="351" src="http://www.youtube.com/v/VvPBXE2Ikjs&amp;amp;hl=en_US&amp;amp;fs=1" type="application/x-shockwave-flash" width="580" /&gt;&lt;/object&gt;&lt;p&gt;&lt;small&gt;via &lt;a href="http://www.youtube.com/watch?v=VvPBXE2Ikjs&amp;amp;feature=related"&gt;www.youtube.com&lt;/a&gt;&lt;/small&gt;&lt;/p&gt; </content>
+		</a:object>
+		<content type="html"> &lt;object height="351" width="580"&gt;&lt;param name="movie" value="http://www.youtube.com/v/VvPBXE2Ikjs&amp;amp;hl=en_US&amp;amp;fs=1" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed allowfullscreen="true" allowscriptaccess="always" height="351" src="http://www.youtube.com/v/VvPBXE2Ikjs&amp;amp;hl=en_US&amp;amp;fs=1" type="application/x-shockwave-flash" width="580" /&gt;&lt;/object&gt;&lt;p&gt;&lt;small&gt;via &lt;a href="http://www.youtube.com/watch?v=VvPBXE2Ikjs&amp;amp;feature=related"&gt;www.youtube.com&lt;/a&gt;&lt;/small&gt;&lt;/p&gt; </content>
+		<link rel="alternate" type="text/html" href="http://thegestalt.typepad.com/choon/2010/07/the-mynabirds-numbers-dont-lie.html"/>
+		<a:target>
+			<id>tag:api.typepad.com,2009:6a010535d296d4970b012875dab638970c</id>
+			<title type="text">Choon</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/blog</a:object-type>
+		</a:target>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20133f24bba8c970b</id>
+		<title type="text"> markpasc added 'I've Now Seen: Avatar. ' as a favorite </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/favorite</a:verb>
+		<published>2010-07-15T04:29:20Z</published>
+		<updated>2010-07-15T04:29:20Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00e5539faa3b88330134856ada28970c</id>
+			<title type="text">I've Now Seen: Avatar. </title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-07-14T04:17:33Z</published>
+			<link rel="alternate" type="text/html" href="http://nataliepo.typepad.com/nataliepo/2010/07/ive-now-seen-avatar-.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00e5539faa3b8833</id>
+				<name>nataliepo</name>
+				<uri>http://profile.typepad.com/nataliepo</uri>
+			</author>
+			<content type="html">&lt;p&gt;Avatar. &amp;#0160;AVATAR AVATAR AVATAR. I watched this movie over the weekend, and, boy oh boy am I glad I waited months to see this movie because this thing was a HUGE letdown.&lt;/p&gt;&lt;p&gt;I know there was a ton of backlash about this movie and its obvious racism, so I will make the assumption that you already know the plot&amp;#39;s underpinnings of the white (American) man attempting to gentrify then exterminate a race of native people in a beautiful, natural habitat of the future. &amp;#0160;Stupid. &amp;#0160;What you may not remember is how mundane the movie actually turned out to be.&lt;/p&gt;&lt;p&gt; &lt;a href="http://nataliepo.typepad.com/.a/6a00e5539faa3b88330133f2458772970b-popup" onclick="window.open( this.href, &amp;#39;_blank&amp;#39;, &amp;#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&amp;#39; ); return false" style="float: left;"&gt;&lt;img alt="Picture 2" class="asset asset-image at-xid-6a00e5539faa3b88330133f2458772970b " src="http://nataliepo.typepad.com/.a/6a00e5539faa3b88330133f2458772970b-320wi" style="margin: 0px 5px 5px 0px;" /&gt;&lt;/a&gt; People act drunk off of Avatar&amp;#39;s special effects. I mean, have you never seen neon colors before? &amp;#0160;Is this why people inexplicably love &lt;a href="http://www.youtube.com/watch?v=QR_qa3Ohwls"&gt;Ke$ha&lt;/a&gt;, too? &amp;#0160;There a lot of comparisons to Fern Gully and Pocahontas, movies I&amp;#39;ve obviously not seen, but, yeah, I get it: shit glows, and some animals just happen to be bulletproof. &amp;#0160;There was just a whole lot more happening in this movie than hits your 3-D specs.&lt;/p&gt;&lt;p&gt;First of all, what was up with the way that the Navi exerted dominance over animals? &amp;#0160;They go on and on about this deep connection with nature and its animals... then find it perfectly okay to molest a pterydactyl despite its violent attempts to fight back -- THEN exert absolute dominance over it by connecting their blue fringey thingey with the bird&amp;#39;s tubey thingey. &amp;#0160;Sounds pretty rapey to me.&lt;/p&gt;&lt;p&gt;I HATED the way they portrayed the lead blue woman. She was an incredible warrior, great at everything, had a healthy bad-assed attitude, but wasn&amp;#39;t chosen the leader despite being the single offspring of the town heads. Really? Oh, and that time she mated with the white dude? &amp;#0160;Blue people lost their shit over that! &amp;quot;You MATED with him!?&amp;quot; &amp;#0160;Really! &amp;#0160;But the worst was the way she acted when she angry. &amp;#0160;She literally screamed like a banshee, acted super spastic, and morphed into an irrational character she had never been before. &amp;#0160;REALLY? &amp;#0160;REALLY. &amp;#0160;&lt;/p&gt;&lt;p&gt;They overdid it with the spirituality. &amp;#0160;I don&amp;#39;t remember reading about that in the reviews, nor any friends talking about it afterward because it was pretty damn ignorant. &amp;#0160;They made it look like if it weren&amp;#39;t for the white-blue man to unite the different groups, the blue people would just pray to their glitter trees until the military folk blew them all away. &amp;#0160;&lt;/p&gt;&lt;p&gt;Equally insensitive was their portrayal of military personnel. Honestly, I actively opt-out of watching military-related movies because I&amp;#39;m sensitive to that culture and its lifestyle, and hate when it&amp;#39;s glorified or unrealistic. &amp;#0160;So when Avatar treats people in cami&amp;#39;s as dumb jarheads without emotion or a rational thought process, I can&amp;#39;t stop rolling my eyes. &amp;#0160;The military is made of real people, not soulless monsters.&lt;/p&gt;&lt;p&gt;There was one good character in this entire movie, and it was, clearly...&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</content>
+		</a:object>
+		<content type="html"> &lt;p&gt;Avatar. &amp;#0160;AVATAR AVATAR AVATAR. I watched this movie over the weekend, and, boy oh boy am I glad I waited months to see this movie because this thing was a HUGE letdown.&lt;/p&gt;&lt;p&gt;I know there was a ton of backlash about this movie and its obvious racism, so I will make the assumption that you already know the plot&amp;#39;s underpinnings of the white (American) man attempting to gentrify then exterminate a race of native people in a beautiful, natural habitat of the future. &amp;#0160;Stupid. &amp;#0160;What you may not remember is how mundane the movie actually turned out to be.&lt;/p&gt;&lt;p&gt; &lt;a href="http://nataliepo.typepad.com/.a/6a00e5539faa3b88330133f2458772970b-popup" onclick="window.open( this.href, &amp;#39;_blank&amp;#39;, &amp;#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&amp;#39; ); return false" style="float: left;"&gt;&lt;img alt="Picture 2" class="asset asset-image at-xid-6a00e5539faa3b88330133f2458772970b " src="http://nataliepo.typepad.com/.a/6a00e5539faa3b88330133f2458772970b-320wi" style="margin: 0px 5px 5px 0px;" /&gt;&lt;/a&gt; People act drunk off of Avatar&amp;#39;s special effects. I mean, have you never seen neon colors before? &amp;#0160;Is this why people inexplicably love &lt;a href="http://www.youtube.com/watch?v=QR_qa3Ohwls"&gt;Ke$ha&lt;/a&gt;, too? &amp;#0160;There a lot of comparisons to Fern Gully and Pocahontas, movies I&amp;#39;ve obviously not seen, but, yeah, I get it: shit glows, and some animals just happen to be bulletproof. &amp;#0160;There was just a whole lot more happening in this movie than hits your 3-D specs.&lt;/p&gt;&lt;p&gt;First of all, what was up with the way that the Navi exerted dominance over animals? &amp;#0160;They go on and on about this deep connection with nature and its animals... then find it perfectly okay to molest a pterydactyl despite its violent attempts to fight back -- THEN exert absolute dominance over it by connecting their blue fringey thingey with the bird&amp;#39;s tubey thingey. &amp;#0160;Sounds pretty rapey to me.&lt;/p&gt;&lt;p&gt;I HATED the way they portrayed the lead blue woman. She was an incredible warrior, great at everything, had a healthy bad-assed attitude, but wasn&amp;#39;t chosen the leader despite being the single offspring of the town heads. Really? Oh, and that time she mated with the white dude? &amp;#0160;Blue people lost their shit over that! &amp;quot;You MATED with him!?&amp;quot; &amp;#0160;Really! &amp;#0160;But the worst was the way she acted when she angry. &amp;#0160;She literally screamed like a banshee, acted super spastic, and morphed into an irrational character she had never been before. &amp;#0160;REALLY? &amp;#0160;REALLY. &amp;#0160;&lt;/p&gt;&lt;p&gt;They overdid it with the spirituality. &amp;#0160;I don&amp;#39;t remember reading about that in the reviews, nor any friends talking about it afterward because it was pretty damn ignorant. &amp;#0160;They made it look like if it weren&amp;#39;t for the white-blue man to unite the different groups, the blue people would just pray to their glitter trees until the military folk blew them all away. &amp;#0160;&lt;/p&gt;&lt;p&gt;Equally insensitive was their portrayal of military personnel. Honestly, I actively opt-out of watching military-related movies because I&amp;#39;m sensitive to that culture and its lifestyle, and hate when it&amp;#39;s glorified or unrealistic. &amp;#0160;So when Avatar treats people in cami&amp;#39;s as dumb jarheads without emotion or a rational thought process, I can&amp;#39;t stop rolling my eyes. &amp;#0160;The military is made of real people, not soulless monsters.&lt;/p&gt;&lt;p&gt;There was one good character in this entire movie, and it was, clearly...&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</content>
+		<link rel="alternate" type="text/html" href="http://nataliepo.typepad.com/nataliepo/2010/07/ive-now-seen-avatar-.html"/>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e201348570fefa970c</id>
+		<title type="text"> markpasc added 'a face' as a favorite </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/favorite</a:verb>
+		<published>2010-07-15T04:25:12Z</published>
+		<updated>2010-07-15T04:25:12Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00d83424729053ef0133f24ba01b970b</id>
+			<title type="text">a face</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/photo</a:object-type>
+			<published>2010-07-15T04:05:47Z</published>
+			<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a00d83424729053ef0133f24ba01b970b"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d83424729053ef</id>
+				<name>hachi</name>
+				<uri>http://profile.typepad.com/hachi</uri>
+			</author>
+			<link rel="preview" type="image/jpeg" href="http://a3.typepad.com/6a00d83424729053ef0133f24ba01b970b-150si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a3.typepad.com/6a00d83424729053ef0133f24ba01b970b-640si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a3.typepad.com/6a00d83424729053ef0133f24ba01b970b-pi"/>
+			<content type="html"/>
+		</a:object>
+		<content type="html"> </content>
+		<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a00d83424729053ef0133f24ba01b970b"/>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e201348570fe8a970c</id>
+		<title type="text"> markpasc posted a photo </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/post</a:verb>
+		<published>2010-07-15T04:24:39Z</published>
+		<updated>2010-07-15T04:24:39Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e201348570fe83970c</id>
+			<title type="text">a face</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/photo</a:object-type>
+			<published>2010-07-15T04:24:39Z</published>
+			<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a00d83451ce6b69e201348570fe83970c"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
+				<name>markpasc</name>
+				<uri>http://profile.typepad.com/markpasc</uri>
+			</author>
+			<link rel="preview" type="image/jpeg" href="http://a3.typepad.com/6a00d83451ce6b69e201348570fe83970c-150si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a3.typepad.com/6a00d83451ce6b69e201348570fe83970c-640si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a3.typepad.com/6a00d83451ce6b69e201348570fe83970c-pi"/>
+			<content type="html"/>
+		</a:object>
+		<content type="html"> </content>
+		<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a00d83451ce6b69e201348570fe83970c"/>
+		<a:target>
+			<id>tag:api.typepad.com,2009:6p0120a7ea2e1c970b</id>
+			<title type="text">Make A Face</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/group</a:object-type>
+			<link rel="alternate" type="text/html" href="http://make-a-face.org/"/>
+		</a:target>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20134856dca0b970c</id>
+		<title type="text"> markpasc added 'a face' as a favorite </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/favorite</a:verb>
+		<published>2010-07-14T17:16:38Z</published>
+		<updated>2010-07-14T17:16:38Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a0134855f81ee970c0134855f8b4e970c</id>
+			<title type="text">a face</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/photo</a:object-type>
+			<published>2010-07-12T09:57:22Z</published>
+			<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a0134855f81ee970c0134855f8b4e970c"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p0134855f81ee970c</id>
+				<name>MizobataFumio</name>
+				<uri>http://profile.typepad.com/mizobatafumio</uri>
+			</author>
+			<link rel="preview" type="image/jpeg" href="http://a6.typepad.com/6a0134855f81ee970c0134855f8b4e970c-150si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a6.typepad.com/6a0134855f81ee970c0134855f8b4e970c-640si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a6.typepad.com/6a0134855f81ee970c0134855f8b4e970c-pi"/>
+			<content type="html"/>
+		</a:object>
+		<content type="html"> </content>
+		<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a0134855f81ee970c0134855f8b4e970c"/>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20134856dca05970c</id>
+		<title type="text"> markpasc added 'a face' as a favorite </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/favorite</a:verb>
+		<published>2010-07-14T17:16:37Z</published>
+		<updated>2010-07-14T17:16:37Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00e00996960188330133f23801ab970b</id>
+			<title type="text">a face</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/photo</a:object-type>
+			<published>2010-07-12T01:36:32Z</published>
+			<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a00e00996960188330133f23801ab970b"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00e0099696018833</id>
+				<name>fumiakiy</name>
+				<uri>http://profile.typepad.com/fumiakiy</uri>
+			</author>
+			<link rel="preview" type="image/jpeg" href="http://a3.typepad.com/6a00e00996960188330133f23801ab970b-150si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a3.typepad.com/6a00e00996960188330133f23801ab970b-640si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a3.typepad.com/6a00e00996960188330133f23801ab970b-pi"/>
+			<content type="html"/>
+		</a:object>
+		<content type="html"> </content>
+		<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a00e00996960188330133f23801ab970b"/>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20134856dc9be970c</id>
+		<title type="text"> markpasc added 'a face' as a favorite </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/favorite</a:verb>
+		<published>2010-07-14T17:16:32Z</published>
+		<updated>2010-07-14T17:16:32Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00e54f7ac65c88330133f226dec1970b</id>
+			<title type="text">a face</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/photo</a:object-type>
+			<published>2010-07-08T19:34:18Z</published>
+			<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a00e54f7ac65c88330133f226dec1970b"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00e54f7ac65c8833</id>
+				<name>.tiff</name>
+				<uri>http://profile.typepad.com/tiffchow</uri>
+			</author>
+			<link rel="preview" type="image/jpeg" href="http://a1.typepad.com/6a00e54f7ac65c88330133f226dec1970b-150si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a1.typepad.com/6a00e54f7ac65c88330133f226dec1970b-640si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a1.typepad.com/6a00e54f7ac65c88330133f226dec1970b-pi"/>
+			<content type="html"/>
+		</a:object>
+		<content type="html"> </content>
+		<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a00e54f7ac65c88330133f226dec1970b"/>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20133f248838e970b</id>
+		<title type="text"> markpasc added 'a face' as a favorite </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/favorite</a:verb>
+		<published>2010-07-14T17:16:26Z</published>
+		<updated>2010-07-14T17:16:26Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a0120a85ce28c970b0133f24644f1970b</id>
+			<title type="text">a face</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/photo</a:object-type>
+			<published>2010-07-14T07:41:12Z</published>
+			<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a0120a85ce28c970b0133f24644f1970b"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p0120a85ce28c970b</id>
+				<name>hayase</name>
+				<uri>http://profile.typepad.com/hayase</uri>
+			</author>
+			<link rel="preview" type="image/jpeg" href="http://a1.typepad.com/6a0120a85ce28c970b0133f24644f1970b-150si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a1.typepad.com/6a0120a85ce28c970b0133f24644f1970b-640si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a1.typepad.com/6a0120a85ce28c970b0133f24644f1970b-pi"/>
+			<content type="html"/>
+		</a:object>
+		<content type="html"> </content>
+		<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a0120a85ce28c970b0133f24644f1970b"/>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20133f247f03e970b</id>
+		<title type="text"> markpasc posted an entry </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/post</a:verb>
+		<published>2010-07-14T15:10:02Z</published>
+		<updated>2010-07-14T15:10:02Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20134856b2756970c</id>
+			<title type="text">Dragon Quest IX?</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-07-14T05:38:20Z</published>
+			<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/07/dragon-quest-ix.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
+				<name>markpasc</name>
+				<uri>http://profile.typepad.com/markpasc</uri>
+			</author>
+			<content type="html">&lt;p&gt;&lt;object id="flashObj" width="486" height="412" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,47,0"&gt;&lt;param name="movie" value="http://c.brightcove.com/services/viewer/federated_f9/22881388001?isVid=1" /&gt;&lt;param name="bgcolor" value="#FFFFFF" /&gt;&lt;param name="flashVars" value="videoId=111035395001&amp;amp;linkBaseURL=http%3A%2F%2Fgamevideos.1up.com%2Fvideo%2Fid%2F30364&amp;amp;playerID=22881388001&amp;amp;domain=embed&amp;amp;dynamicStreaming=true" /&gt;&lt;param name="base" value="http://admin.brightcove.com" /&gt;&lt;param name="seamlesstabbing" value="false" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="swLiveConnect" value="true" /&gt;&lt;param name="allowScriptAccess" value="always" /&gt;&lt;embed src="http://c.brightcove.com/services/viewer/federated_f9/22881388001?isVid=1" bgcolor="#FFFFFF" flashVars="videoId=111035395001&amp;amp;linkBaseURL=http%3A%2F%2Fgamevideos.1up.com%2Fvideo%2Fid%2F30364&amp;amp;playerID=22881388001&amp;amp;domain=embed&amp;amp;dynamicStreaming=true" base="http://admin.brightcove.com" name="flashObj" width="486" height="412" seamlesstabbing="false" type="application/x-shockwave-flash" allowFullScreen="true" swLiveConnect="true" allowScriptAccess="always" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt; </content>
+		</a:object>
+		<content type="html"> &lt;p&gt;&lt;object id="flashObj" width="486" height="412" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,47,0"&gt;&lt;param name="movie" value="http://c.brightcove.com/services/viewer/federated_f9/22881388001?isVid=1" /&gt;&lt;param name="bgcolor" value="#FFFFFF" /&gt;&lt;param name="flashVars" value="videoId=111035395001&amp;amp;linkBaseURL=http%3A%2F%2Fgamevideos.1up.com%2Fvideo%2Fid%2F30364&amp;amp;playerID=22881388001&amp;amp;domain=embed&amp;amp;dynamicStreaming=true" /&gt;&lt;param name="base" value="http://admin.brightcove.com" /&gt;&lt;param name="seamlesstabbing" value="false" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="swLiveConnect" value="true" /&gt;&lt;param name="allowScriptAccess" value="always" /&gt;&lt;embed src="http://c.brightcove.com/services/viewer/federated_f9/22881388001?isVid=1" bgcolor="#FFFFFF" flashVars="videoId=111035395001&amp;amp;linkBaseURL=http%3A%2F%2Fgamevideos.1up.com%2Fvideo%2Fid%2F30364&amp;amp;playerID=22881388001&amp;amp;domain=embed&amp;amp;dynamicStreaming=true" base="http://admin.brightcove.com" name="flashObj" width="486" height="412" seamlesstabbing="false" type="application/x-shockwave-flash" allowFullScreen="true" swLiveConnect="true" allowScriptAccess="always" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt; </content>
+		<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/07/dragon-quest-ix.html"/>
+		<a:target>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20120a81fb3a4970b</id>
+			<title type="text">markpasc</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/blog</a:object-type>
+		</a:target>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20133f2427f8a970b</id>
+		<title type="text"> markpasc posted an entry </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/post</a:verb>
+		<published>2010-07-13T18:41:16Z</published>
+		<updated>2010-07-13T18:41:16Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20133f2427f88970b</id>
+			<title type="text">The last airbender</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-07-13T18:41:16Z</published>
+			<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/07/the-last-airbender.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
+				<name>markpasc</name>
+				<uri>http://profile.typepad.com/markpasc</uri>
+			</author>
+			<content type="html">&lt;div id="last-airbender-netflix-box" class="netflix-box"&gt; &lt;a href="http://www.netflix.com/WiMovie/Avatar_The_Last_Airbender_Book_1/70043989"&gt;&lt;img class="boxshot" src="http://cdn-7.nflximg.com/us/boxshots/large/70043989.jpg" width="110" height="150"&gt;&lt;/a&gt; &lt;script src="http://jsapi.netflix.com/us/api/js/api.js"&gt; { "title_id" : "http://api.netflix.com/catalog/movie/70043989", "button_type" : ["PLAY_BUTTON", "ADD_BUTTON"], "show_logo" : "true", "x" : "40", "y" : "20", "dom_id" : "last-airbender-netflix-box", "application_id": "7hh3quudsagcubp5g6v5navw" } &lt;/script&gt; &lt;/div&gt; &lt;p&gt;&lt;a href="http://markpasc.typepad.com/blog/2010/07/the-inner-home-maker.html"&gt;Speaking of building epic stories&lt;/a&gt;, if anything good came of the horrible movie, it's that I spent the long July 4th weekend watching &lt;a href="http://www.netflix.com/WiMovie/Avatar_The_Last_Airbender_Book_1/70043989"&gt;&lt;em&gt;Avatar: The Last Airbender&lt;/em&gt; on Netflix&lt;/a&gt;. The way it slowly builds a world around its story and isn't all actiony violence are exactly the best points of RPG stories. Apparently I just need to stick with children's entertainment.&lt;/p&gt; </content>
+		</a:object>
+		<content type="html"> &lt;div id="last-airbender-netflix-box" class="netflix-box"&gt; &lt;a href="http://www.netflix.com/WiMovie/Avatar_The_Last_Airbender_Book_1/70043989"&gt;&lt;img class="boxshot" src="http://cdn-7.nflximg.com/us/boxshots/large/70043989.jpg" width="110" height="150"&gt;&lt;/a&gt; &lt;script src="http://jsapi.netflix.com/us/api/js/api.js"&gt; { "title_id" : "http://api.netflix.com/catalog/movie/70043989", "button_type" : ["PLAY_BUTTON", "ADD_BUTTON"], "show_logo" : "true", "x" : "40", "y" : "20", "dom_id" : "last-airbender-netflix-box", "application_id": "7hh3quudsagcubp5g6v5navw" } &lt;/script&gt; &lt;/div&gt; &lt;p&gt;&lt;a href="http://markpasc.typepad.com/blog/2010/07/the-inner-home-maker.html"&gt;Speaking of building epic stories&lt;/a&gt;, if anything good came of the horrible movie, it's that I spent the long July 4th weekend watching &lt;a href="http://www.netflix.com/WiMovie/Avatar_The_Last_Airbender_Book_1/70043989"&gt;&lt;em&gt;Avatar: The Last Airbender&lt;/em&gt; on Netflix&lt;/a&gt;. The way it slowly builds a world around its story and isn't all actiony violence are exactly the best points of RPG stories. Apparently I just need to stick with children's entertainment.&lt;/p&gt; </content>
+		<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/07/the-last-airbender.html"/>
+		<a:target>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20120a81fb3a4970b</id>
+			<title type="text">markpasc</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/blog</a:object-type>
+		</a:target>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20134856317e6970c</id>
+		<title type="text"> markpasc posted an entry </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/post</a:verb>
+		<published>2010-07-12T22:56:48Z</published>
+		<updated>2010-07-12T22:56:48Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a010535d296d4970b0134856317e4970c</id>
+			<title type="text">Tilly &amp; the Wall &#x2013; Alligator Skin</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-07-12T22:56:48Z</published>
+			<link rel="alternate" type="text/html" href="http://thegestalt.typepad.com/choon/2010/07/tilly-the-wall-alligator-skin.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
+				<name>markpasc</name>
+				<uri>http://profile.typepad.com/markpasc</uri>
+			</author>
+			<content type="html">&lt;object data="http://vimeo.com/moogaloop.swf" height="380" type="application/x-shockwave-flash" width="504"&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;param name="allowfullscreen" value="true" /&gt;&lt;param name="movie" value="http://vimeo.com/moogaloop.swf" /&gt;&lt;param name="flashvars" value="clip_id=1762039&amp;amp;color=00adef&amp;amp;fullscreen=1&amp;amp;server=vimeo.com&amp;amp;show_byline=1&amp;amp;show_portrait=1&amp;amp;show_title=1" /&gt;&lt;/object&gt;&lt;p&gt;&lt;small&gt;via &lt;a href="http://vimeo.com/1762039"&gt;vimeo.com&lt;/a&gt;&lt;/small&gt;&lt;/p&gt; </content>
+		</a:object>
+		<content type="html"> &lt;object data="http://vimeo.com/moogaloop.swf" height="380" type="application/x-shockwave-flash" width="504"&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;param name="allowfullscreen" value="true" /&gt;&lt;param name="movie" value="http://vimeo.com/moogaloop.swf" /&gt;&lt;param name="flashvars" value="clip_id=1762039&amp;amp;color=00adef&amp;amp;fullscreen=1&amp;amp;server=vimeo.com&amp;amp;show_byline=1&amp;amp;show_portrait=1&amp;amp;show_title=1" /&gt;&lt;/object&gt;&lt;p&gt;&lt;small&gt;via &lt;a href="http://vimeo.com/1762039"&gt;vimeo.com&lt;/a&gt;&lt;/small&gt;&lt;/p&gt; </content>
+		<link rel="alternate" type="text/html" href="http://thegestalt.typepad.com/choon/2010/07/tilly-the-wall-alligator-skin.html"/>
+		<a:target>
+			<id>tag:api.typepad.com,2009:6a010535d296d4970b012875dab638970c</id>
+			<title type="text">Choon</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/blog</a:object-type>
+		</a:target>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e201348563179a970c</id>
+		<title type="text"> markpasc added 'Menomena - Five Simple Rooms' as a favorite </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/favorite</a:verb>
+		<published>2010-07-12T22:56:31Z</published>
+		<updated>2010-07-12T22:56:31Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a010535d296d4970b0133f2393d0d970b</id>
+			<title type="text">Menomena - Five Simple Rooms</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-07-12T07:25:21Z</published>
+			<link rel="alternate" type="text/html" href="http://thegestalt.typepad.com/choon/2010/07/menomena-five-simple-rooms.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p0133ecb60b9d970b</id>
+				<name>Ben Ward</name>
+				<uri>http://profile.typepad.com/benward</uri>
+			</author>
+			<content type="html">&lt;p class="asset asset-audio at-xid-6a010535d296d4970b0133f23933cb970b"&gt;&lt;a href="http://thegestalt.typepad.com/files/menomena_-_five_little_rooms.mp3" class="inline-player"&gt;Menomena_-_FIVE_LITTLE_ROOMS&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Via &lt;a href="http://www.quarterlifeparty.com/test-spin-menomenas-mines-mp3/"&gt;Quarter Life Party&lt;/a&gt;, via &lt;a href="http://hypem.com/#/track/1122715"&gt;Hype Machine&lt;/a&gt;. Album &lt;i&gt;Mines&lt;/i&gt; out on July 27th.&lt;/p&gt; </content>
+		</a:object>
+		<content type="html"> &lt;p class="asset asset-audio at-xid-6a010535d296d4970b0133f23933cb970b"&gt;&lt;a href="http://thegestalt.typepad.com/files/menomena_-_five_little_rooms.mp3" class="inline-player"&gt;Menomena_-_FIVE_LITTLE_ROOMS&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Via &lt;a href="http://www.quarterlifeparty.com/test-spin-menomenas-mines-mp3/"&gt;Quarter Life Party&lt;/a&gt;, via &lt;a href="http://hypem.com/#/track/1122715"&gt;Hype Machine&lt;/a&gt;. Album &lt;i&gt;Mines&lt;/i&gt; out on July 27th.&lt;/p&gt; </content>
+		<link rel="alternate" type="text/html" href="http://thegestalt.typepad.com/choon/2010/07/menomena-five-simple-rooms.html"/>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e2013485541e2d970c</id>
+		<title type="text"> markpasc posted an entry </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/post</a:verb>
+		<published>2010-07-09T23:25:04Z</published>
+		<updated>2010-07-09T23:25:04Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a010535d296d4970b013485541e29970c</id>
+			<title type="text">Anathallo &#x2013; Bells</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-07-09T23:25:04Z</published>
+			<link rel="alternate" type="text/html" href="http://thegestalt.typepad.com/choon/2010/07/anathallo-bells.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
+				<name>markpasc</name>
+				<uri>http://profile.typepad.com/markpasc</uri>
+			</author>
+			<content type="html">&lt;object height="460" width="580"&gt;&lt;param name="movie" value="http://www.youtube.com/v/EULo90bOGq0&amp;amp;hl=en_US&amp;amp;fs=1" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed allowfullscreen="true" allowscriptaccess="always" height="460" src="http://www.youtube.com/v/EULo90bOGq0&amp;amp;hl=en_US&amp;amp;fs=1" type="application/x-shockwave-flash" width="580" /&gt;&lt;/object&gt;&lt;p&gt;&lt;small&gt;via &lt;a href="http://www.youtube.com/watch?v=EULo90bOGq0"&gt;www.youtube.com&lt;/a&gt;&lt;/small&gt;&lt;/p&gt; </content>
+		</a:object>
+		<content type="html"> &lt;object height="460" width="580"&gt;&lt;param name="movie" value="http://www.youtube.com/v/EULo90bOGq0&amp;amp;hl=en_US&amp;amp;fs=1" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed allowfullscreen="true" allowscriptaccess="always" height="460" src="http://www.youtube.com/v/EULo90bOGq0&amp;amp;hl=en_US&amp;amp;fs=1" type="application/x-shockwave-flash" width="580" /&gt;&lt;/object&gt;&lt;p&gt;&lt;small&gt;via &lt;a href="http://www.youtube.com/watch?v=EULo90bOGq0"&gt;www.youtube.com&lt;/a&gt;&lt;/small&gt;&lt;/p&gt; </content>
+		<link rel="alternate" type="text/html" href="http://thegestalt.typepad.com/choon/2010/07/anathallo-bells.html"/>
+		<a:target>
+			<id>tag:api.typepad.com,2009:6a010535d296d4970b012875dab638970c</id>
+			<title type="text">Choon</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/blog</a:object-type>
+		</a:target>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e201348546d4f7970c</id>
+		<title type="text"> markpasc posted an entry </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/post</a:verb>
+		<published>2010-07-07T23:30:54Z</published>
+		<updated>2010-07-07T23:30:54Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e201348546d4f2970c</id>
+			<title type="text">On prototypes</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-07-07T23:30:53Z</published>
+			<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/07/on-prototypes.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
+				<name>markpasc</name>
+				<uri>http://profile.typepad.com/markpasc</uri>
+			</author>
+			<content type="html">&lt;blockquote&gt;&lt;p&gt;It&amp;#39;s one thing to incubate products and bring them to a proof-of-concept to see what works, but it&amp;#39;s something else to launch.&amp;#0160; I suspect we launched because we felt like we HAD to so we could save face because we were trying to build buzz...&lt;/p&gt;&lt;/blockquote&gt; &lt;p&gt;&lt;small&gt;via &lt;a href="http://www.businessinsider.com/microsoft-rank-and-file-felt-embarassment-all-over-campus-from-kin-failure-2010-7"&gt;www.businessinsider.com&lt;/a&gt;&lt;/small&gt;&lt;/p&gt; </content>
+		</a:object>
+		<content type="html"> &lt;blockquote&gt;&lt;p&gt;It&amp;#39;s one thing to incubate products and bring them to a proof-of-concept to see what works, but it&amp;#39;s something else to launch.&amp;#0160; I suspect we launched because we felt like we HAD to so we could save face because we were trying to build buzz...&lt;/p&gt;&lt;/blockquote&gt; &lt;p&gt;&lt;small&gt;via &lt;a href="http://www.businessinsider.com/microsoft-rank-and-file-felt-embarassment-all-over-campus-from-kin-failure-2010-7"&gt;www.businessinsider.com&lt;/a&gt;&lt;/small&gt;&lt;/p&gt; </content>
+		<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/07/on-prototypes.html"/>
+		<a:target>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20120a81fb3a4970b</id>
+			<title type="text">markpasc</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/blog</a:object-type>
+		</a:target>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20134853dc793970c</id>
+		<title type="text"> markpasc added 'OSI Model of the Internet - circa 2010' as a favorite </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/favorite</a:verb>
+		<published>2010-07-06T17:23:21Z</published>
+		<updated>2010-07-06T17:23:21Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00d83456074b69e20134853cd6b8970c</id>
+			<title type="text">OSI Model of the Internet - circa 2010</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-07-06T14:24:26Z</published>
+			<link rel="alternate" type="text/html" href="http://blog.fsck.com/2010/07/osi-model-of-the-internet-circa-2010.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d83456074b69e2</id>
+				<name>Jesse</name>
+				<uri>http://profile.typepad.com/jessevincent</uri>
+			</author>
+			<content type="html">&lt;a href="http://www.flickr.com/photos/obra/4767343913/" title="OSI Model of the Internet circa 2010 by jesse, on Flickr"&gt;&lt;img src="http://farm5.static.flickr.com/4139/4767343913_5a5de477f4.jpg" width="466" height="500" alt="OSI Model of the Internet circa 2010"&gt;&lt;/a&gt; &lt;p&gt;&lt;em style="font-weight: bold; font-style: normal; "&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;(With apologies to Evi Nemeth.)&lt;/em&gt;&lt;/span&gt;</content>
+		</a:object>
+		<content type="html"> &lt;a href="http://www.flickr.com/photos/obra/4767343913/" title="OSI Model of the Internet circa 2010 by jesse, on Flickr"&gt;&lt;img src="http://farm5.static.flickr.com/4139/4767343913_5a5de477f4.jpg" width="466" height="500" alt="OSI Model of the Internet circa 2010"&gt;&lt;/a&gt; &lt;p&gt;&lt;em style="font-weight: bold; font-style: normal; "&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;(With apologies to Evi Nemeth.)&lt;/em&gt;&lt;/span&gt;</content>
+		<link rel="alternate" type="text/html" href="http://blog.fsck.com/2010/07/osi-model-of-the-internet-circa-2010.html"/>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20134853d6e48970c</id>
+		<title type="text"> markpasc posted an entry </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/post</a:verb>
+		<published>2010-07-06T16:22:01Z</published>
+		<updated>2010-07-06T16:22:01Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e2013485393bf4970c</id>
+			<title type="text">Mario 2</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-07-05T21:47:36Z</published>
+			<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/07/mario-2.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
+				<name>markpasc</name>
+				<uri>http://profile.typepad.com/markpasc</uri>
+			</author>
+			<content type="html">&lt;p&gt;Just last week some of us were looking at &lt;a href="http://www.giantbomb.com/super-mario-bros-2/61-7406/"&gt;&lt;em&gt;Super Mario Bros. 2&lt;/em&gt;&lt;/a&gt; and discussing how &lt;em&gt;weird&lt;/em&gt; it was. While we were taking a look, everyone was either &#x201C;Oh, Mario 2!&#x201D; or &#x201C;Oh... Mario &lt;em&gt;2&lt;/em&gt;.&#x201D;&lt;/p&gt; &lt;p&gt;You probably know the story that our US &lt;em&gt;Mario 2&lt;/em&gt; is really a reskinning of &lt;em&gt;Yume K&#x14D;j&#x14D;: Doki Doki Panic&lt;/em&gt; (&#x201C;Dream Factory: Heart-Pounding Panic&#x201D;), created for the US market because the Japanese &lt;em&gt;Mario 2&lt;/em&gt;, available as &lt;em&gt;Lost Levels&lt;/em&gt; on the SNES compilation &lt;em&gt;Super Mario All-Stars&lt;/em&gt;, was too hard. (Though there are &lt;a href="http://www.retrowaretv.com/home/Forums/tabid/58/forumid/11/threadid/18337/scope/posts/Default.aspx"&gt;other theories&lt;/a&gt;.) You can see a little of the intended difficulty in the marketing for &lt;em&gt;Mario 2&lt;/em&gt; in &lt;a href="http://tinycartridge.com/post/757555728/famicom-commercials-i-dont-think-im-ever-going"&gt;this compilation of Famicom commercials&lt;/a&gt;; check it out &lt;a href="http://www.youtube.com/watch?v=bp8DY1Pn6QQ#t=3m09s"&gt;at 3:09 in&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;&lt;object width="480" height="385"&gt;&lt;param name="movie" value="http://www.youtube.com/v/bp8DY1Pn6QQ&amp;amp;hl=en_US&amp;amp;fs=1"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;param name="allowscriptaccess" value="always"&gt;&lt;/param&gt;&lt;embed src="http://www.youtube.com/v/bp8DY1Pn6QQ&amp;amp;hl=en_US&amp;amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt; &lt;p&gt;You probably also know that we didn't care in the slightest, and were on the whole crazy for &lt;em&gt;Mario 2&lt;/em&gt;, as you can see in &lt;a href="http://tinycartridge.com/post/766153687/nuts-for-nintendo-20-20-special-from-1988-even"&gt;this &lt;em&gt;20/20&lt;/em&gt; segment&lt;/a&gt;. (The Hudson Joycard from the first video makes a brief appearance.)&lt;/p&gt; &lt;p&gt;&lt;object width="580" height="435"&gt;&lt;param name="allowfullscreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=12997770&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=00ADEF&amp;amp;fullscreen=1" /&gt;&lt;embed src="http://vimeo.com/moogaloop.swf?clip_id=12997770&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=00ADEF&amp;amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="580" height="435"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;p&gt;&lt;a href="http://vimeo.com/12997770"&gt;NUTS FOR NINTENDO special on ABC news 20/20 from 1988&lt;/a&gt; from &lt;a href="http://vimeo.com/shertz"&gt;Steven Hertz&lt;/a&gt; on &lt;a href="http://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt; &lt;p&gt;Though I guess we did think it a little strange:&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;There's this part where you can't go anywhere except fall down a pit but you pick up this thing and this rocket appears out of nowhere and it flies to another board. It's weird.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;But that's why &lt;em&gt;Mario 2&lt;/em&gt; is still one of my favorites.&lt;/p&gt; </content>
+		</a:object>
+		<content type="html"> &lt;p&gt;Just last week some of us were looking at &lt;a href="http://www.giantbomb.com/super-mario-bros-2/61-7406/"&gt;&lt;em&gt;Super Mario Bros. 2&lt;/em&gt;&lt;/a&gt; and discussing how &lt;em&gt;weird&lt;/em&gt; it was. While we were taking a look, everyone was either &#x201C;Oh, Mario 2!&#x201D; or &#x201C;Oh... Mario &lt;em&gt;2&lt;/em&gt;.&#x201D;&lt;/p&gt; &lt;p&gt;You probably know the story that our US &lt;em&gt;Mario 2&lt;/em&gt; is really a reskinning of &lt;em&gt;Yume K&#x14D;j&#x14D;: Doki Doki Panic&lt;/em&gt; (&#x201C;Dream Factory: Heart-Pounding Panic&#x201D;), created for the US market because the Japanese &lt;em&gt;Mario 2&lt;/em&gt;, available as &lt;em&gt;Lost Levels&lt;/em&gt; on the SNES compilation &lt;em&gt;Super Mario All-Stars&lt;/em&gt;, was too hard. (Though there are &lt;a href="http://www.retrowaretv.com/home/Forums/tabid/58/forumid/11/threadid/18337/scope/posts/Default.aspx"&gt;other theories&lt;/a&gt;.) You can see a little of the intended difficulty in the marketing for &lt;em&gt;Mario 2&lt;/em&gt; in &lt;a href="http://tinycartridge.com/post/757555728/famicom-commercials-i-dont-think-im-ever-going"&gt;this compilation of Famicom commercials&lt;/a&gt;; check it out &lt;a href="http://www.youtube.com/watch?v=bp8DY1Pn6QQ#t=3m09s"&gt;at 3:09 in&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;&lt;object width="480" height="385"&gt;&lt;param name="movie" value="http://www.youtube.com/v/bp8DY1Pn6QQ&amp;amp;hl=en_US&amp;amp;fs=1"&gt;&lt;/param&gt;&lt;param name="allowFullScreen" value="true"&gt;&lt;/param&gt;&lt;param name="allowscriptaccess" value="always"&gt;&lt;/param&gt;&lt;embed src="http://www.youtube.com/v/bp8DY1Pn6QQ&amp;amp;hl=en_US&amp;amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt; &lt;p&gt;You probably also know that we didn't care in the slightest, and were on the whole crazy for &lt;em&gt;Mario 2&lt;/em&gt;, as you can see in &lt;a href="http://tinycartridge.com/post/766153687/nuts-for-nintendo-20-20-special-from-1988-even"&gt;this &lt;em&gt;20/20&lt;/em&gt; segment&lt;/a&gt;. (The Hudson Joycard from the first video makes a brief appearance.)&lt;/p&gt; &lt;p&gt;&lt;object width="580" height="435"&gt;&lt;param name="allowfullscreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=12997770&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=00ADEF&amp;amp;fullscreen=1" /&gt;&lt;embed src="http://vimeo.com/moogaloop.swf?clip_id=12997770&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=00ADEF&amp;amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="580" height="435"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;p&gt;&lt;a href="http://vimeo.com/12997770"&gt;NUTS FOR NINTENDO special on ABC news 20/20 from 1988&lt;/a&gt; from &lt;a href="http://vimeo.com/shertz"&gt;Steven Hertz&lt;/a&gt; on &lt;a href="http://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt; &lt;p&gt;Though I guess we did think it a little strange:&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;There's this part where you can't go anywhere except fall down a pit but you pick up this thing and this rocket appears out of nowhere and it flies to another board. It's weird.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;But that's why &lt;em&gt;Mario 2&lt;/em&gt; is still one of my favorites.&lt;/p&gt; </content>
+		<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/07/mario-2.html"/>
+		<a:target>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20120a81fb3a4970b</id>
+			<title type="text">markpasc</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/blog</a:object-type>
+		</a:target>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20134852aba7c970c</id>
+		<title type="text"> markpasc posted an entry </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/post</a:verb>
+		<published>2010-07-02T22:47:04Z</published>
+		<updated>2010-07-02T22:47:04Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20133f204dc0a970b</id>
+			<title type="text">The inner home maker</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-07-02T20:34:21Z</published>
+			<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/07/the-inner-home-maker.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
+				<name>markpasc</name>
+				<uri>http://profile.typepad.com/markpasc</uri>
+			</author>
+			<content type="html">&lt;p&gt;I'll have a hard time waiting until the US release somewhen next year to play the new &lt;em&gt;Animal Crossing&lt;/em&gt; for 3DS&#x2014;but why? There's a mix of &lt;a href="http://ds.neologasm.org/animal-crossing/"&gt;warm memories&lt;/a&gt; of the Gamecube and DS versions, but also it's simply a very different experience from most other games.&lt;/p&gt; &lt;p&gt;There are many games (especially Nintendo games) that seem similar, but compare those few to the &lt;em&gt;rest&lt;/em&gt; of what the industry is making. Take for example &lt;a href="http://www.1up.com/do/blogEntry?bId=9034495"&gt;the E3 experience of Jeremy Parish&lt;/a&gt; (who I miss seeing &lt;a href="http://www.youtube.com/watch?v=7MTkLc9WMZk"&gt;on the 1up show&lt;/a&gt;):&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Last weekend, I had dinner with my fianc&#xE9;e's mother. She spent a good part of that meal talking about how harrowing it had been living in war-torn Vietnam through four decades of conflict before finally emigrating to America in the '70s. ... She explained how terrifying the Tet Offensive was, since America's war in Vietnam was largely restricted to the countryside; no one had expected the conflict to come to the cities, least of all on a holiday for which a cease fire had been declared.&lt;/p&gt; &lt;p&gt;A day later, I found myself sitting in a press conference in Los Angeles, watching a couple of guys demo a videogame on a wall-sized screen. Their avatars hijacked a Russian helicopter, guns blazing, then took off from a jungle clearing before peppering villages of Vietnamese shanty huts with turret fire and missiles.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;&lt;small&gt;via &lt;a href="http://www.1up.com/do/blogEntry?bId=9034495"&gt;www.1up.com&lt;/a&gt;&lt;/small&gt;&lt;/p&gt; &lt;p&gt;I generally play in the area of platformers, puzzle and adventure games. When there's story, it's comedic. (I just started &lt;a href="http://www.telltalegames.com/puzzleagent"&gt;&lt;em&gt;Nelson Tethers: Puzzle Agent&lt;/em&gt;&lt;/a&gt; last night.) Even &lt;em&gt;Halo 3: ODST&lt;/em&gt;, a game about fighting inhuman alien creatures who are invading a human city to destroy it, was a big departure for me. Parish mentions &lt;em&gt;Bulletstorm&lt;/em&gt;, a game from E3 that &lt;a href="http://markpasc.typepad.com/blog/2010/06/eee.html"&gt;I thought&lt;/a&gt; looked pretty awesome in that comedy-of-violence way; I would be surprised if I actually bought and played it. (I was weirdly excited about &lt;em&gt;Splinter Cell: Conviction&lt;/em&gt;, but the demo put me off it.)&lt;/p&gt; &lt;p&gt;&lt;em&gt;Animal Crossing&lt;/em&gt; is a very different game. The simple joys of sales and shells, while roughly &lt;a href="http://www.metafilter.com/89936/Clearly-even-people-who-play-Farmville-want-to-avoid-playing-Farmville"&gt;Skinnerian&lt;/a&gt;, are more analogous to the crests and valleys of real life. The stakes are small, but so are the losses, and wins are frequent: some days you nurse a bee sting, some days you finish collecting something for the museum.&lt;/p&gt; &lt;p&gt;I'm put off by the ultimate battle; at least, the way these games use it, which is not the same way it was in &lt;em&gt;Earthbound&lt;/em&gt;, where there's enough story to build it up so you buy it at the end. These games try to shorthand into drama by setting you against epic odds for ultimate stakes. Really we're in an expectation bubble, players of FPSes and action RPGs having habituated to &lt;em&gt;saving worlds&lt;/em&gt;. That seems to be the inner synchrony of &lt;a href="http://www.destructoid.com/the-myth-of-casual-gaming-72689.phtml"&gt;hardcore casual&lt;/a&gt;: sure, you're a gamer, but sometimes your inner homemaker just wants to water some flowers.&lt;/p&gt; &lt;p&gt;I'm not sure what they'll add to &lt;em&gt;Animal Crossing&lt;/em&gt; in the 3DS version&#x2014;in screenshots the people aren't as chibi, which is an improvement&#x2014;but the only way to drastically improve it would be to put its towns in &lt;a href="http://www.raphkoster.com/2010/02/26/are-virtual-worlds-over/"&gt;a persistent malleable world&lt;/a&gt; shared with everyone. After all, &lt;a href="http://en.wikipedia.org/wiki/Reality#Fact"&gt;reality is that which, when you stop believing in it, doesn't go away&lt;/a&gt;, and I'm not sure where else &lt;em&gt;Animal Crossing&lt;/em&gt; can go.&lt;/p&gt; </content>
+		</a:object>
+		<content type="html"> &lt;p&gt;I'll have a hard time waiting until the US release somewhen next year to play the new &lt;em&gt;Animal Crossing&lt;/em&gt; for 3DS&#x2014;but why? There's a mix of &lt;a href="http://ds.neologasm.org/animal-crossing/"&gt;warm memories&lt;/a&gt; of the Gamecube and DS versions, but also it's simply a very different experience from most other games.&lt;/p&gt; &lt;p&gt;There are many games (especially Nintendo games) that seem similar, but compare those few to the &lt;em&gt;rest&lt;/em&gt; of what the industry is making. Take for example &lt;a href="http://www.1up.com/do/blogEntry?bId=9034495"&gt;the E3 experience of Jeremy Parish&lt;/a&gt; (who I miss seeing &lt;a href="http://www.youtube.com/watch?v=7MTkLc9WMZk"&gt;on the 1up show&lt;/a&gt;):&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Last weekend, I had dinner with my fianc&#xE9;e's mother. She spent a good part of that meal talking about how harrowing it had been living in war-torn Vietnam through four decades of conflict before finally emigrating to America in the '70s. ... She explained how terrifying the Tet Offensive was, since America's war in Vietnam was largely restricted to the countryside; no one had expected the conflict to come to the cities, least of all on a holiday for which a cease fire had been declared.&lt;/p&gt; &lt;p&gt;A day later, I found myself sitting in a press conference in Los Angeles, watching a couple of guys demo a videogame on a wall-sized screen. Their avatars hijacked a Russian helicopter, guns blazing, then took off from a jungle clearing before peppering villages of Vietnamese shanty huts with turret fire and missiles.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;&lt;small&gt;via &lt;a href="http://www.1up.com/do/blogEntry?bId=9034495"&gt;www.1up.com&lt;/a&gt;&lt;/small&gt;&lt;/p&gt; &lt;p&gt;I generally play in the area of platformers, puzzle and adventure games. When there's story, it's comedic. (I just started &lt;a href="http://www.telltalegames.com/puzzleagent"&gt;&lt;em&gt;Nelson Tethers: Puzzle Agent&lt;/em&gt;&lt;/a&gt; last night.) Even &lt;em&gt;Halo 3: ODST&lt;/em&gt;, a game about fighting inhuman alien creatures who are invading a human city to destroy it, was a big departure for me. Parish mentions &lt;em&gt;Bulletstorm&lt;/em&gt;, a game from E3 that &lt;a href="http://markpasc.typepad.com/blog/2010/06/eee.html"&gt;I thought&lt;/a&gt; looked pretty awesome in that comedy-of-violence way; I would be surprised if I actually bought and played it. (I was weirdly excited about &lt;em&gt;Splinter Cell: Conviction&lt;/em&gt;, but the demo put me off it.)&lt;/p&gt; &lt;p&gt;&lt;em&gt;Animal Crossing&lt;/em&gt; is a very different game. The simple joys of sales and shells, while roughly &lt;a href="http://www.metafilter.com/89936/Clearly-even-people-who-play-Farmville-want-to-avoid-playing-Farmville"&gt;Skinnerian&lt;/a&gt;, are more analogous to the crests and valleys of real life. The stakes are small, but so are the losses, and wins are frequent: some days you nurse a bee sting, some days you finish collecting something for the museum.&lt;/p&gt; &lt;p&gt;I'm put off by the ultimate battle; at least, the way these games use it, which is not the same way it was in &lt;em&gt;Earthbound&lt;/em&gt;, where there's enough story to build it up so you buy it at the end. These games try to shorthand into drama by setting you against epic odds for ultimate stakes. Really we're in an expectation bubble, players of FPSes and action RPGs having habituated to &lt;em&gt;saving worlds&lt;/em&gt;. That seems to be the inner synchrony of &lt;a href="http://www.destructoid.com/the-myth-of-casual-gaming-72689.phtml"&gt;hardcore casual&lt;/a&gt;: sure, you're a gamer, but sometimes your inner homemaker just wants to water some flowers.&lt;/p&gt; &lt;p&gt;I'm not sure what they'll add to &lt;em&gt;Animal Crossing&lt;/em&gt; in the 3DS version&#x2014;in screenshots the people aren't as chibi, which is an improvement&#x2014;but the only way to drastically improve it would be to put its towns in &lt;a href="http://www.raphkoster.com/2010/02/26/are-virtual-worlds-over/"&gt;a persistent malleable world&lt;/a&gt; shared with everyone. After all, &lt;a href="http://en.wikipedia.org/wiki/Reality#Fact"&gt;reality is that which, when you stop believing in it, doesn't go away&lt;/a&gt;, and I'm not sure where else &lt;em&gt;Animal Crossing&lt;/em&gt; can go.&lt;/p&gt; </content>
+		<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/07/the-inner-home-maker.html"/>
+		<a:target>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20120a81fb3a4970b</id>
+			<title type="text">markpasc</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/blog</a:object-type>
+		</a:target>
+	</entry>
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20133f20531b0970b</id>
+		<title type="text"> markpasc added 'a face' as a favorite </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/favorite</a:verb>
+		<published>2010-07-02T22:16:37Z</published>
+		<updated>2010-07-02T22:16:37Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a01156f24e3e6970c0134851d1775970c</id>
+			<title type="text">a face</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/photo</a:object-type>
+			<published>2010-06-30T15:47:49Z</published>
+			<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a01156f24e3e6970c0134851d1775970c"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p01156f24e3e6970c</id>
+				<name>apgwoz</name>
+				<uri>http://profile.typepad.com/apgwoz</uri>
+			</author>
+			<link rel="preview" type="image/jpeg" href="http://a5.typepad.com/6a01156f24e3e6970c0134851d1775970c-150si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a5.typepad.com/6a01156f24e3e6970c0134851d1775970c-640si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a5.typepad.com/6a01156f24e3e6970c0134851d1775970c-pi"/>
+			<content type="html"/>
+		</a:object>
+		<content type="html"> </content>
+		<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a01156f24e3e6970c0134851d1775970c"/>
+	</entry>
+</feed>
