@@ -9,6 +9,6 @@ Architecture:
     * ActivityStreams::Object (used for target, object)
     * ActivityStreams::Object::Person (extends Object and adds email address, used for actor)
 * "pluggable" parsers for Atom, JSON (load by content-type?)
-    # ActivityStreams::Parser
+    * ActivityStreams::Parser
     * ActivityStreams::Parser::Atom
     * ActivityStreams::Parser::JSON (Sir Not-implemented-yet)
