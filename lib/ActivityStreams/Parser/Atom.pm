@@ -24,7 +24,7 @@ use constant ACTIVITY_NAMESPACE => XML::Atom::Namespace->new( 'activity' => ACTI
 use constant ATOM_NAMESPACE_URI => "http://www.w3.org/2005/Atom";
 use constant ATOM_NAMESPACE => XML::Atom::Namespace->new( 'atom' => ATOM_NAMESPACE_URI, );
 
-use constant POST_VERB_URI => "http://actionstrea.ms/schema/1.0/post";
+use constant POST_VERB_URI => "http://activitystrea.ms/schema/1.0/post";
 
 sub parse_feed {
     my $self = shift;

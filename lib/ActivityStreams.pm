@@ -8,7 +8,7 @@ use ActivityStreams::Parser::RSS;
 
 use constant ACTIVITY_NAMESPACE_URI => "http://activitystrea.ms/spec/1.0";
 use constant ACTIVITY_NAMESPACE     => XML::Atom::Namespace->new( 'activity' => ACTIVITY_NAMESPACE_URI, );
-use constant POST_VERB_URI          => "http://actionstrea.ms/schema/1.0/post";
+use constant POST_VERB_URI          => "http://activitystrea.ms/schema/1.0/post";
 
 my $PARSERS = {
     'application/atom+xml'    => 'ActivityStreams::Parser::Atom',
