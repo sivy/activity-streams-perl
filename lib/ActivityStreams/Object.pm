@@ -1,3 +1,5 @@
+# =====
+# http://activitystrea.ms/head/json-activity.html#object
 package ActivityStreams::Object;
 
 use strict;
@@ -6,33 +8,36 @@ use warnings;
 use Any::Moose;
 use Data::Dumper;
 
-has [qw(id name url object_type summary image in_reply_to_object time)] => ( is => "rw" );
-
+has [qw(id name url summary object_type time)] => ( is => "rw" );
+has [qw(image in_reply_to_object)] => ( is => "rw", isa => "Ref" );
 has [
     qw ( attached_objects reply_objects reaction_activities action_links upstream_duplicate_ids downstream_duplicate_ids links)
 ] => ( is => "rw", isa => 'ArrayRef' );
 
-sub to_string {
+sub get_links_by_rel {
     my $self = shift;
-    my ($indent_times) = @_;
-    $indent_times ||= 0;
-    my $in = ( $indent_times * 4 );
+    my ($rel) = @_;
 
-    my $output = "{\n";
-    if ( @{ $self->links } ) {
-        $output .= " " x $in . "links: [\n";
-        for my $l ( @{ $self->links } ) {
-            $output .= $l->to_string( $indent_times + 1 ) . "\n";
-        }
-        $output .= " " x $in . "]\n";
-    }
+    return map { $_->rel eq $rel ? ($_) : () } @{ $self->links };
+}
+
+sub to_hash_ref {
+    my $self = shift;
+    my $h    = {};
+
     for my $f (qw(id name url object_type summary image in_reply_to_object time)) {
         if ( $self->$f ) {
-            $output .= " " x $in . "$f: " . $self->$f . "\n";
+            $h->{$f} = $self->$f;
         }
     }
-    $output .= " " x $in . "}\n";
-    return $output;
+
+    if ( @{ $self->links } ) {
+        $h->{links} = [];
+        for my $l ( @{ $self->links } ) {
+            push @{ $h->{links} }, $l->to_hash_ref;
+        }
+    }
+    return $h;
 }
 
 __PACKAGE__->meta->make_immutable;
