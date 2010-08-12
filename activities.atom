@@ -19,6 +19,7 @@
 		<link rel="alternate" type="text/html" href="http://profile.typepad.com/markpasc"/>
 		<link rel="preview" type="image/jpeg" href="http://up3.typepad.com/6a00d83451ce6b69e20133f2e40bfd970b-75si"/>
 	</author>
+	<!-- POST -->
 	<entry>
 		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20133f2f032eb970b</id>
 		<title type="text"> markpasc posted an entry </title>
@@ -46,105 +47,8 @@
 			<a:object-type>http://activitystrea.ms/schema/1.0/blog</a:object-type>
 		</a:target>
 	</entry>
-	<entry>
-		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20133f2efc935970b</id>
-		<title type="text"> markpasc posted an entry </title>
-		<a:verb>http://activitystrea.ms/schema/1.0/post</a:verb>
-		<published>2010-08-09T02:58:14Z</published>
-		<updated>2010-08-09T02:58:14Z</updated>
-		<a:object>
-			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20133f2efc933970b</id>
-			<title type="text">Wiggins on Barks</title>
-			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
-			<published>2010-08-09T02:58:14Z</published>
-			<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/08/wiggins-on-barks.html"/>
-			<author>
-				<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
-				<name>markpasc</name>
-				<uri>http://profile.typepad.com/markpasc</uri>
-			</author>
-			<content type="html">&lt;blockquote&gt;&lt;p&gt;[H]e&#x2019;s a perfect example of a man given a tiny, dreary corner in which he can be creative, and instead of going through the motions... he poured his soul into it, and channeled a rich inner life into a universe of ducks....&lt;/p&gt;&lt;/blockquote&gt; &lt;p&gt;&lt;small&gt;via &lt;a href="http://blog.mondotees.com/2009/11/19/the-universe-according-to-scrooge-mcduck/"&gt;blog.mondotees.com&lt;/a&gt;&lt;/small&gt;&lt;/p&gt; </content>
-		</a:object>
-		<content type="html"> &lt;blockquote&gt;&lt;p&gt;[H]e&#x2019;s a perfect example of a man given a tiny, dreary corner in which he can be creative, and instead of going through the motions... he poured his soul into it, and channeled a rich inner life into a universe of ducks....&lt;/p&gt;&lt;/blockquote&gt; &lt;p&gt;&lt;small&gt;via &lt;a href="http://blog.mondotees.com/2009/11/19/the-universe-according-to-scrooge-mcduck/"&gt;blog.mondotees.com&lt;/a&gt;&lt;/small&gt;&lt;/p&gt; </content>
-		<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/08/wiggins-on-barks.html"/>
-		<a:target>
-			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20120a81fb3a4970b</id>
-			<title type="text">markpasc</title>
-			<a:object-type>http://activitystrea.ms/schema/1.0/blog</a:object-type>
-		</a:target>
-	</entry>
-	<entry>
-		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20133f2eb316a970b</id>
-		<title type="text"> markpasc posted an entry </title>
-		<a:verb>http://activitystrea.ms/schema/1.0/post</a:verb>
-		<published>2010-08-08T03:22:19Z</published>
-		<updated>2010-08-08T03:22:19Z</updated>
-		<a:object>
-			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20133f2eb3165970b</id>
-			<title type="text">Arkham Horror</title>
-			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
-			<published>2010-08-08T03:22:19Z</published>
-			<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/08/arkham-horror.html"/>
-			<author>
-				<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
-				<name>markpasc</name>
-				<uri>http://profile.typepad.com/markpasc</uri>
-			</author>
-			<content type="html">&lt;p&gt;&lt;img class="asset asset-image at-xid-6a00d83451ce6b69e20133f2eb3161970b " src="http://markpasc.typepad.com/.a/6a00d83451ce6b69e20133f2eb3161970b-580wi" alt="" width="500" height="261" /&gt;&lt;/p&gt; &lt;p&gt;&lt;small&gt;via &lt;a href="http://arstechnica.com/gaming/news/2010/08/arkham-horror-may-not-be-easy-but-it-sure-is-great.ars"&gt;arstechnica.com&lt;/a&gt;&lt;/small&gt;&lt;/p&gt; &lt;p&gt;I'd like to read about more games for this &#x201C;Your table&#x201D; platform.&lt;/p&gt;</content>
-		</a:object>
-		<content type="html"> &lt;p&gt;&lt;img class="asset asset-image at-xid-6a00d83451ce6b69e20133f2eb3161970b " src="http://markpasc.typepad.com/.a/6a00d83451ce6b69e20133f2eb3161970b-580wi" alt="" width="500" height="261" /&gt;&lt;/p&gt; &lt;p&gt;&lt;small&gt;via &lt;a href="http://arstechnica.com/gaming/news/2010/08/arkham-horror-may-not-be-easy-but-it-sure-is-great.ars"&gt;arstechnica.com&lt;/a&gt;&lt;/small&gt;&lt;/p&gt; &lt;p&gt;I'd like to read about more games for this &#x201C;Your table&#x201D; platform.&lt;/p&gt;</content>
-		<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/08/arkham-horror.html"/>
-		<a:target>
-			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20120a81fb3a4970b</id>
-			<title type="text">markpasc</title>
-			<a:object-type>http://activitystrea.ms/schema/1.0/blog</a:object-type>
-		</a:target>
-	</entry>
-	<entry>
-		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20134860d7010970c</id>
-		<title type="text"> markpasc added 'Wiley Wiggins' as a favorite </title>
-		<a:verb>http://activitystrea.ms/schema/1.0/favorite</a:verb>
-		<published>2010-08-07T20:44:13Z</published>
-		<updated>2010-08-07T20:44:13Z</updated>
-		<a:object>
-			<id>tag:api.typepad.com,2009:6a00d8341e3ac753ef0133f2e9aeda970b</id>
-			<title type="text">Wiley Wiggins</title>
-			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
-			<published>2010-08-07T19:26:39Z</published>
-			<link rel="alternate" type="text/html" href="http://hello.typepad.com/hello/2010/08/iama-wiley-wiggins-iama.html"/>
-			<author>
-				<id>tag:api.typepad.com,2009:6p00d8341e3ac753ef</id>
-				<name>David Jacobs</name>
-				<uri>http://profile.typepad.com/david</uri>
-			</author>
-			<content type="html">&lt;blockquote&gt; &lt;p class="tagline"&gt;&lt;a class="author id-t2_3ozl8" href="http://www.reddit.com/user/gamewav"&gt;gamewav&lt;/a&gt;&lt;span class="userattrs"&gt; &lt;/span&gt; -&amp;#0160;Have you ever met Tim Lincecum?&lt;/p&gt; &lt;p class="tagline"&gt;&lt;a class="author submitter id-t2_48izf" href="http://www.reddit.com/user/vorpaldinger"&gt;vorpaldinger&lt;/a&gt;&lt;span class="userattrs"&gt; - &lt;/span&gt;No, but I imagine this is another person I&amp;#39;d have to get in a sword fight with. There can be only one.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Otherwise thoughtful &lt;a href="http://www.reddit.com/r/IAmA/comments/cyal4/iama_wiley_wiggins/"&gt;Q&amp;amp;A&lt;/a&gt; with &lt;a href="http://wileywiggins.com/" target="_self"&gt;friend of hello, typepad Wiley Wiggins&lt;/a&gt; (vorpaldinger).&lt;/p&gt;</content>
-		</a:object>
-		<content type="html"> &lt;blockquote&gt; &lt;p class="tagline"&gt;&lt;a class="author id-t2_3ozl8" href="http://www.reddit.com/user/gamewav"&gt;gamewav&lt;/a&gt;&lt;span class="userattrs"&gt; &lt;/span&gt; -&amp;#0160;Have you ever met Tim Lincecum?&lt;/p&gt; &lt;p class="tagline"&gt;&lt;a class="author submitter id-t2_48izf" href="http://www.reddit.com/user/vorpaldinger"&gt;vorpaldinger&lt;/a&gt;&lt;span class="userattrs"&gt; - &lt;/span&gt;No, but I imagine this is another person I&amp;#39;d have to get in a sword fight with. There can be only one.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Otherwise thoughtful &lt;a href="http://www.reddit.com/r/IAmA/comments/cyal4/iama_wiley_wiggins/"&gt;Q&amp;amp;A&lt;/a&gt; with &lt;a href="http://wileywiggins.com/" target="_self"&gt;friend of hello, typepad Wiley Wiggins&lt;/a&gt; (vorpaldinger).&lt;/p&gt;</content>
-		<link rel="alternate" type="text/html" href="http://hello.typepad.com/hello/2010/08/iama-wiley-wiggins-iama.html"/>
-	</entry>
-	<entry>
-		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20134860a124a970c</id>
-		<title type="text"> markpasc added 'Hanging with @sixapart peeps' as a favorite </title>
-		<a:verb>http://activitystrea.ms/schema/1.0/favorite</a:verb>
-		<published>2010-08-07T03:44:30Z</published>
-		<updated>2010-08-07T03:44:30Z</updated>
-		<a:object>
-			<id>tag:api.typepad.com,2009:6a01127947363b28a4013486096add970c</id>
-			<title type="text">Hanging with @sixapart peeps</title>
-			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
-			<published>2010-08-07T00:35:49Z</published>
-			<link rel="alternate" type="text/html" href="http://www.badnima.com/2010/08/hanging-with-sixapart-peeps.html"/>
-			<author>
-				<id>tag:api.typepad.com,2009:6p01127947363b28a4</id>
-				<name>Nima Badiey</name>
-				<uri>http://profile.typepad.com/badnima</uri>
-			</author>
-			<content type="html">&lt;p&gt;&lt;br/&gt; &lt;!-- (DWIM) attachments start here --&gt;&lt;/p&gt; &lt;p&gt;&lt;a style="display: inline;" href="http://chromehorse.typepad.com/files/img00127201008061729.jpg"&gt;&lt;img class="asset asset-image at-xid-6a01127947363b28a4013486096ad7970c" alt="IMG00127-20100806-1729.jpg" src="http://chromehorse.typepad.com/.a/6a01127947363b28a4013486096ad7970c-580wi" /&gt;&lt;/a&gt; &lt;br /&gt;&lt;/p&gt;</content>
-		</a:object>
-		<content type="html"> &lt;p&gt;&lt;br/&gt; &lt;!-- (DWIM) attachments start here --&gt;&lt;/p&gt; &lt;p&gt;&lt;a style="display: inline;" href="http://chromehorse.typepad.com/files/img00127201008061729.jpg"&gt;&lt;img class="asset asset-image at-xid-6a01127947363b28a4013486096ad7970c" alt="IMG00127-20100806-1729.jpg" src="http://chromehorse.typepad.com/.a/6a01127947363b28a4013486096ad7970c-580wi" /&gt;&lt;/a&gt; &lt;br /&gt;&lt;/p&gt;</content>
-		<link rel="alternate" type="text/html" href="http://www.badnima.com/2010/08/hanging-with-sixapart-peeps.html"/>
-	</entry>
-	<entry>
+	<!-- PHOTO -->
+        <entry>
 		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20133f2e5bf7f970b</id>
 		<title type="text"> markpasc added 'a face' as a favorite </title>
 		<a:verb>http://activitystrea.ms/schema/1.0/favorite</a:verb>
@@ -169,25 +73,30 @@
 		<content type="html"> </content>
 		<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a010535617444970b0133f2e578f3970b"/>
 	</entry>
+	<!-- FAVORITE -->
 	<entry>
-		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20133f2e5a77c970b</id>
-		<title type="text"> markpasc posted something </title>
-		<a:verb>http://activitystrea.ms/schema/1.0/post</a:verb>
-		<published>2010-08-06T23:39:43Z</published>
-		<updated>2010-08-06T23:39:43Z</updated>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20134860d7010970c</id>
+		<title type="text"> markpasc added 'Wiley Wiggins' as a favorite </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/favorite</a:verb>
+		<published>2010-08-07T20:44:13Z</published>
+		<updated>2010-08-07T20:44:13Z</updated>
 		<a:object>
-			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20133f2e5a77b970b</id>
-			<title type="text"/>
-			<a:object-type>http://activitystrea.ms/schema/1.0/comment</a:object-type>
+			<id>tag:api.typepad.com,2009:6a00d8341e3ac753ef0133f2e9aeda970b</id>
+			<title type="text">Wiley Wiggins</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-08-07T19:26:39Z</published>
+			<link rel="alternate" type="text/html" href="http://hello.typepad.com/hello/2010/08/iama-wiley-wiggins-iama.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d8341e3ac753ef</id>
+				<name>David Jacobs</name>
+				<uri>http://profile.typepad.com/david</uri>
+			</author>
+			<content type="html">&lt;blockquote&gt; &lt;p class="tagline"&gt;&lt;a class="author id-t2_3ozl8" href="http://www.reddit.com/user/gamewav"&gt;gamewav&lt;/a&gt;&lt;span class="userattrs"&gt; &lt;/span&gt; -&amp;#0160;Have you ever met Tim Lincecum?&lt;/p&gt; &lt;p class="tagline"&gt;&lt;a class="author submitter id-t2_48izf" href="http://www.reddit.com/user/vorpaldinger"&gt;vorpaldinger&lt;/a&gt;&lt;span class="userattrs"&gt; - &lt;/span&gt;No, but I imagine this is another person I&amp;#39;d have to get in a sword fight with. There can be only one.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Otherwise thoughtful &lt;a href="http://www.reddit.com/r/IAmA/comments/cyal4/iama_wiley_wiggins/"&gt;Q&amp;amp;A&lt;/a&gt; with &lt;a href="http://wileywiggins.com/" target="_self"&gt;friend of hello, typepad Wiley Wiggins&lt;/a&gt; (vorpaldinger).&lt;/p&gt;</content>
 		</a:object>
-		<content type="html"> </content>
-		<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/08/being-geek.html?cid=6a00d83451ce6b69e20133f2e5a77b970b#comment-6a00d83451ce6b69e20133f2e5a77b970b"/>
-		<a:target>
-			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20120a81fb3a4970b</id>
-			<title type="text">markpasc</title>
-			<a:object-type>http://activitystrea.ms/schema/1.0/blog</a:object-type>
-		</a:target>
+		<content type="html"> &lt;blockquote&gt; &lt;p class="tagline"&gt;&lt;a class="author id-t2_3ozl8" href="http://www.reddit.com/user/gamewav"&gt;gamewav&lt;/a&gt;&lt;span class="userattrs"&gt; &lt;/span&gt; -&amp;#0160;Have you ever met Tim Lincecum?&lt;/p&gt; &lt;p class="tagline"&gt;&lt;a class="author submitter id-t2_48izf" href="http://www.reddit.com/user/vorpaldinger"&gt;vorpaldinger&lt;/a&gt;&lt;span class="userattrs"&gt; - &lt;/span&gt;No, but I imagine this is another person I&amp;#39;d have to get in a sword fight with. There can be only one.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Otherwise thoughtful &lt;a href="http://www.reddit.com/r/IAmA/comments/cyal4/iama_wiley_wiggins/"&gt;Q&amp;amp;A&lt;/a&gt; with &lt;a href="http://wileywiggins.com/" target="_self"&gt;friend of hello, typepad Wiley Wiggins&lt;/a&gt; (vorpaldinger).&lt;/p&gt;</content>
+		<link rel="alternate" type="text/html" href="http://hello.typepad.com/hello/2010/08/iama-wiley-wiggins-iama.html"/>
 	</entry>
+	<!-- FOLLOW -->
 	<entry>
 		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20133f2e55d6b970b</id>
 		<title type="text"> markpasc is now following Manipulated Minds </title>
