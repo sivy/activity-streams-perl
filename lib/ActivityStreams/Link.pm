@@ -3,26 +3,28 @@ package ActivityStreams::Link;
 use strict;
 use warnings;
 
-use Moose;
+use Any::Moose;
 
 # use Data::Dumper;
 
 has [qw(rel href hreflang title type length)] => ( is => "rw" );
 
-# sub new {
-#     my $class  = shift;
-#     my %params = @_;
+sub to_string {
+    my $self = shift;
+    my ($indent_times) = @_;
+    $indent_times ||= 0;
+    my $in = ( $indent_times * 4 );
 
-#     my $self = { rel => '', href => '', hreflang => '', title => '', type => '', length => '', };
+    my $output = " " x $in . "{\n";
+    for my $f (qw(rel href hreflang title type length)) {
+        if ( $self->$f ) {
+            $output .= " " x $in . "$f: " . $self->$f . "\n";
+        }
+    }
+    $output .= " " x $in . "}";
+    return $output;
+}
 
-#     for my $field (qw(rel href hreflang title type length)) {
-#         print "$field: " . $params{$field} . "\n";
-#         $self->$field( $params{$field} );
-#     }
-#     bless $self, $class;
-#     print "link: " . Dumper($self);
-
-#     return $self;
-# }
+__PACKAGE__->meta->make_immutable;
 
 1;

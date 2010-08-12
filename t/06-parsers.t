@@ -25,4 +25,4 @@ $parser = ActivityStreams::parser_for_type('application/atom+xml');
 
 my @entries = $parser->parse_feed($feed_uri);
 
-# diag explain @entries;
+diag explain @entries;

@@ -41,7 +41,7 @@ sub parse_feed {
     my @entries = map {
         $_->source($feed);
         my $a = _activity_from_entry($_);
-        print Dumper ($a);
+        print $a->to_string;
     } $feed->entries;
 
     return @entries;
@@ -95,8 +95,8 @@ sub _object_from_elem {
     my ( $elem, $ns, $root_elem_name ) = @_;
     use XML::LibXML::XPathContext;
     my $xc = XML::LibXML::XPathContext->new($elem);
-    $xc->registerNs( 'pre', $ns );
-    my $o_elem = ( $xc->find( "./pre:$root_elem_name", $elem )->get_nodelist )[0];
+    $xc->registerNs( 'prefix', $ns );
+    my $o_elem = ( $xc->find( "./prefix:$root_elem_name", $elem )->get_nodelist )[0];
     return unless $o_elem;
 
     # {   id                       => '',
@@ -116,26 +116,25 @@ sub _object_from_elem {
     # }
 
     my $o = new ActivityStreams::Object;
-    my $o_obj;
+    my $o_obj = XML::Atom::Entry->new( Elem => $o_elem );
     if ( $root_elem_name =~ /object|target/ ) {
-        $o_obj = XML::Atom::Entry->new( Elem => $o_elem );
-
         $o->name( $o_obj->get( ATOM_NAMESPACE_URI, 'title' ) );
         $o->summary( $o_obj->get( ATOM_NAMESPACE_URI, 'content' ) || '' );
         $o->time( $o_obj->get( ATOM_NAMESPACE_URI, 'published' ) );
-        $o->links( [ map { _link_from_link($_) } $o_obj->link ] );
+
     }
     elsif ( $root_elem_name =~ /actor|author/ ) {
         bless $o, 'ActivityStreams::Object::Person';
-        $o_obj = XML::Atom::Person->new( Elem => $o_elem );
+        my $o_person = XML::Atom::Person->new( Elem => $o_elem );
 
-        $o->name( $o_obj->name   || '' );
-        $o->email( $o_obj->email || '' );
-        $o->url( $o_obj->uri     || '' );
+        $o->name( $o_person->name   || '' );
+        $o->email( $o_person->email || '' );
+        $o->url( $o_person->uri     || '' );
     }
     else {
         return;
     }
+    $o->links( [ map { _link_from_link($_) } $o_obj->link ] );
     $o->object_type( $o_obj->get( ACTIVITY_NAMESPACE_URI, 'object-type' ) || '' );
     $o->id( $o_obj->get( ATOM_NAMESPACE_URI, 'id' ) );
 

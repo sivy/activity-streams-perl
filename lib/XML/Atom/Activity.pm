@@ -1,4 +1,3 @@
-
 package XML::Atom::Activity;
 
 use XML::Atom;
