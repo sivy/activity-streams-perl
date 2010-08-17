@@ -63,25 +63,17 @@ sub _activity_from_entry_elem {
     my $a = new ActivityStreams::Activity;
 
     my $title = _find_text_value( $entry_elem, ATOM_NAMESPACE_URI, 'title' );
-
-    #    my $title = $entry->get( ATOM_NAMESPACE_URI, 'title' );
     $a->title($title);
 
     my $id = _find_text_value( $entry_elem, ATOM_NAMESPACE_URI, 'id' );
-
-    #    my $id = $entry->get( ATOM_NAMESPACE_URI, 'id' );
-    $a->id($id);
+    $a->id($id) if $id;
 
     # my $verb = _get_activity_value( $elem, 'verb' );
     my $verb = _find_text_value( $entry_elem, ACTIVITY_NAMESPACE_URI, 'verb' );
-
-    # my $verb = $entry->get( ACTIVITY_NAMESPACE_URI, 'verb' );
-    $a->verb($verb);
+    $a->verb($verb) if $verb;
 
     my $time = _find_text_value( $entry_elem, ATOM_NAMESPACE_URI, 'published' );
-
-    # my $time = $entry->get( ATOM_NAMESPACE_URI, 'published' );
-    $a->time($time);
+    $a->time($time) if $time;
 
     ### objects
 
@@ -142,18 +134,21 @@ sub _object_from_elem {
 
     my $ao = new ActivityStreams::Object;
 
-    # my $oe = XML::Atom::Entry->new( Elem => $o_elem );
-
-    #    print "_object_from_elem entry ($root_elem_name): " . Dumper($oe);
-    # print Dumper( $te->get_node(0) );
-
     # get id
     my $id = _find_text_value( $oe, ATOM_NAMESPACE_URI, 'id' );
-    $ao->id($id);
+    $ao->id($id) if $id;
 
     # get title
     my $title = _find_text_value( $oe, ATOM_NAMESPACE_URI, 'title' );
     $ao->name($title) if $title;
+
+    # get object-type
+    my $object_type = _find_text_value( $oe, ACTIVITY_NAMESPACE_URI, 'object-type' );
+    $ao->object_type($object_type) if $object_type;
+
+    # get object-type
+    my $time = _find_text_value( $oe, ATOM_NAMESPACE_URI, 'published' );
+    $ao->time($time) if $time;
 
     # get content
     my $content = _find_text_value( $oe, ATOM_NAMESPACE_URI, 'content' );
@@ -187,9 +182,6 @@ sub _object_from_elem {
         $ao->image($ml);
     }
 
-    my $object_type = _find_text_value( $oe, ACTIVITY_NAMESPACE_URI, 'object-type' );
-    $ao->name($object_type) if $object_type;
-
     return $ao;
 }
 
@@ -213,7 +205,6 @@ sub _link_from_link_elem {
 
 sub _find_text_value {
     my ( $elem, $ns, $name ) = @_;
-
     $elem = ( ref $elem eq 'XML::LibXML::NodeList' ) ? $elem->get_node(0) : $elem;
 
     my $tmp_list = $elem->getChildrenByTagNameNS( $ns, $name );

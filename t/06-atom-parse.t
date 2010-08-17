@@ -20,7 +20,7 @@ ok( ActivityStreams::parser_for_type('application/stream+json')->isa('ActivitySt
 
 # my $feed_uri = 'http://monkinetic.status.net/api/statuses/user_timeline/1.atom';
 # my $feed_uri = 'http://profile.typepad.com/markpasc/activity/atom.xml';
-my $feed_uri = 'activities.atom';
+my $feed_uri = 't/data/001-article.atom';
 $parser = ActivityStreams::parser_for_type('application/atom+xml');
 
 my @entries = $parser->parse_feed($feed_uri);
@@ -67,14 +67,26 @@ is( $preview->href,
 );
 is( $preview->type, 'image/jpeg', 'Actor "preview" link type parsed correctly' );
 
-# object
-is( ref $activity->object, 'ActivityStreams::Object', 'Activity object is an ActivityStreams::Object' );
-
-my $object = $activity->object;
-
 # diag explain $object;
 
+# object
+my $object = $activity->object;
+
+is( ref $object,   'ActivityStreams::Object', 'Activity object is an ActivityStreams::Object' );
+is( $object->name, 'TV: Studio 60',           'Object name is parsed correctly' );
+is( $object->id, 'tag:api.typepad.com,2009:6a00d83451ce6b69e20133f2f032de970b', 'Object id is parsed correctly' );
+is( $object->object_type, 'http://activitystrea.ms/schema/1.0/article', 'Object object-type is parsed correctly' );
+is( $object->time,        '2010-08-09T04:53:38Z',                       'Object time is parsed correctly' );
+is( $object->content,     'content',                                    'Object content is parsed correctly' );
+is( $object->summary,     'content',                                    'Object summary is parsed correctly' );
+
 is( ref $object->author, 'ActivityStreams::Object', 'Object author is an ActivityStreams::Object' );
+is( $object->author->name, 'markpasc', 'Object author name parsed correctly' );
+is( $object->author->id,  'tag:api.typepad.com,2009:6p00d83451ce6b69e2', 'Object author id parsed correctly' );
+is( $object->author->url, 'http://profile.typepad.com/markpasc',         'Object author url parsed correctly' );
 
 # target
-is( ref $activity->target, 'ActivityStreams::Object', 'Activity target is an ActivityStreams::Object' );
+my $target = $activity->target;
+is( ref $target, 'ActivityStreams::Object', 'Activity target is an ActivityStreams::Object' );
+is( $target->name, 'markpasc', 'Target name parsed correctly' );
+is( $target->object_type, 'http://activitystrea.ms/schema/1.0/blog', 'Target object-type parsed correctly' );
