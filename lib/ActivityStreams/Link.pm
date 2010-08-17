@@ -32,7 +32,7 @@ use Moose;
 
 extends 'ActivityStreams::Link';
 
-has [qw(type width height duration)] => ( is => "rw" );
+has [qw(width height duration)] => ( is => "rw" );
 
 sub init_from_link {
     my $self = shift;

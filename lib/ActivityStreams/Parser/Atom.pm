@@ -203,6 +203,25 @@ sub _link_from_link_elem {
     return $l;
 }
 
+# TODO: fix this up to work proper
+sub _media_link_from_link_elem {
+    my ($elem) = @_;
+
+    my @atts = $elem->attributes();
+    my $attr = {};
+    map { $attr->{ $_->nodeName } = $_->value || '' } @atts;
+
+    my $ml = ActivityStreams::MediaLink->new(
+        rel      => $attr->{rel},
+        url      => $attr->{url},
+        width    => $attr->{width},
+        height   => $attr->{height},
+        type     => $attr->{type},
+        duration => $attr->{duration},
+    );
+    return $ml;
+}
+
 sub _find_text_value {
     my ( $elem, $ns, $name ) = @_;
     $elem = ( ref $elem eq 'XML::LibXML::NodeList' ) ? $elem->get_node(0) : $elem;
