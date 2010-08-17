@@ -6,11 +6,12 @@ use strict;
 use warnings;
 use Data::Dumper;
 
-use Any::Moose;
+use Moose;
 
-has [qw(actor object target service_provider generator)] => ( is => "rw", isa => "Ref" );
-has [qw(id title verb body time icon_url)]               => ( is => "rw", isa => "Str" );
-has [qw(links)]                                          => ( is => "rw", isa => "ArrayRef" );
+has 'actor' => ( is => "rw", isa => "ActivityStreams::Object" );
+has [qw(object target service_provider generator)] => ( is => "rw", isa => "ActivityStreams::Object" );
+has [qw(id title verb body time icon_url)]         => ( is => "rw", isa => "Str" );
+has [qw(links)]                                    => ( is => "rw", isa => "ArrayRef" );
 
 sub get_links_by_rel {
     my $self = shift;
@@ -21,7 +22,8 @@ sub get_links_by_rel {
 
 sub to_hash_ref {
     my $self = shift;
-    my $h    = {};
+
+    my $h = {};
     for my $f (qw(actor object target)) {
         if ( $self->$f ) {
             $h->{$f} = ( $self->$f )->to_hash_ref;
@@ -34,7 +36,7 @@ sub to_hash_ref {
         }
     }
 
-    if ( @{ $self->links } ) {
+    if ( $self->links ) {
         $h->{links} = [];
         for my $l ( @{ $self->links } ) {
             push @{ $h->{links} }, $l->to_hash_ref;

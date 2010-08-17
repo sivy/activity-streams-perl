@@ -25,8 +25,14 @@ $parser = ActivityStreams::parser_for_type('application/atom+xml');
 
 my @entries = $parser->parse_feed($feed_uri);
 
+# diag explain @entries;
+
 # POST
-my $activity = shift @entries;
+my $activity       = $entries[0];
+my $photo_activity = $entries[1];
+my $fav_activity   = $entries[2];
+
+# diag explain $activity;
 
 is( $activity->title, ' markpasc posted an entry ',              'Activity title parsed correctly' );
 is( $activity->verb,  'http://activitystrea.ms/schema/1.0/post', 'Activity verb parsed correctly' );
@@ -34,7 +40,8 @@ is( $activity->time,  '2010-08-09T04:53:39Z',                    'Activity time 
 
 # actor
 my $actor = $activity->actor;
-isa_ok( $actor, 'ActivityStreams::Object::Person', 'Activity actor is an ActivityStreams::Object::Person' );
+
+is( ref $actor, 'ActivityStreams::Object', 'Activity actor is an ActivityStreams::Object' );
 
 is( $actor->name, 'markpasc', 'Actor name parsed correctly' );
 is( $actor->object_type, 'http://activitystrea.ms/schema/1.0/person', 'Actor object_type parsed correctly' );
@@ -42,7 +49,7 @@ is( $actor->object_type, 'http://activitystrea.ms/schema/1.0/person', 'Actor obj
 is( $actor->url, 'http://profile.typepad.com/markpasc',         'Actor url parsed correctly' );
 is( $actor->id,  'tag:api.typepad.com,2009:6p00d83451ce6b69e2', 'Actor id parsed correctly' );
 
-isa_ok( $actor->image, 'ActivityStreams::MediaLink', 'Actor image MediaLink parsed correctly' );
+is( ref $actor->image, 'ActivityStreams::MediaLink', 'Actor image MediaLink parsed correctly' );
 
 # actor links
 is( length $actor->get_links_by_rel('alternate'), 1, 'Actor "alternate" links parsed' );
@@ -61,9 +68,13 @@ is( $preview->href,
 is( $preview->type, 'image/jpeg', 'Actor "preview" link type parsed correctly' );
 
 # object
-isa_ok( $activity->object, 'ActivityStreams::Object', 'Activity object is an ActivityStreams::Object' );
+is( ref $activity->object, 'ActivityStreams::Object', 'Activity object is an ActivityStreams::Object' );
 
 my $object = $activity->object;
 
+# diag explain $object;
+
+is( ref $object->author, 'ActivityStreams::Object', 'Object author is an ActivityStreams::Object' );
+
 # target
-isa_ok( $activity->target, 'ActivityStreams::Object', 'Activity target is an ActivityStreams::Object' );
+is( ref $activity->target, 'ActivityStreams::Object', 'Activity target is an ActivityStreams::Object' );

@@ -3,9 +3,11 @@ package ActivityStreams::Link;
 use strict;
 use warnings;
 
-use Any::Moose;
+use Moose;
+use MooseX::Storage;
 
 # use Data::Dumper;
+with Storage;
 
 has [qw(rel href hreflang title type length)] => ( is => "rw" );
 
@@ -26,16 +28,18 @@ __PACKAGE__->meta->make_immutable;
 # http://activitystrea.ms/head/json-activity.html#medialink
 package ActivityStreams::MediaLink;
 
-use Any::Moose;
+use Moose;
 
-has [qw(url media_type width height duration)] => ( is => "rw" );
+extends 'ActivityStreams::Link';
+
+has [qw(type width height duration)] => ( is => "rw" );
 
 sub init_from_link {
     my $self = shift;
     my ($link) = @_;
 
-    $self->url( $link->href );
-    $self->media_type( $link->type );
+    $self->href( $link->href );
+    $self->type( $link->type );
 }
 
 __PACKAGE__->meta->make_immutable;
@@ -44,7 +48,7 @@ __PACKAGE__->meta->make_immutable;
 # http://activitystrea.ms/head/json-activity.html#actionlink
 package ActivityStreams::ActionLink;
 
-use Any::Moose;
+use Moose;
 
 extends 'ActivityStreams::Link';
 
