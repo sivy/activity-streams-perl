@@ -21,28 +21,34 @@
 	</author>
 	<!-- PHOTO -->
 	<entry>
-		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20133f2e5bf7f970b</id>
-		<title type="text"> markpasc added 'a face' as a favorite </title>
-		<a:verb>http://activitystrea.ms/schema/1.0/favorite</a:verb>
-		<published>2010-08-07T00:08:55Z</published>
-		<updated>2010-08-07T00:08:55Z</updated>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e2013485bd536e970c</id>
+		<title type="text"> markpasc posted a photo </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/post</a:verb>
+		<published>2010-07-27T17:35:02Z</published>
+		<updated>2010-07-27T17:35:02Z</updated>
 		<a:object>
-			<id>tag:api.typepad.com,2009:6a010535617444970b0133f2e578f3970b</id>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e2013485bd5366970c</id>
 			<title type="text">a face</title>
 			<a:object-type>http://activitystrea.ms/schema/1.0/photo</a:object-type>
-			<published>2010-08-06T22:41:06Z</published>
-			<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a010535617444970b0133f2e578f3970b"/>
+			<published>2010-07-27T17:35:02Z</published>
+			<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a00d83451ce6b69e2013485bd5366970c"/>
 			<author>
-				<id>tag:api.typepad.com,2009:6p010535617444970b</id>
-				<name>Martin Atkins</name>
-				<uri>http://profile.typepad.com/apparentlymart</uri>
+				<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
+				<name>markpasc</name>
+				<uri>http://profile.typepad.com/markpasc</uri>
 			</author>
-			<link rel="preview" type="image/jpeg" href="http://a3.typepad.com/6a010535617444970b0133f2e578f3970b-150si"/>
-			<link rel="enclosure" type="image/jpeg" href="http://a3.typepad.com/6a010535617444970b0133f2e578f3970b-640si"/>
-			<link rel="enclosure" type="image/jpeg" href="http://a3.typepad.com/6a010535617444970b0133f2e578f3970b-pi"/>
-			<content type="html"/>
+			<link rel="preview" type="image/jpeg" href="http://a6.typepad.com/6a00d83451ce6b69e2013485bd5366970c-150si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a6.typepad.com/6a00d83451ce6b69e2013485bd5366970c-640si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a6.typepad.com/6a00d83451ce6b69e2013485bd5366970c-pi"/>
+			<content type="html"> </content>
 		</a:object>
 		<content type="html"> </content>
-		<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a010535617444970b0133f2e578f3970b"/>
+		<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a00d83451ce6b69e2013485bd5366970c"/>
+		<a:target>
+			<id>tag:api.typepad.com,2009:6p0120a7ea2e1c970b</id>
+			<title type="text">Make A Face</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/group</a:object-type>
+			<link rel="alternate" type="text/html" href="http://make-a-face.org/"/>
+		</a:target>
 	</entry>
 </feed>

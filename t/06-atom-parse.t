@@ -18,8 +18,8 @@ ok( ActivityStreams::parser_for_type('application/rss+xml')->isa('ActivityStream
 ok( ActivityStreams::parser_for_type('application/stream+json')->isa('ActivityStreams::Parser::JSON'),
     'parser returns JSON parser for application/stream+json' );
 
-# my $feed_uri = 'http://monkinetic.status.net/api/statuses/user_timeline/1.atom';
-# my $feed_uri = 'http://profile.typepad.com/markpasc/activity/atom.xml';
+diag "--- Atom parsing: verb: post, object: article";
+
 my $feed_uri = 't/data/001-article.atom';
 $parser = ActivityStreams::parser_for_type('application/atom+xml');
 
@@ -28,11 +28,9 @@ my @entries = $parser->parse_feed($feed_uri);
 # diag explain @entries;
 
 # POST
-my $activity       = $entries[0];
-my $photo_activity = $entries[1];
-my $fav_activity   = $entries[2];
+my $activity = $entries[0];
 
-# diag explain $activity;
+is( ref $activity, 'ActivityStreams::Activity', 'Activity created from feed' );
 
 is( $activity->title, ' markpasc posted an entry ',              'Activity title parsed correctly' );
 is( $activity->verb,  'http://activitystrea.ms/schema/1.0/post', 'Activity verb parsed correctly' );
@@ -79,6 +77,7 @@ is( $object->object_type, 'http://activitystrea.ms/schema/1.0/article', 'Object 
 is( $object->time,        '2010-08-09T04:53:38Z',                       'Object time is parsed correctly' );
 is( $object->content,     'content',                                    'Object content is parsed correctly' );
 is( $object->summary,     'content',                                    'Object summary is parsed correctly' );
+is( $object->url, 'http://markpasc.typepad.com/blog/2010/08/tv-studio-60.html', 'Object url is parsed correctly' );
 
 is( ref $object->author, 'ActivityStreams::Object', 'Object author is an ActivityStreams::Object' );
 is( $object->author->name, 'markpasc', 'Object author name parsed correctly' );
@@ -90,3 +89,50 @@ my $target = $activity->target;
 is( ref $target, 'ActivityStreams::Object', 'Activity target is an ActivityStreams::Object' );
 is( $target->name, 'markpasc', 'Target name parsed correctly' );
 is( $target->object_type, 'http://activitystrea.ms/schema/1.0/blog', 'Target object-type parsed correctly' );
+
+diag "--- Atom parsing: verb: post, object: photo";
+
+$feed_uri = 't/data/002-photo.atom';
+$parser   = ActivityStreams::parser_for_type('application/atom+xml');
+
+@entries = $parser->parse_feed($feed_uri);
+
+my $photo_activity = $entries[0];
+
+is( ref $photo_activity, 'ActivityStreams::Activity', 'Photo Activity created from feed' );
+
+is( $photo_activity->title, ' markpasc posted a photo ',               'Photo Activity title parsed correctly' );
+is( $photo_activity->verb,  'http://activitystrea.ms/schema/1.0/post', 'Photo Activity verb parsed correctly' );
+is( $photo_activity->time,  '2010-07-27T17:35:02Z',                    'Photo Activity time parsed correctly' );
+
+# object
+$object = $photo_activity->object;
+
+is( ref $object, 'ActivityStreams::Object', 'Photo Activity object is an ActivityStreams::Object' );
+is( $object->name, 'a face', 'Object name is parsed correctly' );
+is( $object->id, 'tag:api.typepad.com,2009:6a00d83451ce6b69e2013485bd5366970c', 'Object id is parsed correctly' );
+is( $object->object_type,
+    'http://activitystrea.ms/schema/1.0/photo',
+    'Photo Activity Object object-type is parsed correctly'
+);
+is( $object->time,    '2010-07-27T17:35:02Z', 'Photo Activity Object time is parsed correctly' );
+is( $object->content, ' ',                    'Photo Activity Object content is parsed correctly' );
+is( $object->summary, ' ',                    'Photo Activity Object summary is parsed correctly' );
+
+my $preview = ( $object->get_links_by_rel('preview') )[0];
+is( $preview->href,
+    'http://a6.typepad.com/6a00d83451ce6b69e2013485bd5366970c-150si',
+    'Photo Activity Object "preview" link href parsed correctly'
+);
+is( $preview->type, 'image/jpeg', 'Photo Activity Object "preview" link type parsed correctly' );
+
+is( ref $object->author, 'ActivityStreams::Object', 'Photo Activity Object author is an ActivityStreams::Object' );
+is( $object->author->name, 'markpasc', 'Photo Activity Object author name parsed correctly' );
+is( $object->author->id,
+    'tag:api.typepad.com,2009:6p00d83451ce6b69e2',
+    'Photo Activity Object author id parsed correctly'
+);
+is( $object->author->url,
+    'http://profile.typepad.com/markpasc',
+    'Photo Activity Object author url parsed correctly'
+);

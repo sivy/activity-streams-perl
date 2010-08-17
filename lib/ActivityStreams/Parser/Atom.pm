@@ -210,7 +210,7 @@ sub _find_text_value {
     my $tmp_list = $elem->getChildrenByTagNameNS( $ns, $name );
 
     if ( my $tmp_node = $tmp_list->get_node(0) ) {
-        return $tmp_node->textContent;
+        return $tmp_node->textContent || '';
     }
 }
 
