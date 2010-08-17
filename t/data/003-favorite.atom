@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:t="http://purl.org/syndication/thread/1.0" xmlns:a="http://activitystrea.ms/spec/1.0/" xmlns:media="http//purl.org/syndication/atommedia">
+	<title>markpasc's Activity</title>
+	<link rel="self" type="application/atom+xml" href="http://profile.typepad.com/markpasc/activity/atom.xml"/>
+	<link rel="alternate" type="text/html" title="markpasc's Profile" href="http://profile.typepad.com/markpasc"/>
+	<link rel="hub" href="http://hubbub.api.typepad.com/"/>
+	<generator uri="http://www.typepad.com/">TypePad</generator>
+	<a:service>
+		<title>TypePad</title>
+		<link rel="icon" href="http://www.typepad.com/favicon.ico"/>
+		<link rel="alternate" href="http://www.typepad.com/"/>
+	</a:service>
+	<id>tag:typepad.com,2003:profile.typepad.com/services/activity/atom/</id>
+	<author>
+		<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
+		<name>markpasc</name>
+		<a:object-type>http://activitystrea.ms/schema/1.0/person</a:object-type>
+		<uri>http://profile.typepad.com/markpasc</uri>
+		<link rel="alternate" type="text/html" href="http://profile.typepad.com/markpasc"/>
+		<link rel="preview" type="image/jpeg" href="http://up3.typepad.com/6a00d83451ce6b69e20133f2e40bfd970b-75si"/>
+	</author>
+	<!-- FAVORITE -->
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20134860d7010970c</id>
+		<title type="text"> markpasc added 'Wiley Wiggins' as a favorite </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/favorite</a:verb>
+		<published>2010-08-07T20:44:13Z</published>
+		<updated>2010-08-07T20:44:13Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00d8341e3ac753ef0133f2e9aeda970b</id>
+			<title type="text">Wiley Wiggins</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-08-07T19:26:39Z</published>
+			<link rel="alternate" type="text/html" href="http://hello.typepad.com/hello/2010/08/iama-wiley-wiggins-iama.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d8341e3ac753ef</id>
+				<name>David Jacobs</name>
+				<uri>http://profile.typepad.com/david</uri>
+			</author>
+			<content type="html">&lt;blockquote&gt; &lt;p class="tagline"&gt;&lt;a class="author id-t2_3ozl8" href="http://www.reddit.com/user/gamewav"&gt;gamewav&lt;/a&gt;&lt;span class="userattrs"&gt; &lt;/span&gt; -&amp;#0160;Have you ever met Tim Lincecum?&lt;/p&gt; &lt;p class="tagline"&gt;&lt;a class="author submitter id-t2_48izf" href="http://www.reddit.com/user/vorpaldinger"&gt;vorpaldinger&lt;/a&gt;&lt;span class="userattrs"&gt; - &lt;/span&gt;No, but I imagine this is another person I&amp;#39;d have to get in a sword fight with. There can be only one.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Otherwise thoughtful &lt;a href="http://www.reddit.com/r/IAmA/comments/cyal4/iama_wiley_wiggins/"&gt;Q&amp;amp;A&lt;/a&gt; with &lt;a href="http://wileywiggins.com/" target="_self"&gt;friend of hello, typepad Wiley Wiggins&lt;/a&gt; (vorpaldinger).&lt;/p&gt;</content>
+		</a:object>
+		<content type="html"> &lt;blockquote&gt; &lt;p class="tagline"&gt;&lt;a class="author id-t2_3ozl8" href="http://www.reddit.com/user/gamewav"&gt;gamewav&lt;/a&gt;&lt;span class="userattrs"&gt; &lt;/span&gt; -&amp;#0160;Have you ever met Tim Lincecum?&lt;/p&gt; &lt;p class="tagline"&gt;&lt;a class="author submitter id-t2_48izf" href="http://www.reddit.com/user/vorpaldinger"&gt;vorpaldinger&lt;/a&gt;&lt;span class="userattrs"&gt; - &lt;/span&gt;No, but I imagine this is another person I&amp;#39;d have to get in a sword fight with. There can be only one.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Otherwise thoughtful &lt;a href="http://www.reddit.com/r/IAmA/comments/cyal4/iama_wiley_wiggins/"&gt;Q&amp;amp;A&lt;/a&gt; with &lt;a href="http://wileywiggins.com/" target="_self"&gt;friend of hello, typepad Wiley Wiggins&lt;/a&gt; (vorpaldinger).&lt;/p&gt;</content>
+		<link rel="alternate" type="text/html" href="http://hello.typepad.com/hello/2010/08/iama-wiley-wiggins-iama.html"/>
+	</entry>
+</feed>

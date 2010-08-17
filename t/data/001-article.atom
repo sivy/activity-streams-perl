@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:t="http://purl.org/syndication/thread/1.0" xmlns:a="http://activitystrea.ms/spec/1.0/" xmlns:media="http//purl.org/syndication/atommedia">
+	<title>markpasc's Activity</title>
+	<link rel="self" type="application/atom+xml" href="http://profile.typepad.com/markpasc/activity/atom.xml"/>
+	<link rel="alternate" type="text/html" title="markpasc's Profile" href="http://profile.typepad.com/markpasc"/>
+	<link rel="hub" href="http://hubbub.api.typepad.com/"/>
+	<generator uri="http://www.typepad.com/">TypePad</generator>
+	<a:service>
+		<title>TypePad</title>
+		<link rel="icon" href="http://www.typepad.com/favicon.ico"/>
+		<link rel="alternate" href="http://www.typepad.com/"/>
+	</a:service>
+	<id>tag:typepad.com,2003:profile.typepad.com/services/activity/atom/</id>
+	<author>
+		<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
+		<name>markpasc</name>
+		<a:object-type>http://activitystrea.ms/schema/1.0/person</a:object-type>
+		<uri>http://profile.typepad.com/markpasc</uri>
+		<link rel="alternate" type="text/html" href="http://profile.typepad.com/markpasc"/>
+		<link rel="preview" type="image/jpeg" href="http://up3.typepad.com/6a00d83451ce6b69e20133f2e40bfd970b-75si"/>
+	</author>
+	<!-- POST -->
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20133f2f032eb970b</id>
+		<title type="text"> markpasc posted an entry </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/post</a:verb>
+		<published>2010-08-09T04:53:39Z</published>
+		<updated>2010-08-09T04:53:39Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20133f2f032de970b</id>
+			<title type="text">TV: Studio 60</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/article</a:object-type>
+			<published>2010-08-09T04:53:38Z</published>
+			<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/08/tv-studio-60.html"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
+				<name>markpasc</name>
+				<uri>http://profile.typepad.com/markpasc</uri>
+			</author>
+			<content type="html">&lt;p class="at-xid-6a00d83451ce6b69e20133f2f03453970b"&gt;Oh, cool:&lt;/p&gt; &lt;p&gt;&lt;style type='text/css'&gt;.bbpBox20580548627 {background:url(http://a3.twimg.com/profile_background_images/46344623/fcptwitterbackground_02.jpg) #4B4B4B;padding:20px;} p.bbpTweet{background:#fff;padding:10px 12px 10px 12px;margin:0;min-height:48px;color:#000;font-size:18px !important;line-height:22px;-moz-border-radius:5px;-webkit-border-radius:5px} p.bbpTweet span.metadata{display:block;width:100%;clear:both;margin-top:8px;padding-top:12px;height:40px;border-top:1px solid #fff;border-top:1px solid #e6e6e6} p.bbpTweet span.metadata span.author{line-height:19px} p.bbpTweet span.metadata span.author img{float:left;margin:0 7px 0 0px;width:38px;height:38px} p.bbpTweet a:hover{text-decoration:underline}p.bbpTweet span.timestamp{font-size:12px;display:block}&lt;/style&gt; &lt;div class='bbpBox20580548627'&gt;&lt;p class='bbpTweet'&gt;Goddamn. The Studio 60 pilot is so incredible. It brings me to tears everytime I watch it. If you haven't seen it, queue it up on Netflix.&lt;span class='timestamp'&gt;&lt;a title='Sat Aug 07 21:57:30 +0000 2010' href='http://twitter.com/ryanodonnell/status/20580548627'&gt;less than a minute ago&lt;/a&gt; via &lt;a href="http://twitterrific.com" rel="nofollow"&gt;Twitterrific&lt;/a&gt;&lt;/span&gt;&lt;span class='metadata'&gt;&lt;span class='author'&gt;&lt;a href='http://twitter.com/ryanodonnell'&gt;&lt;img src='http://a1.twimg.com/profile_images/272137841/profile_newmuseum_normal.jpg' /&gt;&lt;/a&gt;&lt;strong&gt;&lt;a href='http://twitter.com/ryanodonnell'&gt;Ryan O'Donnell&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;ryanodonnell&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="http://www.netflix.com/WiMovie/Studio_60_on_the_Sunset_Strip_The_Complete_Series/70057023"&gt;&lt;em&gt;Studio 60 on the Sunset Strip&lt;/em&gt;&lt;/a&gt; is on Netflix streaming &lt;a href="http://markpasc.typepad.com/blog/2010/08/patv.html"&gt;too&lt;/a&gt;.&lt;/p&gt; &lt;div id="studio-60-netflix-box" class="netflix-box netflix-box-center pkg"&gt; &lt;a href="http://www.netflix.com/WiMovie/Studio_60_on_the_Sunset_Strip_The_Complete_Series/70057023"&gt;&lt;img class="boxshot" src="http://cdn-7.nflximg.com/us/boxshots/large/70057023.jpg" width="110" height="150"&gt;&lt;/a&gt; &lt;script src="http://jsapi.netflix.com/us/api/js/api.js"&gt; { "title_id" : "http://api.netflix.com/catalog/movie/70057023", "button_type" : ["PLAY_BUTTON", "ADD_BUTTON"], "show_logo" : "true", "x" : "40", "y" : "20", "dom_id" : "studio-60-netflix-box", "application_id": "7hh3quudsagcubp5g6v5navw" } &lt;/script&gt; &lt;/div&gt; </content>
+		</a:object>
+		<content type="html"> &lt;p class="at-xid-6a00d83451ce6b69e20133f2f03453970b"&gt;Oh, cool:&lt;/p&gt; &lt;p&gt;&lt;style type='text/css'&gt;.bbpBox20580548627 {background:url(http://a3.twimg.com/profile_background_images/46344623/fcptwitterbackground_02.jpg) #4B4B4B;padding:20px;} p.bbpTweet{background:#fff;padding:10px 12px 10px 12px;margin:0;min-height:48px;color:#000;font-size:18px !important;line-height:22px;-moz-border-radius:5px;-webkit-border-radius:5px} p.bbpTweet span.metadata{display:block;width:100%;clear:both;margin-top:8px;padding-top:12px;height:40px;border-top:1px solid #fff;border-top:1px solid #e6e6e6} p.bbpTweet span.metadata span.author{line-height:19px} p.bbpTweet span.metadata span.author img{float:left;margin:0 7px 0 0px;width:38px;height:38px} p.bbpTweet a:hover{text-decoration:underline}p.bbpTweet span.timestamp{font-size:12px;display:block}&lt;/style&gt; &lt;div class='bbpBox20580548627'&gt;&lt;p class='bbpTweet'&gt;Goddamn. The Studio 60 pilot is so incredible. It brings me to tears everytime I watch it. If you haven't seen it, queue it up on Netflix.&lt;span class='timestamp'&gt;&lt;a title='Sat Aug 07 21:57:30 +0000 2010' href='http://twitter.com/ryanodonnell/status/20580548627'&gt;less than a minute ago&lt;/a&gt; via &lt;a href="http://twitterrific.com" rel="nofollow"&gt;Twitterrific&lt;/a&gt;&lt;/span&gt;&lt;span class='metadata'&gt;&lt;span class='author'&gt;&lt;a href='http://twitter.com/ryanodonnell'&gt;&lt;img src='http://a1.twimg.com/profile_images/272137841/profile_newmuseum_normal.jpg' /&gt;&lt;/a&gt;&lt;strong&gt;&lt;a href='http://twitter.com/ryanodonnell'&gt;Ryan O'Donnell&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;ryanodonnell&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="http://www.netflix.com/WiMovie/Studio_60_on_the_Sunset_Strip_The_Complete_Series/70057023"&gt;&lt;em&gt;Studio 60 on the Sunset Strip&lt;/em&gt;&lt;/a&gt; is on Netflix streaming &lt;a href="http://markpasc.typepad.com/blog/2010/08/patv.html"&gt;too&lt;/a&gt;.&lt;/p&gt; &lt;div id="studio-60-netflix-box" class="netflix-box netflix-box-center pkg"&gt; &lt;a href="http://www.netflix.com/WiMovie/Studio_60_on_the_Sunset_Strip_The_Complete_Series/70057023"&gt;&lt;img class="boxshot" src="http://cdn-7.nflximg.com/us/boxshots/large/70057023.jpg" width="110" height="150"&gt;&lt;/a&gt; &lt;script src="http://jsapi.netflix.com/us/api/js/api.js"&gt; { "title_id" : "http://api.netflix.com/catalog/movie/70057023", "button_type" : ["PLAY_BUTTON", "ADD_BUTTON"], "show_logo" : "true", "x" : "40", "y" : "20", "dom_id" : "studio-60-netflix-box", "application_id": "7hh3quudsagcubp5g6v5navw" } &lt;/script&gt; &lt;/div&gt; </content>
+		<link rel="alternate" type="text/html" href="http://markpasc.typepad.com/blog/2010/08/tv-studio-60.html"/>
+		<a:target>
+			<id>tag:api.typepad.com,2009:6a00d83451ce6b69e20120a81fb3a4970b</id>
+			<title type="text">markpasc</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/blog</a:object-type>
+		</a:target>
+	</entry>
+</feed>

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:t="http://purl.org/syndication/thread/1.0" xmlns:a="http://activitystrea.ms/spec/1.0/" xmlns:media="http//purl.org/syndication/atommedia">
+	<title>markpasc's Activity</title>
+	<link rel="self" type="application/atom+xml" href="http://profile.typepad.com/markpasc/activity/atom.xml"/>
+	<link rel="alternate" type="text/html" title="markpasc's Profile" href="http://profile.typepad.com/markpasc"/>
+	<link rel="hub" href="http://hubbub.api.typepad.com/"/>
+	<generator uri="http://www.typepad.com/">TypePad</generator>
+	<a:service>
+		<title>TypePad</title>
+		<link rel="icon" href="http://www.typepad.com/favicon.ico"/>
+		<link rel="alternate" href="http://www.typepad.com/"/>
+	</a:service>
+	<id>tag:typepad.com,2003:profile.typepad.com/services/activity/atom/</id>
+	<author>
+		<id>tag:api.typepad.com,2009:6p00d83451ce6b69e2</id>
+		<name>markpasc</name>
+		<a:object-type>http://activitystrea.ms/schema/1.0/person</a:object-type>
+		<uri>http://profile.typepad.com/markpasc</uri>
+		<link rel="alternate" type="text/html" href="http://profile.typepad.com/markpasc"/>
+		<link rel="preview" type="image/jpeg" href="http://up3.typepad.com/6a00d83451ce6b69e20133f2e40bfd970b-75si"/>
+	</author>
+	<!-- PHOTO -->
+	<entry>
+		<id>tag:api.typepad.com,2009:6e00d83451ce6b69e20133f2e5bf7f970b</id>
+		<title type="text"> markpasc added 'a face' as a favorite </title>
+		<a:verb>http://activitystrea.ms/schema/1.0/favorite</a:verb>
+		<published>2010-08-07T00:08:55Z</published>
+		<updated>2010-08-07T00:08:55Z</updated>
+		<a:object>
+			<id>tag:api.typepad.com,2009:6a010535617444970b0133f2e578f3970b</id>
+			<title type="text">a face</title>
+			<a:object-type>http://activitystrea.ms/schema/1.0/photo</a:object-type>
+			<published>2010-08-06T22:41:06Z</published>
+			<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a010535617444970b0133f2e578f3970b"/>
+			<author>
+				<id>tag:api.typepad.com,2009:6p010535617444970b</id>
+				<name>Martin Atkins</name>
+				<uri>http://profile.typepad.com/apparentlymart</uri>
+			</author>
+			<link rel="preview" type="image/jpeg" href="http://a3.typepad.com/6a010535617444970b0133f2e578f3970b-150si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a3.typepad.com/6a010535617444970b0133f2e578f3970b-640si"/>
+			<link rel="enclosure" type="image/jpeg" href="http://a3.typepad.com/6a010535617444970b0133f2e578f3970b-pi"/>
+			<content type="html"/>
+		</a:object>
+		<content type="html"> </content>
+		<link rel="alternate" type="text/html" href="http://make-a-face.org/entry/6a010535617444970b0133f2e578f3970b"/>
+	</entry>
+</feed>
