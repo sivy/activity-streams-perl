@@ -4,9 +4,6 @@ use strict;
 
 use Test::More tests => 9;
 
-require_ok('XML::Atom::Activity::ActivityFeed');
-require_ok('XML::Atom::Activity::ActivityEntry');
-
 require_ok('ActivityStreams::Parser');
 require_ok('ActivityStreams::Parser::Atom');
 require_ok('ActivityStreams::Parser::JSON');
